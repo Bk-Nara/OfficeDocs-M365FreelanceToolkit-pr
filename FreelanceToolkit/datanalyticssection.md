@@ -28,7 +28,7 @@ freelance isn’t just a flash in the pan. That instead, by comparing it side by
 side with existing external staffing options, it is consistently better, faster,
 and cheaper by leaps and bounds.
 
-![A spending report in PowerBI](media/M365_Freelance_GigEcononmy_SpendReport_800x450.png)
+![A spending report in PowerBI](media/M365_Freelance_visibility_freelancerreport.png)
 
 -   [Learn how Chad increased spend and adoption by leveraging a data-centric
 approach](dataanalyticscasestudy.md)
