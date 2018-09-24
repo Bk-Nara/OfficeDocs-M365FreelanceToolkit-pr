@@ -1,16 +1,17 @@
 ---
 title: Team-wide collaboration
 description: Use Microsoft Teams to facilitate team-wide collaboration in an enterprise freelance program
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 
-ms.service: 
+ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
-ms.author: samanro
+ms.author: matthewrmottola1
 localization_priority: None 
+ms.custom: M365FreelanceToolkit
 ---
 Team-wide collaboration
 ===========================
@@ -29,9 +30,9 @@ communication, collaboration, and project management, she was able not only to
 hit her team's goal two weeks early, but bring an internal transformation
 solution to her entire 150 person organization.
 
-![Play](media/video-play.png)
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RWm2wV&AutoPlayVideo=false]
 
-[Learn how Beth internally transformed her hybrid full time employee and
+-   [Learn how Beth internally transformed her hybrid full time employee and
 freelance teams](teamwidecollaborationcasestudy.md)
 
 Challenge in the Enterprise
@@ -136,7 +137,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Case study</h3>
                         <p>Learn how Beth, a training manager leading a team of four full time employees and a continuous flow of freelancers, increased her teams training video output by 120% through internally transforming the way they communicated, collaborated, and project managed the production of training videos.</p>
-                        <p><a href="workflowautomationcasestudy.md">Learn more</a></p>
+                        <p><a href="teamwidecollaborationcasestudy.md">Learn more</a></p>
                     </div>
                 </div>
             </div>
@@ -154,7 +155,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Share within your organization</h3>
                         <p>Download an infographic to share how your organization can internally transform the way you communicate, collaborate, and project manage a hybrid full-time-employee and freelance workforce.</p>
-                        <p><a href="">Download the infographic</a></p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-TeamCollaboration.pdf">Download the infographic</a></p>
                     </div>
                 </div>
             </div>

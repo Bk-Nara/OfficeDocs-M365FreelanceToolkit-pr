@@ -1,16 +1,17 @@
 ---
 title: Internal communication & awareness
 description: How to set up internal communications about an enterprise freelancer program 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 
-ms.service: 
+ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
-ms.author: samanro
+ms.author: matthewrmottola1
 localization_priority: None 
+ms.custom: M365FreelanceToolkit
 ---
 Internal communication & awareness
 ======================================
@@ -153,25 +154,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Communication site engagement template</h3>
                         <p>Start customizing your communications site template in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
-                        <p><a href="sharepointengagementtemplate.md">Download the communications site engagement template</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/subsite.png" alt="A site template icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Deploy communications site</h3>
-                        <p>Start building your communications site today with our prepopulated template. The communications site template is completely customizable, but we have curated many of our best practices into the template. Enjoy!. </p>
-                        <p><a href="https://microsoft.sharepoint-df.com/teams/MSFTUpworkTeam/Shared%20Documents/Expert%20Marketplace/SharePoint%20Comms%20Site.PNG">Deploy communications site</a></p>
+                        <p><a href="sharepointengagementtemplate.md">View the communications site engagement template</a></p>
                     </div>
                 </div>
             </div>
@@ -189,7 +172,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Share within your organization</h3>
                         <p>Download an infographic to share how your organization can drive awareness amongst internal stakeholders and adopters with this visual one-page guide.</p>
-                        <p><a href="">Download the infographic</a></p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-InternalCommunication.pdf">Download the infographic</a></p>
                     </div>
                 </div>
             </div>

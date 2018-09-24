@@ -1,16 +1,17 @@
 ---
 title: Microsoft 365 freelance toolkit
 description: Launch and execute enterprise freelance programs at scale with this guidance 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 
-ms.service: 
+ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
-ms.author: samanro
+ms.author: matthewrmottola1
 localization_priority: None 
+ms.custom: M365FreelanceToolkit
 ---
 # Microsoft 365 freelance toolkit
 

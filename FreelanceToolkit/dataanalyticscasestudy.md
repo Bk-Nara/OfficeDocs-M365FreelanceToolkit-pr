@@ -1,15 +1,16 @@
 ---
 title: Data analytics case study 
 description: A case study about analyzing data about an enterprise freelance program 
-author: samanro
+author: matthewrmottola1
 manager: samanro
 ms.assetid: 
-ms.service: 
+ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: article
-ms.author: samanro
+ms.author: matthewrmottola1
 localization_priority: None 
+ms.custom: M365FreelanceToolkit
 ---
 Data analytics case study 
 ===================
@@ -34,9 +35,11 @@ They decide to work with Upwork to find experts in PowerBI that could build the 
 - Avg. contract duration 
 
 With Chad’s first responsibility of increasing demand, he can analyze the demand by the jobs category, the teams, and the exact individuals who posted each job. 
+
 ![Screenshot of the freelance jobs report dashboard](media/M365_Freelance_JobsReport-358x201.png)
 
 He can also see this demand through spend, filtering it by total spend per job category, total spend per month, and even spend per full time employee. 
+
 ![Screenshot of the freelance spending report dashboard](media/M365_Freelance_SpendDashboard-358x201.png)
 
 Chad can also put his freelance dashboards side by side with the external staffing dashboards to perform relevant analysis and comparisons. 

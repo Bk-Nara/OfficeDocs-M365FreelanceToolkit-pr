@@ -1,17 +1,17 @@
 ---
 title: Launch your freelance program
 description: Add a short description
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 
-ms.service: 
+ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
-ms.date: 12/13/2017
-ms.author: samanro
+ms.author: matthewrmottola1
 localization_priority: None 
+ms.custom: M365FreelanceToolkit
 ---
 Launch your freelance program
 =================================
@@ -56,6 +56,26 @@ technologies:
 - Microsoft PowerBI
 - Microsoft Flow
 
+<ul class="panelContent cardsF cols cols2">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/download-blue.png" alt="Downloadable infographic" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Share within your organization</h3>
+                        <p>Download an infographic to understand how your organization can get started with a freelance program with this visual one-page guide.</p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-FreelanceProgram.pdf">Download the infographic</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
 
 Start building your own freelance program through the toolkit
 

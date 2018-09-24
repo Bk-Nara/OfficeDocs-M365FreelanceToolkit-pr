@@ -1,16 +1,17 @@
 ---
 title: Workflow automation
 description: Use Microsoft Flow to automate workflow tasks in an enterprise freelance program
-author: samanro
+author: matthewrmottola1
 manager: samanro
 layout: LandingPage
 ms.assetid: 
-ms.service: 
+ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
 ms.topic: landing-page
-ms.author: samanro
+ms.author: matthewrmottola1
 localization_priority: None 
+ms.custom: M365FreelanceToolkit
 ---
 Workflow automation
 ===================
@@ -35,7 +36,7 @@ By automating these administrative, operational, and manual tasks, Liane was
 able to focus on growing demand and retention within the program by providing a
 frictionless experience for the end user.
 
-[Learn how Liane used if this, then that, logic to automate repetitive, manual
+-   [Learn how Liane used if this, then that, logic to automate repetitive, manual
 tasks within a freelance
 program](workflowautomationcasestudy.md)
 
@@ -84,31 +85,13 @@ Learn more with the following resources
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/deploy-blue.png" alt="A box with an arrow meaning deploy" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Deploy Flow product templates</h3>
-                        <p>Start building your communications site today with our prepopulated template. The communications site template is completely customizable, but we have curated many of our best practices into the template. Enjoy!</p>
-                        <p><a href="https://preview.flow.microsoft.com/en-us/templates/">Deploy Flow template</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
                             <img src="media/bill-blue.png" alt="A job posting template icon" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3>Flow engagement template</h3>
                         <p>Start customizing your flow templates in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
-                        <p><a href="flowengagementtemplate.md">Download the Flow engagement template.</a></p>
+                        <p><a href="flowengagementtemplate.md">View the Flow engagement template.</a></p>
                     </div>
                 </div>
             </div>
@@ -126,7 +109,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Share within your organization</h3>
                         <p>Download an infographic to share how your organization can drive awareness amongst internal stakeholders and adopters with this visual one-page guide.</p>
-                        <p><a href="">Download the infographic</a></p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-WorkFlowAutomation.pdf">Download the infographic</a></p>
                     </div>
                 </div>
             </div>
