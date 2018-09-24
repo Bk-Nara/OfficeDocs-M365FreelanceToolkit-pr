@@ -106,7 +106,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Share within your organization</h3>
                         <p>Download an infographic to share how your organization can drive awareness amongst internal stakeholders and adopters with this PowerBI visual one-page guide.</p>
-                        <p><a href="">Download the infographic</a></p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-DataAnalytics.pdf">Download the infographic</a></p>
                     </div>
                 </div>
             </div>

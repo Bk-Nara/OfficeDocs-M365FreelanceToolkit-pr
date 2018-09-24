@@ -56,6 +56,26 @@ technologies:
 - Microsoft PowerBI
 - Microsoft Flow
 
+<ul class="panelContent cardsF cols cols2">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/download-blue.png" alt="Downloadable infographic" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Share within your organization</h3>
+                        <p>Download an infographic to understand how your organization can get started with a freelance program with this visual one-page guide.</p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-FreelanceProgram.pdf">Download the infographic</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
 
 Start building your own freelance program through the toolkit
 
