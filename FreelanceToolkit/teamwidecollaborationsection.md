@@ -155,7 +155,7 @@ Learn more with the following resources
                     <div class="cardText">
                         <h3>Share within your organization</h3>
                         <p>Download an infographic to share how your organization can internally transform the way you communicate, collaborate, and project manage a hybrid full-time-employee and freelance workforce.</p>
-                        <p><a href="">Download the infographic</a></p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-TeamCollaboration.pdf">Download the infographic</a></p>
                     </div>
                 </div>
             </div>
