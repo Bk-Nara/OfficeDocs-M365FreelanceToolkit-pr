@@ -15,8 +15,10 @@ ms.custom: M365FreelanceToolkit
 ---
 # Microsoft 365 freelance toolkit
 
-<h2>Launch and execute enterprise freelance programs at scale</h2>
-​<P>Unlock new levels of innovation and efficiency within your organization by extending your fulltime and contingent staff employees with freelancers.</p>
+With the increasing adoption of the gig economy, enterprises are beginning to integrate freelance talent into their already-complex sourcing models. While adding freelancers to the mix can offer significant benefits in enterprise environments, the path to transforming existing policies and processes is largely undefined.
+
+Like many of our industry peers, Microsoft is also in the process of navigating how to responsibly weave freelance engagement into our enterprise environment. As we stood up our program, we realized that other enterprises might find it useful to learn more about how we’re changing and adapting to this flexible environment, including how we're configuring and using Microsoft 365 tools.
+
 
 
 <ul class="panelContent cardsW cols cols2">
