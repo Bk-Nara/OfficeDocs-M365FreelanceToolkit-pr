@@ -133,7 +133,7 @@ Ready to get started?
     </li>
     <li>
         <p>Next, let your employees know what's possible!</p>
-        <ul class="panelContent cardsF cols cols1">
+        <ul class="panelContent cardsF">
             <li>
                 <div class="cardSize">
                     <div class="cardPadding">

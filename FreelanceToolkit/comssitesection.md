@@ -94,7 +94,7 @@ Case study: Fast onboarding
 ---------------------------
 Because we've invested time in establishing our communication site as the single source of information about the freelance program at Microsoft, employees are able to ramp up quickly and get their questions answered.
 
-<ul class="panelContent cardsF">
+<ul class="panelContent cardsF" cols col1>
     <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -122,7 +122,7 @@ Ready to get started?
         <p>Your first step is to customize a freelance program communication site to meet the needs of your company.</p>
         <p>You can <a href="https://support.office.com/article/94a33429-e580-45c3-a090-5512a8070732">do this customization work yourself</a>, but another option is to engage a freelancer to help with this work.</p>
         <p>For example, here’s a description that you could use to engage a freelancer to help customize your communication site:</p>
-            <ul class="panelContent cardsF cols">
+            <ul class="panelContent cardsF">
                 <li>
                     <div class="cardSize">
                         <div class="cardPadding">

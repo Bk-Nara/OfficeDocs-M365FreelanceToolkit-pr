@@ -33,7 +33,7 @@ With [Microsoft Power BI](https://powerbi.microsoft.com/), a suite of business a
 Case study: Increased adoption
 -----------------------------
 
-At Microsoft, we've found that data can be a powerful adoption driver for implementing a freelance program.
+At Microsoft, we've found that data can be a powerful adoption driver for implementing a freelance program. By comparing freelance results with 
 
 <ul class="panelContent cardsF">
     <li>
