@@ -94,7 +94,7 @@ Case study: Fast onboarding
 ---------------------------
 Because we've invested time in establishing our communication site as the single source of information about the freelance program at Microsoft, employees are able to ramp up quickly and get their questions answered.
 
-<ul class="panelContent cardsF" cols col1>
+<ul class="panelContent cardsF">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -119,7 +119,7 @@ Ready to get started?
 
 <ol>
     <li>
-        <p>Your first step is to customize a freelance program communication site to meet the needs of your company.</p>
+        <p>Your first step is to customize a freelance program communication site to meet the needs of your enterprise.</p>
         <p>You can <a href="https://support.office.com/article/94a33429-e580-45c3-a090-5512a8070732">do this customization work yourself</a>, but another option is to engage a freelancer to help with this work.</p>
         <p>For example, here’s a description that you could use to engage a freelancer to help customize your communication site:</p>
             <ul class="panelContent cardsF">
@@ -133,7 +133,7 @@ Ready to get started?
                                     </div>
                                 </div>
                                 <div class="cardText">
-                                    <h3>SharePoint consultant/architect needed to customize communication site</h3>
+                                    <h3>SharePoint consultant/architect needed to customize a communication site</h3>
                                     <p>Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and manages calendar events. Site should be built so that we can leverage features, flows, checklists, and approvals to enhance automation at a future point.</p>
                                 </div>
                             </div>

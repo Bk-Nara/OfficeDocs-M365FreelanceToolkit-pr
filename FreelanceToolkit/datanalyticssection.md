@@ -31,9 +31,9 @@ With [Microsoft Power BI](https://powerbi.microsoft.com/), a suite of business a
 ![A spending report in PowerBI](media/M365_Freelance_visibility_freelancerreport.png)
 
 Case study: Increased adoption
------------------------------
+------------------------------
 
-At Microsoft, we've found that data can be a powerful adoption driver for implementing a freelance program. By comparing freelance results with 
+At Microsoft, we've found that data can be a powerful adoption driver for implementing a freelance program. Comparing freelance results with external staffing options has helped us understand where freelance talent is best applied within our enterprise.
 
 <ul class="panelContent cardsF">
     <li>
@@ -46,9 +46,8 @@ At Microsoft, we've found that data can be a powerful adoption driver for implem
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Case study</h3>
-                        <p>Learn how Chad, a director of strategic sourcing, and a procurement leader on the Gig Economy v-team, increased spend and adoption of the freelance program by leveraging a data-centric approach.</p>
-                        <p><a href="dataanalyticscasestudy.md">Learn more</a></p>
+                        <p>Learn how Chad, a director of strategic sourcing in Microsoft Procurement, increased spend and adoption of our freelance program by leveraging a data-centric approach.</p>
+                        <p><a href="dataanalyticscasestudy.md">LEARN MORE</a></p>
                     </div>
                 </div>
             </div>
@@ -56,62 +55,56 @@ At Microsoft, we've found that data can be a powerful adoption driver for implem
     </li>
 </ul>
 
-Learn more with the following resources
------------------------------------------
-<ul class="panelContent cardsF cols cols2">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/document.png" alt="a document icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Case study</h3>
-                        <p>Learn how Chad, a director of strategic sourcing, and a procurement leader on the Gig Economy v-team, increased spend and adoption of the freelance program by leveraging a data-centric approach.</p>
-                        <p><a href="dataanalyticscasestudy.md">Learn more</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/bill-blue.png" alt="A job posting template icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>PowerBI engagement template</h3>
-                        <p>Start customizing your PowerBI Dashboard in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
-                        <p><a href="powerbiengagementtemplate.md">View the PowerBI engagement template</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/download-blue.png" alt="Downloadable infographic" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Share within your organization</h3>
-                        <p>Download an infographic to share how your organization can drive awareness amongst internal stakeholders and adopters with this PowerBI visual one-page guide.</p>
-                        <p><a href="media/M365-FreelanceToolkit-TearSheet-DataAnalytics.pdf">Download the infographic</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
+Ready to get started?
+---------------------
 
+<ol>
+    <li>
+        <p>Start by customizing your Power BI dashboard to meet the needs of your enterprise.</p>
+        <p>You can do this work yourself, but another option is to engage a freelancer to help with this work.</p>
+        <p>For example, here's a description that you could use to engage a freelancer to help customize your Power BI dashboard:</p>
+        <ul class="panelContent cardsF cols cols2">
+            <li>
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/bill-blue.png" alt="A job posting template icon" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Power BI consultant/architect needed to customize a dashboard</h3>
+                                <p>Looking for an experienced individual with advanced skills in Power BI to build dashboards and data visualizations for our key KPIs: Speed, cost, quality.</p>
+                                <p>We will provide the Excel/Azure data, which needs to be converted into a consumable format for management that will help aid business decisions. We will need assistance with logical design, physical design, implementation, testing and deployment of the end-to-end solution. The Power BI developer should have a firm grasp of BI implementation methodologies and will have had in-depth experience with the Microsoft BI stack (SSIS, SSRS, and SSAS).</p>
+                                <p>Specific technical skills desired include: Relational database and SQL language, analytics/OLAP cube development, report development.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <p>Once your dashboard is live, the next step is to share it with key stakeholders across your enterprise, to help them understand which groups are seeing the most value from leveraging freelance talent.</p>
+        <ul class="panelContent cardsF cols cols2">
+            <li>
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/download-blue.png" alt="Downloadable infographic" />
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <p>This infographic can help stakeholders across your enterprise understand where they can research the value of your freelance program.</p>
+                                <p><a href="media/M365-FreelanceToolkit-TearSheet-DataAnalytics.pdf">DOWNLOAD</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </li>
+</ol>
