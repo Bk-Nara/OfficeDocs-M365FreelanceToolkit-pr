@@ -19,7 +19,6 @@ Team-wide collaboration
 While today’s freelancer tools work fine for 1:1 discussions, most enterprise projects are many:many where team members collaborate on projects in groups with many different working files and communication channels. To keep teams moving in the same direction while on various continents and various roles, they need one place to communicate and collaborate.
 
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/free) enables FTEs and freelancers to collaborate seamlessly, and supports integration with other Microsoft applications, such as [Microsoft Planner](https://products.office.com/en-us/business/task-management-software), as well as hundreds of third-party applications that your teams use to get work done.
-
 <ul class="panelContent cardsW cols cols2">
     <li>
         <div class="cardSize">
@@ -96,7 +95,7 @@ Case study: Increased output
 
 Because the team producing Office training content moved all of their operations into Microsoft Teams and Planner, they were able to increase their output and deliver more value to customers.
 
-<ul class="panelContent cardsF cols cols1">
+<ul class="panelContent cardsF">
     <li>
         <div class="cardSize">
             <div class="cardPadding">

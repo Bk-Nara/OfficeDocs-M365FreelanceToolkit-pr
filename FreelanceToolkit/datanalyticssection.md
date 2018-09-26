@@ -30,7 +30,32 @@ With [Microsoft Power BI](https://powerbi.microsoft.com/), a suite of business a
 
 ![A spending report in PowerBI](media/M365_Freelance_visibility_freelancerreport.png)
 
-Case study: 
+Case study: Increased adoption
+-----------------------------
+
+At Microsoft, we've found that data can be a powerful adoption driver for implementing a freelance program.
+
+<ul class="panelContent cardsF">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/document.png" alt="a document icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Case study</h3>
+                        <p>Learn how Chad, a director of strategic sourcing, and a procurement leader on the Gig Economy v-team, increased spend and adoption of the freelance program by leveraging a data-centric approach.</p>
+                        <p><a href="dataanalyticscasestudy.md">Learn more</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+
 Learn more with the following resources
 -----------------------------------------
 <ul class="panelContent cardsF cols cols2">

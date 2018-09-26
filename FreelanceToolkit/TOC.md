@@ -8,7 +8,7 @@
 
 # [Workflow automation](workflowautomationsection.md)
 
-# [Case studies]
+# Case studies
 ## [Case study: Internal communication and awareness](comssitecasestudy.md)
 ## [Case study: Team-wide collaboration](teamwidecollaborationcasestudy.md)
 ## [Case study: Data analytics](dataanalyticscasestudy.md)
