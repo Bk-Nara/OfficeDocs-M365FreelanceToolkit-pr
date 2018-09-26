@@ -19,7 +19,11 @@ With the increasing adoption of the gig economy, enterprises are beginning to in
 
 Like many of our industry peers, Microsoft is also in the process of navigating how to responsibly weave freelance engagement into our enterprise environment. As we stood up our program, we realized that other enterprises might find it useful to learn more about how we’re changing and adapting to this flexible environment, including how we're configuring and using Microsoft 365 tools.
 
+## What's in the toolkit?
 
+The Microsoft 365 Freelance Toolkit reflects what we’ve learned and configured to date to support our growing enterprise freelance operations, and was designed to help you leverage your existing technology investments to operate collaboratively with freelancers at scale.
+
+It includes templates, configuration guidance, and best practices for the four solution areas that we’ve found most impactful in our own enterprise, with case studies that give you our real-world experiences to draw from in your own transformation.
 
 <ul class="panelContent cardsW cols cols2">
     <li>
@@ -32,9 +36,9 @@ Like many of our industry peers, Microsoft is also in the process of navigating 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Leveraging freelancers in the enterprise</h3>
-                        <p>Get specific skills, create more time, or add workers with the gig economy.</p>
-                        <p><a href="leveragingfreelancers.md">LEARN MORE</a></p>
+                        <h3>Internal communications and awareness</h3>
+                        <p>Leverage a SharePoint communication site to help your internal employees learn how to leverage freelancers for their projects.</p>
+                        <p><a href="comssitesection.md">LEARN MORE</a></p>
                     </div>
                 </div>
             </div>
@@ -46,13 +50,49 @@ Like many of our industry peers, Microsoft is also in the process of navigating 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/M365_Freelance_homepage_opportunities.png" alt="A user symbol with a list, a chat box, and a report symbol" />
+                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Launch your freelance program</h3>
-                        <p>Leverage our tools, templates, and best practices within your existing M365 stack to launch and execute a freelance program at scale. </p>
-                        <p><a href="launchyourfreelanceprogram.md">GET STARTED</a></p>
+                        <h3>Team-wide collaboration</h3>
+                        <p>Facilitate communication and coordination between full-time employees, vendors, and freelancers using Microsoft Teams and Planner.</p>
+                        <p><a href="teamwidecollaborationsection.md">LEARN MORE</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Data analytics</h3>
+                        <p>Power BI offers quick dashboard access to interactive visualizations that help you track your freelance program’s adoption and health.</p>
+                        <p><a href="dataanalyticssection.md">LEARN MORE</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Workflow automation</h3>
+                        <p>Connect your program’s operational steps and reduce the need for manual, repetitive tasks with Microsoft Flow.</p>
+                        <p><a href="workflowautomationsection.md">LEARN MORE</a></p>
                     </div>
                 </div>
             </div>
