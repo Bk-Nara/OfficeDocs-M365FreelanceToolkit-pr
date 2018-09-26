@@ -13,7 +13,7 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-# Microsoft 365 freelance toolkit
+# Microsoft 365 Freelance Toolkit
 
 With the increasing adoption of the gig economy, enterprises are beginning to integrate freelance talent into their already-complex sourcing models. While adding freelancers to the mix can offer significant benefits in enterprise environments, the path to transforming existing policies and processes is largely undefined.
 
