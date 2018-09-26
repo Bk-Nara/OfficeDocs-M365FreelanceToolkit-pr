@@ -13,45 +13,17 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Internal communication & awareness
+Internal communication and awareness
 ======================================
 
-Communications site 
---------------------
+One of the major challenges of launching a freelancer program in the enterprise is driving awareness amongst internal stakeholders and adopters. People have questions from the basics of how to get started through to education and sharing of best practices.
 
-What if you could direct your employees to one place where they can get started
-in under an hour? A place where questions regarding topics like confidentiality,
-intellectual property, and how to get started are answered? Where employees can
-see past projects their colleagues have done?
+A [SharePoint communication site](https://support.office.com/article/94a33429-e580-45c3-a090-5512a8070732) enables you to provide your employees with a one-stop-shop for everything they need to know about the program.
 
 ![The internal Microsoft Gig Economy site](media/M365_Freelance_GigEconomySite_Screenshot_800x450.png)
 
-For Julie, a director leading two-cutting edge wearables in the smart product
-suite, this place enabled her to get up and running in a matter of hours. She
-initially was wary about confidentiality and exposing intellectual property,
-but through compliance training, FAQ’s, and seeing past freelance projects from
-her colleagues, she posted her first job and hired a five-star freelancer one of
-her colleagues had used within two days. With the freelancer designing an
-internal review deck that visually communicated features, market research, sales
-forecasts, and big data opportunities, she wowed her upper management to the
-point of securing funding for her project!
 
--   [Learn how Julie leveraged a communication site to get up and running in
-    hours](comssitecasestudy.md)
-
-Challenge in the enterprise
----------------------------
-
-One of the major challenges of launching a freelancer program in the enterprise
-is driving awareness amongst internal stakeholders and adopters. People have
-questions from the basics of how to get started through to education and sharing
-of best practices.
-
-The [Sharepoint Communication
-Site](https://support.office.com/en-us/article/what-is-a-sharepoint-communication-site-94a33429-e580-45c3-a090-5512a8070732)
-is a template intranet website that is designed to be your employees'
-one-stop-shop for everything they need to know about the program. While the site
-is completely customizable, we’ve included many of our best practices in the template, such as:
+At Microsoft, some of the elements we've customized our freelance site to include are:
 
 <ul class="panelContent cardsF cols cols2">
     <li>
@@ -64,7 +36,7 @@ is completely customizable, we’ve included many of our best practices in the t
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>A <a href="https://stream.microsoft.com/en-us/">Stream video</a> which can be used for initial onboarding and training requirements.</p>
+                        <p>A <a href="https://stream.microsoft.com/en-us/">Stream</a> video, which is used for initial onboarding and training requirements.</p>
                     </div>
                 </div>
             </div>
@@ -80,7 +52,7 @@ is completely customizable, we’ve included many of our best practices in the t
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>Visually appealing links to help users understand your company’s research and best practices. </p>
+                        <p>Clear and organized information to help users understand our company’s research and best practices.</p>
                     </div>
                 </div>
             </div>
@@ -96,7 +68,7 @@ is completely customizable, we’ve included many of our best practices in the t
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>Document repository for relevant documentation and presentations about the program. </p>
+                        <p>A [library](https://support.office.com/article/306728fe-0325-4b28-b60d-f902e1d75939) for relevant documentation and presentations about the program.</p>
                     </div>
                 </div>
             </div>
@@ -112,7 +84,7 @@ is completely customizable, we’ve included many of our best practices in the t
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>An FAQ pre-seeded with the top questions we’ve seen from our employees.</p>
+                        <p>An FAQ that answers the top questions we’ve seen from our employees.</p>
                     </div>
                 </div>
             </div>
@@ -120,8 +92,9 @@ is completely customizable, we’ve included many of our best practices in the t
     </li>
 </ul>
 
-Learn more with the following resources
----------------------------------------
+Case study: Fast onboarding
+---------------------------
+Because we've invested time in establishing our communication site as the single source of information about the freelance program at Microsoft, employees are able to ramp up quickly and get their questions answered.
 
 <ul class="panelContent cardsF cols cols2">
     <li>
@@ -134,48 +107,62 @@ Learn more with the following resources
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Case study</h3>
-                        <p>Learn how Julie, a senior director, navigated the compliance grounds of intellectual property when using freelancers to design an internal review deck.</p>
-                        <p><a href="comssitecasestudy.md">Learn more</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/bill-blue.png" alt="A job posting template icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Communication site engagement template</h3>
-                        <p>Start customizing your communications site template in accordance with your enterprise today. We have curated many of our engagement best practices, including the ideal job description, skills needed, and price point.</p>
-                        <p><a href="sharepointengagementtemplate.md">View the communications site engagement template</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="media/download-blue.png" alt="Downloadable infographic" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Share within your organization</h3>
-                        <p>Download an infographic to share how your organization can drive awareness amongst internal stakeholders and adopters with this visual one-page guide.</p>
-                        <p><a href="media/M365-FreelanceToolkit-TearSheet-InternalCommunication.pdf">Download the infographic</a></p>
+                        <p>Learn how Julie, a senior director at Microsoft, navigated the compliance grounds of intellectual property when using freelancers to design an internal review deck.</p>
+                        <p><a href="comssitecasestudy.md">LEARN MORE</a></p>
                     </div>
                 </div>
             </div>
         </div>
     </li>
 </ul>
+
+Ready to get started?
+---------------------------------------
+
+<ol>
+    <li>
+        <p>Your first step is to [customize a freelance program communication site](https://support.office.com/article/94a33429-e580-45c3-a090-5512a8070732) to meet the needs of your company.</p>
+        <p>For example, here’s a description that you could use to engage a freelancer to help customize your communication site:</p>
+            <ul class="panelContent cardsF cols cols2">
+                <li>
+                    <div class="cardSize">
+                        <div class="cardPadding">
+                            <div class="card">
+                                <div class="cardImageOuter">
+                                    <div class="cardImage">
+                                        <img src="media/bill-blue.png" alt="A job posting template icon" />
+                                    </div>
+                                </div>
+                                <div class="cardText">
+                                    <h3>SharePoint consultant/architect needed to customize communication site</h3>
+                                    <p>Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and manages calendar events. Site should be built so that we can leverage features, flows, checklists, and approvals to enhance automation at a future point.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+    </li>
+    <li>
+        <p>Once your site is live, the next step is to share it broadly throughout your organization, to increase awareness of your freelance program.</p>
+            <ul class="panelContent cardsF cols cols2">
+                <li>
+                    <div class="cardSize">
+                        <div class="cardPadding">
+                            <div class="card">
+                                <div class="cardImageOuter">
+                                    <div class="cardImage">
+                                        <img src="media/download-blue.png" alt="Downloadable infographic" />
+                                    </div>
+                                </div>
+                                <div class="cardText">
+                                    <p>This infographic can help you drive awareness with internal stakeholders and adopters.</p>
+                                    <p><a href="media/M365-FreelanceToolkit-TearSheet-InternalCommunication.pdf">DOWNLOAD</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+    </li>
+</ol>
