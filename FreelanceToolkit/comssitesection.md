@@ -22,9 +22,7 @@ A [SharePoint communication site](https://support.office.com/article/94a33429-e5
 
 ![The internal Microsoft Gig Economy site](media/M365_Freelance_GigEconomySite_Screenshot_800x450.png)
 
-
 At Microsoft, some of the elements we've customized our freelance site to include are:
-
 <ul class="panelContent cardsF cols cols2">
     <li>
         <div class="cardSize">
@@ -96,7 +94,7 @@ Case study: Fast onboarding
 ---------------------------
 Because we've invested time in establishing our communication site as the single source of information about the freelance program at Microsoft, employees are able to ramp up quickly and get their questions answered.
 
-<ul class="panelContent cardsF cols cols2">
+<ul class="panelContent cardsF cols cols1">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -117,13 +115,14 @@ Because we've invested time in establishing our communication site as the single
 </ul>
 
 Ready to get started?
----------------------------------------
+---------------------
 
 <ol>
     <li>
-        <p>Your first step is to [customize a freelance program communication site](https://support.office.com/article/94a33429-e580-45c3-a090-5512a8070732) to meet the needs of your company.</p>
+        <p>Your first step is to customize a freelance program communication site to meet the needs of your company.</p>
+        <p>You can <a href="https://support.office.com/article/94a33429-e580-45c3-a090-5512a8070732">do this customization work yourself</a>, but another option is to engage a freelancer to help with this work.</p>
         <p>For example, here’s a description that you could use to engage a freelancer to help customize your communication site:</p>
-            <ul class="panelContent cardsF cols cols2">
+            <ul class="panelContent cardsF cols cols1">
                 <li>
                     <div class="cardSize">
                         <div class="cardPadding">
@@ -145,7 +144,7 @@ Ready to get started?
     </li>
     <li>
         <p>Once your site is live, the next step is to share it broadly throughout your organization, to increase awareness of your freelance program.</p>
-            <ul class="panelContent cardsF cols cols2">
+            <ul class="panelContent cardsF cols cols1">
                 <li>
                     <div class="cardSize">
                         <div class="cardPadding">
