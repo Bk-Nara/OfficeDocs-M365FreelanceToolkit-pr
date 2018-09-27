@@ -16,16 +16,87 @@ ms.custom: M365FreelanceToolkit
 Microsoft 365 Freelance Toolkit
 ===============================
 
-With the increasing adoption of the gig economy, enterprises are beginning to integrate freelance talent into their already-complex sourcing models. While adding freelancers to the mix can offer significant benefits in enterprise environments, the path to transforming existing policies and processes is largely undefined.
+With the increasing adoption of the gig economy, enterprises are beginning to integrate freelance talent into their already-complex sourcing models. Like many of our industry peers, Microsoft is also in the process of navigating how to responsibly weave freelance engagement into our enterprise environment.
 
-Like many of our industry peers, Microsoft is also in the process of navigating how to responsibly weave freelance engagement into our enterprise environment. As we stood up our program, we realized that other enterprises might find it useful to learn more about how we’re changing and adapting to this flexible environment, including how we're configuring and using Microsoft 365 tools.
+The Microsoft 365 Freelance Toolkit builds on your existing technology investments and provides tools, templates, and best practices to help your employees operate collaboratively with freelancers at scale.
+
+<ul class="panelContent cardsW cols cols2">
+    <li>
+        <a href="  " data-linktype="relative-path">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="  " data-linktype="relative-path">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Internal awareness and communication</h3>
+                        <p>Use a SharePoint communication site to help your internal employees learn how to leverage freelancers for their projects.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
+<ul class="panelContent cardsW cols cols2">
+    <li>
+        <a href="  " data-linktype="relative-path">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+    <li>
+        <a href="  " data-linktype="relative-path">
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3>Team-wide collaboration</h3>
+                        <p>Facilitate communication and coordination between full-time employees, vendors, and freelancers using Microsoft Teams and Microsoft Planner.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
+</ul>
+
 
 What's in the toolkit?
 ----------------------
 
-The Microsoft 365 Freelance Toolkit reflects what we’ve learned and configured to date to support our growing enterprise freelance operations, and was designed to help you leverage your existing technology investments to operate collaboratively with freelancers at scale.
+The Microsoft 365 Freelance Toolkit includes tools, templates, and best practices based on our experiences with our own growing enterprise freelance program. It builds on your existing technology investments to operate collaboratively with freelancers at scale.
 
 It includes templates, configuration guidance, and best practices for the four solution areas that we’ve found most impactful in our own enterprise, with case studies that give you our real-world experiences to draw from in your own transformation.
+
+
+
 
 <ul class="panelContent cardsW cols cols2">
     <li>
