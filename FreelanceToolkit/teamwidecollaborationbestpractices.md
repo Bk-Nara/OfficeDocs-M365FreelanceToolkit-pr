@@ -13,7 +13,7 @@ localization_priority: None
 ms.custom: M365FreelanceToolkit
 ---
 Best practices for team-wide collaboration
-=======================================
+==========================================
 
 As employees start working with freelancers, we've found that streamlined collaboration becomes critical to operating effectively.
 

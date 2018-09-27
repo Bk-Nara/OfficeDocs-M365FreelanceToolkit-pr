@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 freelance toolkit
-description: Launch and execute enterprise freelance programs at scale with this guidance 
+title: Microsoft 365 Freelance Toolkit
+description: Launch, execute, and scale your enterprise freelance program 
 author: matthewrmottola1
 manager: samanro
 layout: LandingPage
@@ -13,13 +13,15 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-# Microsoft 365 Freelance Toolkit
+Microsoft 365 Freelance Toolkit
+===============================
 
 With the increasing adoption of the gig economy, enterprises are beginning to integrate freelance talent into their already-complex sourcing models. While adding freelancers to the mix can offer significant benefits in enterprise environments, the path to transforming existing policies and processes is largely undefined.
 
 Like many of our industry peers, Microsoft is also in the process of navigating how to responsibly weave freelance engagement into our enterprise environment. As we stood up our program, we realized that other enterprises might find it useful to learn more about how we’re changing and adapting to this flexible environment, including how we're configuring and using Microsoft 365 tools.
 
-## What's in the toolkit?
+What's in the toolkit?
+----------------------
 
 The Microsoft 365 Freelance Toolkit reflects what we’ve learned and configured to date to support our growing enterprise freelance operations, and was designed to help you leverage your existing technology investments to operate collaboratively with freelancers at scale.
 
