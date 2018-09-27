@@ -1,5 +1,5 @@
 ---
-title: Internal communication and awareness
+title: Internal communication
 description: Use SharePoint to set up internal communications about an enterprise freelancer program.
 author: matthewrmottola1
 manager: samanro
@@ -13,7 +13,7 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Internal communication and awareness
+Internal communication
 ======================================
 
 One of the major challenges of launching a freelancer program in the enterprise is driving awareness amongst internal stakeholders and adopters. People have questions from the basics of how to get started through to education and sharing of best practices.
