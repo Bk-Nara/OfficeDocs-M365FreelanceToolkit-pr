@@ -20,60 +20,6 @@ One of the major challenges of launching an enterprise freelance program is driv
 
 The Microsoft 365 Freelance Toolkit solves for this with a customized SharePoint communication site.
 
-<ul class="panelContent cardsF">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <a href="internalcommunicationtools.md" data-linktype="relative-path"><img src="https://docs.microsoft.com/en-us/office/media/icons/toolbox.svg" alt="Tools" data-linktype="external"></a>
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <a href="internalcommunicationtools.md" data-linktype="relative-path"><h3>Tools</h3></a>
-                        <p>This solution uses your existing investment in SharePoint Online. In addition, enterprise customers who have an agreement with Upwork can engage with a curated SharePoint Expert talent cloud for customization work.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <a href="internalcommunicationtemplates.md" data-linktype="relative-path"><img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="Templates" data-linktype="external"></a>
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <a href="internalcommunicationtemplates.md" data-linktype="relative-path"><h3>Templates</h3></a>
-                        <p>The toolkit provides a downloadable communication site template, set up specifically for freelance programs, as well as a work description template to help you engage with freelance SharePoint experts to customize your site.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <a href="internalcommunicationbestpractices.md" data-linktype="relative-path"><img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="Best practices" data-linktype="external"></a>
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <a href="internalcommunicationbestpractices.md" data-linktype="relative-path"><h3>Best Practices</h3></a>
-                        <p>Learn what's worked for us with these tips on handling internal communication about your enterprise freelance program.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </a>
-    </li>
-</ul>
-
+| ![Tools](https://docs.microsoft.com/en-us/office/media/icons/toolbox.svg) | **[Tools.](internalcommunicationtools.md)** This solution uses your existing investment in SharePoint Online. In addition, enterprise customers who have an agreement with Upwork can engage with a curated SharePoint Expert talent cloud for customization work.|
+| ![Templates](https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg) | **[Templates.](internalcommunicationtemplates.md)** The toolkit provides a downloadable communication site template, set up specifically for freelance programs, as well as a work description template to help you engage with freelance SharePoint experts to customize your site. |
+| ![Best Practices](https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg) | **[Best Practices.](internalcommunicationbestpractices.md)** Learn what's worked for us with these tips on handling internal communication about your enterprise freelance program.|
