@@ -11,7 +11,7 @@
 
 # [Data analytics](dataanalyticssection.md)
 ## [Tools](dataanalyticstools.md)
-## [Templates](dataanalyticstemplatess.md)
+## [Templates](dataanalyticstemplates.md)
 ## [Best practices](dataanalyticsbestpractices.md)
 
 # [Workflow automation](workflowautomationsection.md)
