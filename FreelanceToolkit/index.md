@@ -94,4 +94,4 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
 </ul>
 
 
-[!TIP] **Not sure where to start?** This [solution overview](https://placeholderforPPTdownloadlink) provides slides to help drive stakeholder discussion around how your existing Microsoft 365 investments can be configured to enable an enterprise freelance program.
+> [!TIP] This [solution overview](https://placeholderforPPTdownloadlink) provides slides to help drive stakeholder discussion around how your existing Microsoft 365 investments can help support an enterprise freelance program.
