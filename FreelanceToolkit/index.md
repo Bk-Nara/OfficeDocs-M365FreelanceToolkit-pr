@@ -30,7 +30,7 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
                     </div>
                     <div class="cardText">
                         <h3>Internal communication</h3>
-                        <p>Provide employees with a place to learn how the program works, fulfill training requirements, and review best practices for working with freelancers.</p>
+                        <p>Provide employees with a place to learn about the program, access required training, and review best practices.</p>
                         <p><a href="internalcommunicationsection.md">LEARN MORE</a></p>
                     </div>
                 </div>
@@ -94,4 +94,4 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
 </ul>
 
 
-> **Not sure where to start?** This [solution overview](https://placeholderforPPTdownloadlink) provides slides to help drive stakeholder discussion around how your existing Microsoft 365 investments can be configured to enable an enterprise freelance program.
+[!TIP] **Not sure where to start?** This [solution overview](https://placeholderforPPTdownloadlink) provides slides to help drive stakeholder discussion around how your existing Microsoft 365 investments can be configured to enable an enterprise freelance program.
