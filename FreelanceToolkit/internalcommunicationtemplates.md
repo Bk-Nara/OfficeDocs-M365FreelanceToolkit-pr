@@ -23,3 +23,15 @@ Job description
 Looking for a SharePoint consultant/architect to set up company’s portal site that hosts employee communications, documents, and manages calendar events. Additionally, we’ll need you to build with features, flows, checklists, approvals to enhance automation in an O365 online SharePoint site. 
 
 Need assistance with multiple form development, including structure in SharePoint to maximize efficiency using Power BI, possibly PowerApps as well.
+
+
+<h3>SharePoint consultant/architect needed to customize a communication site</h3>
+                                    <p>Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and manages calendar events. Site should be built so that we can leverage features, flows, checklists, and approvals to enhance automation at a future point.</p>
+
+
+
+with a SharePoint communication site template to help enterprises create a one-stop shop for their freelance program details, with tools to help accelerate onboarding and adoption:
+- A repository for relevant documentation and presentations about the program.
+- An FAQ seeded with the top questions from enterprise employees.
+- A curated talent pool of SharePoint experts to help enterprises customize their communication sites.
+- An engagement template to help you start working with freelancers in the SharePoint expert talent pool. 
