@@ -29,8 +29,8 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Internal communications and awareness</h3>
-                        <p>Leverage a SharePoint communication site to help your internal employees learn how to leverage freelancers for their projects.</p>
+                        <h3>Internal communications</h3>
+                        <p>Provide employees with a place to learn how the program works, fulfill training requirements, and review best practices for working with freelancers.</p>
                         <p><a href="internalcommunicationsection.md">LEARN MORE</a></p>
                     </div>
                 </div>
@@ -48,7 +48,7 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
                     </div>
                     <div class="cardText">
                         <h3>Team-wide collaboration</h3>
-                        <p>Facilitate communication and coordination between full-time employees, vendors, and freelancers using Microsoft Teams and Planner.</p>
+                        <p>Enable employees and freelancers to work together on files, manage tasks, and communicate across time zones.</p>
                         <p><a href="teamwidecollaborationsection.md">LEARN MORE</a></p>
                     </div>
                 </div>
@@ -66,7 +66,7 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
                     </div>
                     <div class="cardText">
                         <h3>Data analytics</h3>
-                        <p>Power BI offers quick dashboard access to interactive visualizations that help you track your freelance program’s adoption and health.</p>
+                        <p>Capture, track, and communicate performance KPIs for your enterprise freelance program.</p>
                         <p><a href="dataanalyticssection.md">LEARN MORE</a></p>
                     </div>
                 </div>
@@ -84,7 +84,7 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
                     </div>
                     <div class="cardText">
                         <h3>Workflow automation</h3>
-                        <p>Connect your program’s operational steps and reduce the need for manual, repetitive tasks with Microsoft Flow.</p>
+                        <p>Reduce the need for manual completion of repetitive provisioning, compliance, and monitoring tasks.</p>
                         <p><a href="workflowautomationsection.md">LEARN MORE</a></p>
                     </div>
                 </div>
@@ -93,7 +93,4 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
     </li>
 </ul>
 
-Solution overview
------------------
-
-Not sure where to start? This [solution overview](https://placeholderforPPTdownloadlink) provides slides to help drive stakeholder discussion around how your existing Microsoft 365 investments can be configured to enable an enterprise freelance program.
+**Not sure where to start?** This [solution overview](https://placeholderforPPTdownloadlink) provides slides to help drive stakeholder discussion around how your existing Microsoft 365 investments can be configured to enable an enterprise freelance program.
