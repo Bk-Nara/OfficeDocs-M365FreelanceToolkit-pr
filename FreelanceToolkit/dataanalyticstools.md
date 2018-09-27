@@ -1,6 +1,6 @@
 ---
-title: Tools to help with data analytics 
-description: Use these tools to... 
+title: Tools and templates to help with data analytics 
+description: Use these tools and templates to... 
 author: matthewrmottola1
 manager: samanro
 ms.assetid: 
@@ -12,7 +12,7 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Tools to help with data analytics
-=======================
+Tools and templates to help with data analytics
+===============================================
 
 Placeholder
