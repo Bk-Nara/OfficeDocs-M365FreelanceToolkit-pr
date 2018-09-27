@@ -1,9 +1,9 @@
 # [Microsoft 365 Freelance Toolkit](index.md)
 
-# [Internal communication and awareness](comssitesection.md)
-## [Tools](comssitetools.md)
-## [Templates](comssitetemplates.md)
-## [Best practices](comssitebestpractices.md)
+# [Internal communication and awareness](internalcommunicationsection.md)
+## [Tools](internalcommunicationtools.md)
+## [Templates](internalcommunicationtemplates.md)
+## [Best practices](internalcommunicationbestpractices.md)
 
 # [Team-wide collaboration](teamwidecollaborationsection.md)
 ## [Tools](teamwidecollaborationtools.md)
