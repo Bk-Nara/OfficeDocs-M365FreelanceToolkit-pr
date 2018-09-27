@@ -20,7 +20,7 @@ One of the major challenges of launching an enterprise freelance program is driv
 
 The Microsoft 365 Freelance Toolkit solves for this with a customized SharePoint communication site.
 
-<ul class="panelContent cardsFTitle">
+<ul class="panelContent cardsW">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
