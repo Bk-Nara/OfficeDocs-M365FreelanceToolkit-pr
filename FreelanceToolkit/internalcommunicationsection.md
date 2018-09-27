@@ -32,7 +32,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized SharePoint
                     </div>
                     <div class="cardText">
                         <h3><a href="internalcommunicationtools.md">Tools and templates</a></h3>
-                        <p>This solution uses your existing investment in SharePoint Online, with a specialized communication site template for freelance programs. In addition, enterprise customers who have an agreement with Upwork can engage with a curated SharePoint Expert talent cloud for customization work, using a work description template provided in the toolkit.</p>
+                        <p>This solution uses your existing investment in SharePoint Online, with a specialized communication site template for freelance programs.</p>
+                        <p>In addition, enterprise customers who have an agreement with Upwork can engage with a curated SharePoint Expert talent cloud for customization work, using a work description template provided in the toolkit.</p>
                     </div>
                 </div>
             </div>
