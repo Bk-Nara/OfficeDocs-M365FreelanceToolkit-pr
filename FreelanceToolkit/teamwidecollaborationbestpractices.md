@@ -1,6 +1,6 @@
 ---
 title: Best practices for team-wide collaboration 
-description: Tips for facilitating team-wide collaboration with Microsoft Teams and Microsoft Planner
+description: Tips for facilitating team-wide collaboration in an enterprise freelance program.
 author: matthewrmottola1
 manager: samanro
 ms.assetid: 

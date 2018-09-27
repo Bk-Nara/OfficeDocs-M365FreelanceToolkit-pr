@@ -1,6 +1,6 @@
 ---
-title: Internal communication & awareness case study 
-description: A case study of how Microsoft communicated internally about the freelancer program.
+title: Best practices for internal communication and awareness 
+description: Tips for communicating internally about an enterprise freelancer program.
 author: matthewrmottola1
 manager: samanro
 ms.assetid: 
@@ -12,8 +12,8 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Internal communication & awareness case study 
-===================
+Best practices for internal communication and awareness
+=======================================================
 
 Julie, a senior director, has a fast approaching deadline needs a new slide deck for her presentation.
 

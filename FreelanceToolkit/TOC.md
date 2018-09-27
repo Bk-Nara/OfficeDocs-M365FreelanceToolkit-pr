@@ -1,20 +1,20 @@
 # [Microsoft 365 Freelance Toolkit](index.md)
 
 # [Internal communication and awareness](comssitesection.md)
-## [Tools]
-## [Templates]
-## [Best practices](comssitecasestudy.md)
+## [Tools](comssitetools.md)
+## [Templates](comssitetemplates.md)
+## [Best practices](comssitebestpractices.md)
 
 # [Team-wide collaboration](teamwidecollaborationsection.md)
-## [Tools]
-## [Best practices](teamwidecollaborationcasestudy.md)
+## [Tools](teamwidecollaborationtools.md)
+## [Best practices](teamwidecollaborationbestpractices.md)
 
-# [Data analytics](datanalyticssection.md)
-## [Tools]
-## [Templates]
-## [Best practices](dataanalyticscasestudy.md)
+# [Data analytics](dataanalyticssection.md)
+## [Tools](dataanalyticstools.md)
+## [Templates](dataanalyticstemplatess.md)
+## [Best practices](dataanalyticsbestpractices.md)
 
 # [Workflow automation](workflowautomationsection.md)
-## [Tools]
-## [Templates]
-## [Best practices](workflowautomationcasestudy.md)
+## [Tools](workflowautomationtools.md)
+## [Templates](workflowautomationtemplates.md)
+## [Best practices](workflowautomationbestpractices.md)

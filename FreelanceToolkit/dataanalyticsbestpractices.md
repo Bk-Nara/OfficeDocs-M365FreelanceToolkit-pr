@@ -1,6 +1,6 @@
 ---
-title: Data analytics case study 
-description: A case study about analyzing data about an enterprise freelance program 
+title: Best practices for data analytics
+description: Tips for analyzing data about an enterprise freelance program. 
 author: matthewrmottola1
 manager: samanro
 ms.assetid: 
@@ -12,8 +12,8 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Data analytics case study 
-===================
+Best practices for data analytics
+=================================
 
 Chad is a director of strategic sourcing, and a procurement leader on the Gig Economy v-team, a cross functional leadership team comprised of product, HR, legal, and procurement. While his full time responsibility is leading an external talent sourcing program spanning 16 countries and 5,000+ assignments per year, he wants to be the procurement lead for the freelance program. To do this, he has three main responsibilities. 
 

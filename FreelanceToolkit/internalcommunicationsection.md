@@ -1,6 +1,6 @@
 ---
-title: Internal communication & awareness
-description: How to set up internal communications about an enterprise freelancer program 
+title: Internal communication and awareness
+description: Use SharePoint to set up internal communications about an enterprise freelancer program.
 author: matthewrmottola1
 manager: samanro
 layout: LandingPage

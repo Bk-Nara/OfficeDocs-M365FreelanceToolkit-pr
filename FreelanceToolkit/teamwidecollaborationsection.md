@@ -1,6 +1,6 @@
 ---
 title: Team-wide collaboration
-description: Use Microsoft Teams to facilitate team-wide collaboration in an enterprise freelance program
+description: Use Microsoft Teams and Microsoft Planner to facilitate team-wide collaboration in an enterprise freelance program.
 author: matthewrmottola1
 manager: samanro
 layout: LandingPage

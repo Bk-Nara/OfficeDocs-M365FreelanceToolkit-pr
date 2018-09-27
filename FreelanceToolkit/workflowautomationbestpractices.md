@@ -1,6 +1,6 @@
 ---
-title: Workflow automation case study 
-description: A case study about using Microsoft Flow to automate workflow tasks in an enterprise freelance program
+title: Best practices for workflow automation
+description: Tips for automating workflow tasks in an enterprise freelance program.
 author: matthewrmottola1
 manager: samanro
 ms.assetid: 
@@ -12,8 +12,8 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Workflow automation case study 
-===================
+Best practices for workflow automation
+======================================
 
 Liane is a Freelance Program Manager at Microsoft. While her title is technically 3 words, her responsibilities span across at least 3 different roles, with success being measured by her ability to increase internal adoption of freelance platforms. To accomplish this, her role starts looking more like the Constitution than a job description. She must:
 

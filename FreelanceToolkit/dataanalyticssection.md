@@ -1,6 +1,6 @@
 ---
 title: Data analytics 
-description: How to set up data analytics for an enterprise freelance program 
+description: Use Power BI to set up data analytics for an enterprise freelance program.
 author: matthewrmottola1
 manager: samanro
 layout: LandingPage

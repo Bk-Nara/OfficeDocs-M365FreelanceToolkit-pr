@@ -1,6 +1,6 @@
 ---
-title: PowerBI engagement template 
-description: Use this template to engage a freelance PowerBI expert 
+title: Templates to help with data analytics
+description: Use these templates to... 
 author: matthewrmottola1
 manager: samanro
 ms.assetid: 
@@ -12,7 +12,7 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-PowerBI engagement template
+Templates to help with data analytics
 =======================
 
 You can use this template to engage a freelance PowerBI expert.
