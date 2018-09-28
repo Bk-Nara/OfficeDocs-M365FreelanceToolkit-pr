@@ -16,3 +16,9 @@ Tools and templates to help with workflow automation
 ====================================================
 
 Placeholder
+
+
+
+                                    <h3>Microsoft Flow consultant/architect needed to build enterprise workflows</h3>
+                                    <p>Looking for an expert Microsoft Flow architect to build high-quality automated business process workflows that connect LOB apps with SharePoint and Outlook. Examples of workflows needed include: Whitelisting and provisioning employees, sending out notifications for task completions and next steps, and updating a Power BI dashboard with the latest data. We will need consultation and implementation services to automate the end-to-end workflow.</p>
+                                    <p>Specific technical skills desired include: Microsoft Flow, Microsoft PowerApps, and Microsoft SharePoint.</p>

@@ -44,7 +44,7 @@ To keep cross-functional, multi-geographical teams moving in the same direction,
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="ribbon" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="a ribbon" />
                         </div>
                     </div>
                     <div class="cardText">

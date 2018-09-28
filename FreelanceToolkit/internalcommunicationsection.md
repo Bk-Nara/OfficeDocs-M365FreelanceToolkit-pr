@@ -27,7 +27,7 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/download-blue.svg" alt="download symbol" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/download-blue.svg" alt="a download symbol" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -44,7 +44,7 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="ribbon" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="a ribbon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -65,8 +65,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">SharePoint Expert talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated SharePoint Expert talent cloud for customization work.</p>
+                        <h3><a href="internalcommunicationtools.md">SharePoint expert talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated SharePoint expert talent cloud for customization work.</p>
                     </div>
                 </div>
             </div>
@@ -78,7 +78,7 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="list" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="a list" />
                         </div>
                     </div>
                     <div class="cardText">

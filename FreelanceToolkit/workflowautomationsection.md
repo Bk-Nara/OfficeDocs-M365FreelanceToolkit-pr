@@ -16,89 +16,77 @@ ms.custom: M365FreelanceToolkit
 Workflow automation
 ===================
 
-The end-to-end process required to operationalize and govern a freelance program requires provisioning, compliance, monitoring, all while increasing demand by providing a frictionless process for the end user.
+An enterprise freelance program requires provisioning, compliance, and monitoring, all while providing a frictionless process for your employees.
 
-With [Microsoft Flow](https://flow.microsoft.com/), you can create automated workflows between your favorite apps and services to get notifications, synchronize files, collect data, and more.
+To reduce the need for manual completion of repetitive tasks, Microsoft 365 Freelance Toolkit uses [Microsoft Flow](https://flow.microsoft.com/) to create automated workflows between apps and services, send notifications, synchronize files, and collect data.
 
-At Microsoft, here are some examples of how we automate our freelance program using Flow:
-- Employees who complete compliance training videos automatically receive email follow-ups, and their account is automatically created on a third-party freelance platform.
-- Employees who submit an application to post their first freelance project automatically receive an email follow-up once their application is accepted or denied.
-- Employees who express interest in the freelance program are automatically added to a database, group, and newsletter.
-
-Case study: Focused value
--------------------------
-
-By automating administrative, operational, and manual tasks with Flow, our freelance program management team at Microsoft is able to focus on establishing a frictionless employee experience, which is helping us grow demand and retention.
-
-<ul class="panelContent cardsF">
+<ul class="panelContent cardsF cols cols2">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/document.png" alt="a document icon" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/blocks-blue.svg" alt="blocks" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>Learn how Liane, a freelance program manager at Microsoft, was able to focus her time and effort on high-value tasks by automating manual workflows.</p>
-                        <p><a href="workflowautomationcasestudy.md">LEARN MORE</a></p>
+                        <h3><a href="workflowautomationtools.md">Tools</a></h3>
+                        <p>This solution uses your existing investment in Microsoft Flow.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="a ribbon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="workflowautomationbestpractices.md">Best practices</a></h3>
+                        <p>Learn what's worked for us with these tips on automating workflow tasks in an enterprise freelance program.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/users-people.svg" alt="people" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="workflowautomationtools.md">Flow expert talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated Flow expert talent cloud for customization work.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="a list" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="internalcommunicationtools.md">Work description template</a></h3>
+                        <p>Use this work description as a starting point for finding a Flow expert who can help you customize your freelance program site.</p>
                     </div>
                 </div>
             </div>
         </div>
     </li>
 </ul>
-
-Ready to get started? 
----------------------
-
-<ol>
-    <li>
-        <p>Your first step is to identify manual workflows that you can automate, and then build them in Microsoft Flow to meet the needs of your enterprise.</p>
-        <p>You can <a href="https://support.office.com/article/94a33429-e580-45c3-a090-5512a8070732">do this customization work yourself</a>, but another option is to engage a freelancer to help with this work.</p>
-        <p>For example, here’s a description that you could use to engage a freelancer to help customize your workflows:</p>
-            <ul class="panelContent cardsF">
-                <li>
-                    <div class="cardSize">
-                        <div class="cardPadding">
-                            <div class="card">
-                                <div class="cardImageOuter">
-                                    <div class="cardImage">
-                                        <img src="media/bill-blue.png" alt="A job posting template icon" />
-                                    </div>
-                                </div>
-                                <div class="cardText">
-                                    <h3>Microsoft Flow consultant/architect needed to build enterprise workflows</h3>
-                                    <p>Looking for an expert Microsoft Flow architect to build high-quality automated business process workflows that connect LOB apps with SharePoint and Outlook. Examples of workflows needed include: Whitelisting and provisioning employees, sending out notifications for task completions and next steps, and updating a Power BI dashboard with the latest data. We will need consultation and implementation services to automate the end-to-end workflow.</p>
-                                    <p>Specific technical skills desired include: Microsoft Flow, Microsoft PowerApps, and Microsoft SharePoint.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </li>
-            </ul>
-    </li>
-    <li>
-        <p>Once the workflows are built and running, you might find it helpful to share more about these workflows with stakeholders who you're partnering with on operations.</p>
-        <ul class="panelContent cardsF cols cols2">
-            <li>
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img src="media/download-blue.png" alt="Downloadable infographic" />
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <p>This infographic can help you explain to stakeholders how workflows are helping you ensure compliance and governance of your program.</p>
-                                <p><a href="media/M365-FreelanceToolkit-TearSheet-WorkFlowAutomation.pdf">DOWNLOAD</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </li>
-</ol>

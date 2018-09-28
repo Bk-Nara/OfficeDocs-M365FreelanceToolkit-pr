@@ -24,6 +24,7 @@ It includes sample visualizations to help enterprises identify the groups within
 **[Download the connector.](https://placeholderfordownloadURL)** The freelance program connector is available as a free download through GitHub.
 
 Customize your freelance program Power BI dashboard
+---------------------------------------------------
 
 While the connector included in this toolkit will give you a starting point, there will still be work to customize it so that it reflects the specifics of your enterprise. You can do this work yourself, but another option is to engage a freelancer to help with customization.
 
@@ -36,4 +37,4 @@ For example, here's a description that you could use to engage a freelancer to h
 > 
 > *Specific technical skills desired include: Relational database and SQL language, analytics/OLAP cube development, report development.*
 
-Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **Power BI Expert talent cloud** for customization work.
+Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **Power BI expert talent cloud** for customization work.
