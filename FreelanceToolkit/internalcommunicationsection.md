@@ -27,13 +27,12 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/blocks-blue.svg" alt="Tools and templates" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/download-blue.svg" alt="download symbol" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">Tools and templates</a></h3>
+                        <h3><a href="internalcommunicationtools.md">Communication site template</a></h3>
                         <p>This solution uses your existing investment in SharePoint, with a <b>specialized communication site template</b> for freelance programs.</p>
-                        <p>In addition, enterprise customers who have an agreement with Upwork can engage with a curated <b>SharePoint Expert talent cloud</b> for customization work, using a work description template provided in the toolkit.</p>
                     </div>
                 </div>
             </div>
@@ -45,12 +44,46 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="Best practices" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="ribbon" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3><a href="internalcommunicationbestpractices.md">Best practices</a></h3>
                         <p>Learn what's worked for us with these tips on handling internal communication about your enterprise freelance program.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/users-people.svg" alt="people" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="internalcommunicationtools.md">Talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <b>SharePoint Expert talent cloud</b> for customization work.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="list" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="internalcommunicationtools.md">Work description template</a></h3>
+                        <p>Use this work description as a starting point for finding a SharePoint expert who can help you customize your freelance program site.</p>
                     </div>
                 </div>
             </div>
