@@ -31,7 +31,7 @@ To keep cross-functional, multi-geographical teams moving in the same direction,
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">Tools</a></h3>
+                        <h3><a href="teamwidecollaborationtools.md">Tools</a></h3>
                         <p>This solution uses your existing investment in Microsoft 365, including Teams and Planner.</p>
                     </div>
                 </div>
@@ -48,7 +48,7 @@ To keep cross-functional, multi-geographical teams moving in the same direction,
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationbestpractices.md">Best practices</a></h3>
+                        <h3><a href="teamwidecollaborationbestpractices.md">Best practices</a></h3>
                         <p>Learn what's worked for us with these tips on streamlining collaboration between FTEs and freelancers.</p>
                     </div>
                 </div>

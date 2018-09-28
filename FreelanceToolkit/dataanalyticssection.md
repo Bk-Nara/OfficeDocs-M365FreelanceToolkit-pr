@@ -31,8 +31,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">Power BI connector</a></h3>
-                        <p>This solution uses your existing investment in Power BI, with a <b>specialized communication site template</b> for freelance programs.</p>
+                        <h3><a href="dataanalyticstools.md">Power BI connector</a></h3>
+                        <p>This solution uses your existing investment in Power BI, with a custom connector for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>.</p>
                     </div>
                 </div>
             </div>
@@ -48,8 +48,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationbestpractices.md">Best practices</a></h3>
-                        <p>Learn what's worked for us with these tips on handling internal communication about your enterprise freelance program.</p>
+                        <h3><a href="dataanalyticsbestpractices.md">Best practices</a></h3>
+                        <p>Learn what's worked for us with these tips on setting up data analytics for an enterprise freelance program.</p>
                     </div>
                 </div>
             </div>
@@ -65,8 +65,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">SharePoint Expert talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <b>SharePoint Expert talent cloud</b> for customization work.</p>
+                        <h3><a href="dataanalyticstools.md">SharePoint Expert talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated Power BI Expert talent cloud for customization work.</p>
                     </div>
                 </div>
             </div>
@@ -82,8 +82,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">Work description template</a></h3>
-                        <p>Use this work description as a starting point for finding a SharePoint expert who can help you customize your freelance program site.</p>
+                        <h3><a href="dataanalyticstools.md">Work description template</a></h3>
+                        <p>Use this work description as a starting point for finding a Power BI expert who can help you customize your freelance program site.</p>
                     </div>
                 </div>
             </div>
