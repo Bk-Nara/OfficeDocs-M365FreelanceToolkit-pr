@@ -16,13 +16,17 @@ ms.custom: M365FreelanceToolkit
 Tools and templates to help with internal communication
 =======================================================
 
-The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communication site template to help enterprises create a one-stop shop for their freelance program details, with tools to help accelerate onboarding and adoption:
+The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communication site template to help enterprises create a one-stop shop for their freelance program details, with tools to help accelerate onboarding and adoption.
+
+It includes:
 - A library for relevant documentation and presentations about the program.
-- An FAQ seeded with the top questions from enterprise employees.
+- An FAQ seeded with top questions from enterprise employees.
 - Spaces for research, strategy, case studies, events, and more.
 
 
-<ul class="panelContent cardsF">
+The freelance program communication site template is available as a free download through GitHub.
+
+<ul class="panelContent cardsF" cols cols2>
     <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -33,7 +37,7 @@ The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communicat
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://placeholderfordownloadURL">Download the freelance program communication site template</a></h3>
+                        <h3><a href="https://placeholderfordownloadURL">Download the template</a></h3>
                     </div>
                 </div>
             </div>
@@ -48,7 +52,7 @@ While the template included in this toolkit will give you a starting point, ther
 
 For example, here's a description that you could use to engage a freelancer to help customize your freelance program communication site:
 
-> **SharePoint consultant/architect needed to customize a communication site**
+> ### SharePoint consultant/architect needed to customize a communication site
 > Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and manages calendar events. Site should be built so that we can leverage features, flows, checklists, and approvals to enhance automation at a future point.
 
 Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <b>SharePoint Expert talent cloud</b> for customization work.
