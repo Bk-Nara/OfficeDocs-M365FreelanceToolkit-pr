@@ -37,4 +37,4 @@ For example, here's a description that you could use to engage a freelancer to h
 > 
 > *Specific technical skills desired include: Relational database and SQL language, analytics/OLAP cube development, report development.*
 
-Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **Power BI expert talent cloud** for customization work.
+Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **Microsoft Power BI talent cloud** for customization work.

@@ -16,7 +16,7 @@ ms.custom: M365FreelanceToolkit
 Tools and templates to help with team-wide collaboration
 ========================================================
 
-The Microsoft 365 Freelance Toolkit leverages your existing investments in [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software).
+The Microsoft 365 Freelance Toolkit uses your existing investments in [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software).
 
 ![an application window](media\M365_Freelance_collaboration_guestaccess.png)
 

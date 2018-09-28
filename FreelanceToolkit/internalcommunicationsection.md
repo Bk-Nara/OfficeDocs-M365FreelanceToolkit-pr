@@ -65,8 +65,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">SharePoint expert talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated SharePoint expert talent cloud for customization work.</p>
+                        <h3><a href="internalcommunicationtools.md">Microsoft SharePoint talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated Microsoft SharePoint talent cloud for customization work.</p>
                     </div>
                 </div>
             </div>
