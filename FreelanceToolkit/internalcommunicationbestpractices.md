@@ -19,25 +19,6 @@ As employees begin thinking about working with freelancers, we've found that it'
 
 The following best practices were developed based on our freelance program at Microsoft, which is supported by a cross-disciplinary team that brings together stakeholders in HR, Legal, Procurement, Research, Corporate Strategy, and Product Development.
 
-The following best practices were developed based on our freelance program at Microsoft, which is supported by a cross-disciplinary team that brings together stakeholders from the following groups:
-
-<table align="center">
-    <tr>
-        <td align="center">
-            <h3>HR</h3>
-            <h3>Product</h3>
-        </td>
-        <td align="center">
-            <h3>Legal</h3>
-            <h3>Corporate Strategy</h3>
-        </td>
-        <td align="center">
-            <h3>Procurement</h3>
-            <h3>Research</h3>
-        </td>
-    </tr>
-</table>
-
 When establishing and growing our freelance program at Microsoft, here are some best practices that have worked for us.
 
 **Provide a starting point.** We use our freelance program site as a starting point for employees, with both high-level and low-level information about our program. This helps people get the background they need to be successful in completing required training and expressing intent to comply with program requirements.

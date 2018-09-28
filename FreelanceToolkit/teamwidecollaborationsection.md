@@ -16,7 +16,9 @@ ms.custom: M365FreelanceToolkit
 Team-wide collaboration
 ===========================
 
-The nature of enterprise freelance projects requires team members to work together on multiple files, manage varied tasks, and communicate across time zones. To keep cross-functional, multi-geographical teams moving in the same direction, the Microsoft 365 Freelance Toolkit provides guidance around using [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/free) as a powerful hub for teamwork that brings together chat, meetings, calling, files, and apps into one shared workspace.
+The nature of enterprise freelance projects requires team members to work together on multiple files, manage varied tasks, and communicate across time zones.
+
+To keep cross-functional, multi-geographical teams moving in the same direction, the Microsoft 365 Freelance Toolkit provides guidance around using [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/free) as a powerful hub for teamwork that brings together chat, meetings, calling, files, and apps into one shared workspace.
 
 <ul class="panelContent cardsF cols cols2">
     <li>
