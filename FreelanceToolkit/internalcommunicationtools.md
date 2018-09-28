@@ -31,7 +31,7 @@ It includes:
 Customize your freelance program communication site
 ---------------------------------------------------
 
-While the template included in this toolkit will give you a starting point, there will still be work to customize it so that it reflects the specifics of your enterprise. You can [do this work yourself](https://support.office.com/article/320b43e5-b047-4fda-8381-f61e8ac7f59b), but another option is to engage a freelancer to help with this work.
+While the template included in this toolkit will give you a starting point, there will still be work to customize it so that it reflects the specifics of your enterprise. You can [do this work yourself](https://support.office.com/article/320b43e5-b047-4fda-8381-f61e8ac7f59b), but another option is to engage a freelancer to help with customization.
 
 For example, here's a description that you could use to engage a freelancer to help customize your freelance program communication site:
 
