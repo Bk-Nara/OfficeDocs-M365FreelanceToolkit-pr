@@ -27,7 +27,7 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/download-blue.svg" alt="download symbol" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/connector-blue.svg" alt="an arrow" />
                         </div>
                     </div>
                     <div class="cardText">

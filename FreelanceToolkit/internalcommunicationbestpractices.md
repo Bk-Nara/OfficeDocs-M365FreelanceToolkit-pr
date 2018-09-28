@@ -13,8 +13,8 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Best practices for internal communication and awareness
-=======================================================
+Best practices for internal communication
+=========================================
 
 As employees begin thinking about working with freelancers, we've found that it's important to provide access to as much information as possible, and to make onboarding clear and simple.
 
