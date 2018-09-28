@@ -3,7 +3,6 @@ title: Tools and templates to help with internal communication and awareness
 description: Use these tools and templates to... 
 author: matthewrmottola1
 manager: samanro
-layout: LandingPage
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
@@ -18,32 +17,16 @@ Tools and templates to help with internal communication
 
 The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communication site template to help enterprises create a one-stop shop for their freelance program details, with tools to help accelerate onboarding and adoption.
 
+![website](media\M365_Freelance_communication_commsite.png)
+
 It includes:
 - A library for relevant documentation and presentations about the program.
 - An FAQ seeded with top questions from enterprise employees.
 - Spaces for research, strategy, case studies, events, and more.
 
 
-The freelance program communication site template is available as a free download through GitHub.
 
-<ul class="panelContent cardsF" cols cols2>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/download-blue.svg" alt="download symbol" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3><a href="https://placeholderfordownloadURL">Download the template</a></h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
+**[Download the template.](https://placeholderfordownloadURL)** The freelance program communication site template is available as a free download through GitHub.
 
 Customize your freelance program communication site
 ---------------------------------------------------
