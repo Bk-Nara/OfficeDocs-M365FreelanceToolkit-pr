@@ -20,6 +20,7 @@ The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communicat
 - An FAQ seeded with the top questions from enterprise employees.
 - Spaces for research, strategy, case studies, events, and more.
 
+
 <ul class="panelContent cardsF">
     <li>
         <div class="cardSize">
