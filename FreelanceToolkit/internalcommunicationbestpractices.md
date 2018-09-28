@@ -15,25 +15,18 @@ ms.custom: M365FreelanceToolkit
 Best practices for internal communication and awareness
 =======================================================
 
-Julie, a senior director, has a fast approaching deadline needs a new slide deck for her presentation.
+As employees begin thinking about working with freelancers, we've found that it's important to provide access to as much information as possible, and to make onboarding clear and simple.
 
-Her team has worked really hard in recent months. They are ready to propose that the company include two cutting-edge wearables in their smart product suite. The new products are so disruptive that their features, market research, sales forecasts, and big data opportunities, simply do not fit with the old deck. Only a fresh presentation perspective can do them justice.
+The following best practices were developed based on our freelance program at Microsoft, which is supported by a cross-disciplinary team that brings together stakeholders in HR, Legal, Procurement, Research, Corporate Strategy, and Product Development.
 
-It is crucial that Julie’s presentation go well because the director of corporate finance will be there. If she doesn’t impress him, her team will probably not get the funding they need to launch the products. 
+When establishing and growing our freelance program at Microsoft, here are some best practices that have worked for us.
 
-Julie desperately needs help, but everyone is battling their own deadlines. Her only options seem to be to pull an all-nighter or two, or deliver a presentation that is not up to her standards. While contemplating how much she hates not being able to spend enough quality time with her family, she has a brainwave: she’ll hire a professional freelancer to design the new deck. 
+**Provide a starting point.** We use our freelance program site as a starting point for employees, with both high-level and low-level information about our program. This helps people get the background they need to be successful in completing required training and expressing intent to comply with program requirements.
 
-While this seems like the perfect solution, Julie has more questions than answers about how to go about outsourcing the project. There are also important intellectual property and confidentiality issues to consider. 
+**Share your company's strategy.** On our freelance program site, we include information on the opportunities we see in this model, how other enterprises are incorporating freelance sourcing, and why our enterprise is investing in navigating this shift.
 
-In search of answers, Julie logs on to the company’s intranet and is delighted to find a SharePoint communication site dedicated to the company’s freelancer program. There are case studies of past projects from her colleagues, frequently asked questions, and a step-by-step training video that helps her understand how to engage a freelancer as well as what constitutes as something she can and can not engage with freelance.
+**Link to relevant research.** We've found that sharing articles and research on the gig economy has helped people understand industry trends and the work being done to continue pushing the model forward. It's been important to recognize employee concerns with this new way of working, and provide information that shows how those concerns are being addressed globally.
 
-She quickly learns that her project is a perfect fit for the freelancer program, because it is a one-off project, and there does not need to be an exchange of intellectual property with the freelancer. Julie is so grateful for the useful tips and insights they shared that she makes a note to return the favor and share her experience as soon as things settle down.  
+**Set and communicate clear rules.** Our freelance program site includes clear guidance on which types of tasks are appropriate to send to freelancers, and which are not. We share employee, manager, and Procurement responsibilities, as well as our established policies around intellectual property, confidentiality, and data protection, and we have rules around freelancer engagement, training, and platform requirements. We include answers to frequently asked questions, and continue to grow that list as we encounter new scenarios.
 
-Julie then creates her Upwork profile, and has the option to post this job using Upwork’s “post a new project" option, or using Microsoft’s Expert Marketplace for PowerPoint. She decides to “post a new project", and two hours later Julie has received many suitable bids. She engages an experienced candidate who has great reviews, and who happens to have worked one of her colleagues - what a find!
-
-Two days later Julie is practicing her presentation with her new professional and polished slide deck. It is exactly what she was looking for and highlights the new products perfectly. 
-
-Julie “wowed” everyone at the business review and secured funding to launch the smart products! 
-
-One of the best things about a SharePoint communications site is that it facilitates true collaboration. In this case, it was the perfect platform for information about the freelancer program, and allowed Julie to get up and running in a matter of hours. 
-
+**Offer real-world examples.** As our employees began working with freelancers, we provided a place to share their experiences, including quality, time savings, and cost savings measures. Other employees have found it useful to browse through completed projects, categorized by task type, and see the results of the work.

@@ -22,7 +22,7 @@ The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communicat
 It includes:
 - A library for relevant documentation and presentations about the program.
 - An FAQ seeded with top questions from enterprise employees.
-- Spaces for research, strategy, case studies, events, and more.
+- Spaces for research, strategy, case studies, videos, events, and more.
 
 
 
