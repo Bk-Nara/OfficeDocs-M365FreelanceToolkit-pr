@@ -3,6 +3,7 @@ title: Tools and templates to help with internal communication and awareness
 description: Use these tools and templates to... 
 author: matthewrmottola1
 manager: samanro
+layout: LandingPage
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na

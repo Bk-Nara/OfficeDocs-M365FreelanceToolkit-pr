@@ -3,6 +3,7 @@ title: Best practices for team-wide collaboration
 description: Tips for facilitating team-wide collaboration in an enterprise freelance program.
 author: matthewrmottola1
 manager: samanro
+layout: LandingPage
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
