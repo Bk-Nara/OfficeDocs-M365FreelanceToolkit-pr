@@ -18,7 +18,7 @@ Internal communication
 
 One of the major challenges of launching an enterprise freelance program is driving awareness and education among internal stakeholders and adopters. Employees need a place where they can learn how the program works, access required training, and review best practices for working with freelancers.
 
-The Microsoft 365 Freelance Toolkit solves for this with a customized SharePoint communication site.
+The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoint communication site](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732).
 
 <ul class="panelContent cardsF cols cols2">
     <li>
@@ -27,13 +27,13 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized SharePoint
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/toolbox.svg" alt="Tools and templates" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/blocks-blue.svg" alt="Tools and templates" />
                         </div>
                     </div>
                     <div class="cardText">
                         <h3><a href="internalcommunicationtools.md">Tools and templates</a></h3>
-                        <p>This solution uses your existing investment in SharePoint Online, with a specialized communication site template for freelance programs.</p>
-                        <p>In addition, enterprise customers who have an agreement with Upwork can engage with a curated SharePoint Expert talent cloud for customization work, using a work description template provided in the toolkit.</p>
+                        <p>This solution uses your existing investment in SharePoint, with a <b>specialized communication site template</b> for freelance programs.</p>
+                        <p>In addition, enterprise customers who have an agreement with Upwork can engage with a curated <b>SharePoint Expert talent cloud</b> for customization work, using a work description template provided in the toolkit.</p>
                     </div>
                 </div>
             </div>
