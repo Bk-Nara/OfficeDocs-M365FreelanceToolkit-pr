@@ -49,7 +49,7 @@ To keep cross-functional, multi-geographical teams moving in the same direction,
                     </div>
                     <div class="cardText">
                         <h3><a href="teamwidecollaborationbestpractices.md">Best practices</a></h3>
-                        <p>Learn what's worked for us with these tips on streamlining collaboration between FTEs and freelancers.</p>
+                        <p>Learn what's worked for us with these tips on streamlining collaboration between employees and freelancers.</p>
                     </div>
                 </div>
             </div>

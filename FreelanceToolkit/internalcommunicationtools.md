@@ -26,7 +26,7 @@ It includes:
 
 
 
-**[Download the template.](https://placeholderfordownloadURL)** The freelance program communication site template is available as a free download through GitHub.
+**[Download the template.](https://placeholderfordownloadURL)** The freelance program SharePoint communication site template is available as a free download through GitHub.
 
 Customize your freelance program communication site
 ---------------------------------------------------

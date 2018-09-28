@@ -15,6 +15,11 @@ ms.custom: M365FreelanceToolkit
 Best practices for data analytics
 =================================
 
+As your enterprise begins 
+
+
+
+
 Chad is a director of strategic sourcing, and a procurement leader on the Gig Economy v-team, a cross functional leadership team comprised of product, HR, legal, and procurement. While his full time responsibility is leading an external talent sourcing program spanning 16 countries and 5,000+ assignments per year, he wants to be the procurement lead for the freelance program. To do this, he has three main responsibilities. 
 
 1. Increase internal demand of freelance platforms. 
