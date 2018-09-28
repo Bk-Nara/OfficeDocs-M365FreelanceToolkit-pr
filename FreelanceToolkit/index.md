@@ -27,7 +27,7 @@ This [solution overview](https://placeholderforPPTdownloadlink) provides slides 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
+                            <img src="media/m365_freelance_communications_comm_site_358x201.png" alt="a SharePoint communications site" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -45,7 +45,7 @@ This [solution overview](https://placeholderforPPTdownloadlink) provides slides 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
+                            <img src="media\M365_Freelance_collaboration_teamsconversationsmall.png" alt="a Teams conversation" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -63,7 +63,7 @@ This [solution overview](https://placeholderforPPTdownloadlink) provides slides 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
+                            <img src="media/m365_freelance_visibility_upworkreport.png" alt="a PowerBI dashboard" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -81,7 +81,7 @@ This [solution overview](https://placeholderforPPTdownloadlink) provides slides 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/M365_Freelance_homepage_whyfreelance.png" alt="Users and a plus sign" />
+                            <img src="media/m365_freelance_cognitiveload_358x201.png" alt="a Visio representation of a workflow" />
                         </div>
                     </div>
                     <div class="cardText">
