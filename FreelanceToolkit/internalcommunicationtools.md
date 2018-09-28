@@ -38,4 +38,4 @@ For example, here's a description that you could use to engage a freelancer to h
 > ### SharePoint consultant/architect needed to customize a communication site
 > *Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and manages calendar events. Site should be built so that we can leverage features, flows, checklists, and approvals to enhance automation at a future point.*
 
-Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <b>SharePoint Expert talent cloud</b> for customization work.
+Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **SharePoint Expert talent cloud** for customization work.
