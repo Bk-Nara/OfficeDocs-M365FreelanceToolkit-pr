@@ -27,7 +27,7 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/blocks-blue.svg" alt="blocks" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/process-flow-blue.svg" alt="a workflow diagram" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -65,7 +65,7 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="workflowautomationtools.md">Flow expert talent cloud</a></h3>
+                        <h3><a href="workflowautomationtools.md">Microsoft Flow expert talent cloud</a></h3>
                         <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated Flow expert talent cloud for customization work.</p>
                     </div>
                 </div>
