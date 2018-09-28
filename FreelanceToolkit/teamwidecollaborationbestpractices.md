@@ -68,7 +68,7 @@ When working with freelancers, here are some best practices that have worked for
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/lightbulb-idea-capture-blue.svg" alt="a lightbulb" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/Notebook-blue.svg" alt="a notebook" />
                         </div>
                     </div>
                     <div class="cardText">
