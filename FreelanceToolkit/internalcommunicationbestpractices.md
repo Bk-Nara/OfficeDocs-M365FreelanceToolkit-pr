@@ -97,7 +97,7 @@ When establishing and growing our freelance program at Microsoft, here are some 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/lightbult-idea-capture-blue.svg" alt="a lightbulb" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/lightbulb-idea-capture-blue.svg" alt="a lightbulb" />
                         </div>
                     </div>
                     <div class="cardText">
