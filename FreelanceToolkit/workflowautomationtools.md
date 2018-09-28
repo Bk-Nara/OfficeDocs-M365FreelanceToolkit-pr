@@ -1,6 +1,6 @@
 ---
 title: Tools and templates to help with workflow automation 
-description: Use these tools and templates to... 
+description: Use these tools and templates to automate workflow tasks in an enterprise freelance program. 
 author: matthewrmottola1
 manager: samanro
 ms.assetid: 

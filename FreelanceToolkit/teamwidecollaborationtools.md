@@ -1,6 +1,6 @@
 ---
 title: Tools and templates to help with team-wide collaboration 
-description: Use these tools and templates to... 
+description: Use these tools to facilitate team-wide collaboration in an enterprise freelance program.
 author: matthewrmottola1
 manager: samanro
 layout: LandingPage

@@ -21,7 +21,7 @@ The following best practices were developed based on our freelance program at Mi
 
 <br>
 
-**When establishing and growing our freelance program at Microsoft, here are some best practices that have worked for us.**
+**When establishing our freelance program at Microsoft, here are some best practices that have worked for us.**
 
 ---
 

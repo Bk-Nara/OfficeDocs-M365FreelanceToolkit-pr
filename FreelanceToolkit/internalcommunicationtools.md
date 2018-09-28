@@ -1,6 +1,6 @@
 ---
 title: Tools and templates to help with internal communication and awareness 
-description: Use these tools and templates to... 
+description: Use these tools and templates to set up internal communications about an enterprise freelancer program.
 author: matthewrmottola1
 manager: samanro
 ms.assetid: 

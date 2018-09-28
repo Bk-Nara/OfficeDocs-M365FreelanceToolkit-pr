@@ -1,6 +1,6 @@
 ---
 title: Tools and templates to help with data analytics 
-description: Use these tools and templates to... 
+description: Use these tools and templates to set up data analytics for an enterprise freelance program. 
 author: matthewrmottola1
 manager: samanro
 ms.assetid: 
