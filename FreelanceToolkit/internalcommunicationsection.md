@@ -32,7 +32,7 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                     </div>
                     <div class="cardText">
                         <h3><a href="internalcommunicationtools.md">Communication site template</a></h3>
-                        <p>This solution uses your existing investment in SharePoint, with a <b>specialized communication site template</b> for freelance programs.</p>
+                        <p>This solution uses your existing investment in SharePoint, with a specialized communication site template for freelance programs.</p>
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                     </div>
                     <div class="cardText">
                         <h3><a href="internalcommunicationtools.md">SharePoint Expert talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <b>SharePoint Expert talent cloud</b> for customization work.</p>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated SharePoint Expert talent cloud for customization work.</p>
                     </div>
                 </div>
             </div>

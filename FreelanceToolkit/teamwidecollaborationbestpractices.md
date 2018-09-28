@@ -26,6 +26,7 @@ The following best practices were developed based on the experiences of Beth, a 
 <br>
 
 When working with freelancers, here are some best practices that have worked for us.
+
 <ul class="panelContent cardsJ">
     <li>
         <div class="cardSize">

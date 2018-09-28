@@ -16,95 +16,77 @@ ms.custom: M365FreelanceToolkit
 Data analytics 
 ===================
 
-A major challenge in scaling an enterprise freelance program is tracking and communicating business performance via enterprise-specific KPIs. The volume and complexity within your enterprise can make data not only hard to capture, but hard to communicate effectively.
+A major challenge in scaling an enterprise freelance program is establishing performance KPIs. Freelance program administrators need to capture, track, and communicate program metrics, compare freelance KPIs to other staffing options, and identify groups that leverage the program most effectively.
 
-This effects:
+The Microsoft 365 Freelance Toolkit solves for this with a custom connector for [Power BI](https://powerbi.microsoft.com/).
 
--   Your ability to make data-driven decisions
-
--   Your ability to compare freelance spend with existing external staffing options
-
--   Your ability to identify which freelance talent categories work best within your organization's various groups
-
-With [Microsoft Power BI](https://powerbi.microsoft.com/), a suite of business analytics tools, you can collect end-to-end, real time data from every source, and customize data visualization dashboards.
-
-![A spending report in PowerBI](media/M365_Freelance_visibility_freelancerreport.png)
-
-Case study: Increased adoption
-------------------------------
-
-At Microsoft, we've found that data can be a powerful adoption driver for implementing a freelance program. Comparing freelance results with external staffing options has helped us understand where freelance talent is best applied within our enterprise.
-
-<ul class="panelContent cardsF">
+<ul class="panelContent cardsF cols cols2">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/document.png" alt="a document icon" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/download-blue.svg" alt="download symbol" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>Learn how Chad, a director of strategic sourcing in Microsoft Procurement, increased spend and adoption of our freelance program by leveraging a data-centric approach.</p>
-                        <p><a href="dataanalyticscasestudy.md">LEARN MORE</a></p>
+                        <h3><a href="internalcommunicationtools.md">Power BI connector</a></h3>
+                        <p>This solution uses your existing investment in Power BI, with a <b>specialized communication site template</b> for freelance programs.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="ribbon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="internalcommunicationbestpractices.md">Best practices</a></h3>
+                        <p>Learn what's worked for us with these tips on handling internal communication about your enterprise freelance program.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/users-people.svg" alt="people" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="internalcommunicationtools.md">SharePoint Expert talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <b>SharePoint Expert talent cloud</b> for customization work.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="list" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="internalcommunicationtools.md">Work description template</a></h3>
+                        <p>Use this work description as a starting point for finding a SharePoint expert who can help you customize your freelance program site.</p>
                     </div>
                 </div>
             </div>
         </div>
     </li>
 </ul>
-
-Ready to get started?
----------------------
-
-<ol>
-    <li>
-        <p>Start by customizing your Power BI dashboard to meet the needs of your enterprise.</p>
-        <p>You can do this work yourself, but another option is to engage a freelancer to help with this work.</p>
-        <p>For example, here's a description that you could use to engage a freelancer to help customize your Power BI dashboard:</p>
-        <ul class="panelContent cardsF cols cols2">
-            <li>
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img src="media/bill-blue.png" alt="A job posting template icon" />
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>Power BI consultant/architect needed to customize a dashboard</h3>
-                                <p>Looking for an experienced individual with advanced skills in Power BI to build dashboards and data visualizations for our key KPIs: Speed, cost, quality.</p>
-                                <p>We will provide the Excel/Azure data, which needs to be converted into a consumable format for management that will help aid business decisions. We will need assistance with logical design, physical design, implementation, testing and deployment of the end-to-end solution. The Power BI developer should have a firm grasp of BI implementation methodologies and will have had in-depth experience with the Microsoft BI stack (SSIS, SSRS, and SSAS).</p>
-                                <p>Specific technical skills desired include: Relational database and SQL language, analytics/OLAP cube development, report development.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </li>
-    <li>
-        <p>Once your dashboard is live, the next step is to share it with key stakeholders across your enterprise, to help them understand which groups are seeing the most value from leveraging freelance talent.</p>
-        <ul class="panelContent cardsF cols cols2">
-            <li>
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img src="media/download-blue.png" alt="Downloadable infographic" />
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <p>This infographic can help stakeholders across your enterprise understand where they can research the value of your freelance program.</p>
-                                <p><a href="media/M365-FreelanceToolkit-TearSheet-DataAnalytics.pdf">DOWNLOAD</a></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </li>
-</ol>
