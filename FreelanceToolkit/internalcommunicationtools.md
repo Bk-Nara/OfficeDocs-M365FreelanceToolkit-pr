@@ -32,8 +32,7 @@ The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communicat
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://placeholderfordownloadURL">DOWNLOAD</a></h3>
-                        <p>Freelance program communication site template</p>
+                        <h3><a href="https://placeholderfordownloadURL">Download the freelance program communication site template</a></h3>
                     </div>
                 </div>
             </div>
