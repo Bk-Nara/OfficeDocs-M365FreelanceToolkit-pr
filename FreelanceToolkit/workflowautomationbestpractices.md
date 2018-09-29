@@ -80,12 +80,12 @@ As she's automated workflows to support our freelance program at Microsoft, here
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/help.svg" alt="a question mark" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/process-flow-blue.svg" alt="a workflow diagram" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Ask for help</h3>
-                        <p>Liane found that if you think something can't be automated, but you're doing it repeatedly, it can probably be automated. When she recognized a repeated task and wasn't sure how to connect systems together, she captured her requirements and engaged a freelancer to propose and build a solution.</p>
+                        <h3>Workflows aren't just about data and approvals</h3>
+                        <p>Liane uses automated workflows for all kinds of tasks, not just ones where captured data needs to move from one place to another, or ones where stage-gated governance is required. She automates responses to specific inquiries, distribution of announcements and newsletters, and even updates to information available on our enterprise freelance program communication site.</p>
                     </div>
                 </div>
             </div>
@@ -97,12 +97,12 @@ As she's automated workflows to support our freelance program at Microsoft, here
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/process-flow-blue.svg" alt="a workflow diagram" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/help.svg" alt="a question mark" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Workflows aren't just about data and approvals</h3>
-                        <p>Liane uses automated workflows for all kinds of tasks, not just ones where captured data needs to move from one place to another, or ones where stage-gated governance is required. She automates responses to specific inquiries, distribution of announcements and newsletters, and even updates to information available on our enterprise freelance program communication site.</p>
+                        <h3>Ask for help</h3>
+                        <p>Liane found that if you think something can't be automated, but you're doing it repeatedly, it can probably be automated. When she recognized a repeated task and wasn't sure how to connect systems together, she captured her requirements and engaged a freelancer to propose and build a solution.</p>
                     </div>
                 </div>
             </div>
