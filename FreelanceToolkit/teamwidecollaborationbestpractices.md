@@ -24,7 +24,7 @@ The following best practices were developed based on the experiences of Beth, a 
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RWm2wV&AutoPlayVideo=false]
 
 
-When working with freelancers, here are some best practices that have worked for us.
+When working with freelancers, here are some best practices that have worked for Beth and her team.
 
 <ul class="panelContent cardsJ">
     <li>

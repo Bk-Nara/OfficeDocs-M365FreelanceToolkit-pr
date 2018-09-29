@@ -24,7 +24,7 @@ The following best practices were developed based on the experiences of Chad, a 
 - Providing evidence that freelance sourcing is a responsible and scalable solution, with enough talent to supply the demands of our enterprise.
 
 
-As we have measured the impact of our freelance program at Microsoft, here are some best practices that have worked for us.
+As Chad and his team have measured the impact of our freelance program at Microsoft, here are some best practices that have worked for them.
 
 <ul class="panelContent cardsJ">
     <li>
