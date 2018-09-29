@@ -3,6 +3,7 @@ title: Best practices for workflow automation
 description: Tips for automating workflow tasks in an enterprise freelance program.
 author: matthewrmottola1
 manager: samanro
+layout: LandingPage
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
