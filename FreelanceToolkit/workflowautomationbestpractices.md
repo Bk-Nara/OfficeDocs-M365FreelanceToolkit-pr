@@ -15,31 +15,96 @@ ms.custom: M365FreelanceToolkit
 Best practices for workflow automation
 ======================================
 
-Liane is a Freelance Program Manager at Microsoft. While her title is technically 3 words, her responsibilities span across at least 3 different roles, with success being measured by her ability to increase internal adoption of freelance platforms. To accomplish this, her role starts looking more like the Constitution than a job description. She must:
+As our enterprise freelance program sees increasing adoption, we're learning that freelance program management is a high-demand, multi-faceted role.
 
-- Be a one-woman CRM
-    - Email people that sign up 
-    - Email people that take training video
-    - Email people that fill out application
-    - Track the funnel and follow up with those at all stages 
+The following best practices were developed based on the experiences of Liane, a freelance program manager at Microsoft. Liane's responsibilities span everything from facilitating onboarding, to helping people understand how and when to engage freelancers, to processing and addressing employee concerns about enterprise freelance strategy. Automating some aspects of her work has been critical to sustaining operations.
 
-- Be a one-woman fire department
-    - Consult those with questions
-    - Consult those angry about the organization using freelancers
-    - Teach employees how to use freelancers, everything from job posting to freelancer management
+As we have automated workflows to support our freelance program at Microsoft, here are some best practices that have worked for us.
 
-- Operationalize the program
-
-The results are consistently phenomenal. Not only can full time employees tap into the top 3% of talent on the platform, but this talent is delivered faster and cheaper than traditional alternatives. But getting there requires significant cognitive load. Reid Hoffman describes starting a company as, “throwing yourself off the cliff and assembling an airplane on the way down”. While difficult, he describes change in an enterprise as not throwing yourself off a cliff, but rather piloting an old 747 with every light & noise alerting your doomed to crash. Liane knows this all too well. 
-
-Change in an enterprise is tough. Especially when that change is as prominent as implementing a new model of work. On a daily day she has problems like Sarah, who took the training video and filled out the application, but setup a profile on the platform before the system was ready. Liane has to mediate Sarah, while working with talent management platforms to mediate their back end processes as the scale of an enterprise breaks their systems. 
-
-Or Julie, an angry employee who took the training video and filled out the application two weeks ago but never received an email. Or Ron, who doesn’t want to give public feedback after his freelancer went rogue for two weeks and delivered poor quality work. Or Sherry, whose freelancer billed 270 hours in 2 weeks. After mediating Sherry, then communicating with the talent management platform, Liane found out that the freelancer was working on three different projects under one contract. His hours were valid. He had three different freelancers working under him. But that wasn’t communicated internally or by the talent management platform.  
-
-Liane needs a change, and that change comes from her friend Susie, a PM on the Microsoft Flow team. Flow automates workflows using if this, then that, logic between various applications. With the help of Susie, Liane identified key workflows to save her time. These were: 
-
-- From project applications in Forms to an email follow up in Outlook 
-- From compliance training videos in Microsoft Stream to an email follow up in Outlook
-- From newsletter signups on SharePoint to a signup database on Excel 
-
-Thanks to Flow, Liane no longer is a manual CRM system. Her cognitive load was significantly reduced, and she was able to focus on user engagement and retention rather than staying afloat.
+<ul class="panelContent cardsJ">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Build to scale</h3>
+                        <p>Liane started small, but built her workflows in ways that would scale as the program grew. This enabled her to test the automation with low-level impact when things didn't work as planned, giving her room for fine-tuning.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Shift repeating tasks to tools that support automation</h3>
+                        <p>As Liane was figuring out how to set up our freelance program, she realized that some elements of her initial processes could be automated if she moved them to different tools. Look through the <a href="https://flow.microsoft.com/en-us/connectors/">list of Microsoft Flow connectors</a> to get a sense of what's possible.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Think creatively</h3>
+                        <p>As she stood up our enterprise freelance program, Liane found that sometimes there were tasks she couldn't automate because of elements that required human judgement. She stepped back to think about the broader systems involved and found that if she adjusted some of the ways that judgement was captured, she could reduce the cognitive load required to keep the workflow moving, and increase the pace of workflow completion.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Ask for help</h3>
+                        <p>Liane found that if you think something can't be automated, but you're doing it repeatedly, it can probably be automated. When she recognized a repeated task and wasn't sure how to connect systems together, she captured her requirements and engaged a freelancer to propose and build a solution.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Workflows aren't just about data and approvals</h3>
+                        <p>Liane uses automated workflows for all kinds of tasks, not just ones where captured data needs to move from one place to another, or ones where stage-gated governance is required. She automates responses to specific inquiries, distribution of announcements and newsletters, and even updates to information available on our enterprise freelance program communication site.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
