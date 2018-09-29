@@ -85,7 +85,7 @@ As she's automated workflows to support our freelance program at Microsoft, here
                     </div>
                     <div class="cardText">
                         <h3>Workflows aren't just about data and approvals</h3>
-                        <p>Liane uses automated workflows for all kinds of tasks, not just ones where captured data needs to move from one place to another, or ones where stage-gated governance is required. She automates responses to specific inquiries, distribution of announcements and newsletters, and even updates to information available on our enterprise freelance program communication site.</p>
+                        <p>Liane uses automated workflows for all kinds of tasks, not just ones where captured data needs to move from one place to another, or ones where stage-gated governance is required. She automates responses to specific inquiries, distribution of announcements and newsletters, and even updates to information available on our freelance program communication site.</p>
                     </div>
                 </div>
             </div>
