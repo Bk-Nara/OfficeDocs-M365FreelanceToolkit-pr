@@ -29,7 +29,7 @@ As she's automated workflows to support our freelance program at Microsoft, here
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/globe-internet.svg" alt="a globe" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +46,7 @@ As she's automated workflows to support our freelance program at Microsoft, here
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/toolbox.svg" alt="a wrench" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -63,7 +63,7 @@ As she's automated workflows to support our freelance program at Microsoft, here
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/blocks-blue.svg" alt="blocks" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -80,7 +80,7 @@ As she's automated workflows to support our freelance program at Microsoft, here
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/help.svg" alt="a question mark" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -97,7 +97,7 @@ As she's automated workflows to support our freelance program at Microsoft, here
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/flag-blue.svg" alt="a flag" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/process-flow-blue.svg" alt="a workflow diagram" />
                         </div>
                     </div>
                     <div class="cardText">
