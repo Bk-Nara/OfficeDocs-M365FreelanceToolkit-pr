@@ -34,7 +34,7 @@ As she's automated workflows to support our freelance program at Microsoft, here
                     </div>
                     <div class="cardText">
                         <h3>Build to scale</h3>
-                        <p>Liane started small, but built her workflows in ways that would scale as the program grew. This enabled her to test the automation with low-level impact when things didn't work as planned, giving her room for fine-tuning.</p>
+                        <p>Liane started small, but built her workflows in ways that would scale as the program grew. This enabled her to test the automation with low-level impact when things didn't work as planned, giving her room for fine tuning.</p>
                     </div>
                 </div>
             </div>
