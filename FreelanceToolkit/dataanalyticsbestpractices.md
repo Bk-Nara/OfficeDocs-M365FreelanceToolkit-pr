@@ -72,7 +72,7 @@ As Chad and his team have measured the impact of our freelance program at Micros
                     </div>
                     <div class="cardText">
                         <h3>Track demand by task type and team</h3>
-                        <p>As Chad's team has been tracking the growing demand for our enterprise freelance program, they've found it useful to watch growth across the different types of tasks that employees are sending through, as well as which teams and divisions are adopting the model. This helps them understand where a freelance program is useful, and identify what other groups may benefit from additional program information.</p>
+                        <p>As Chad's team has been tracking the growing demand for our enterprise freelance program, they've found it useful to watch growth across the different types of tasks that employees are sending through, as well as which teams and divisions are adopting the model. This helps them understand where our freelance program is useful, and identify what other groups may benefit from additional program information.</p>
                     </div>
                 </div>
             </div>

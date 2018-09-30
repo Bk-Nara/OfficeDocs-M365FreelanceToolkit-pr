@@ -83,7 +83,7 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                     </div>
                     <div class="cardText">
                         <h3><a href="internalcommunicationtools.md">Work description template</a></h3>
-                        <p>Use this work description as a starting point for finding a Flow expert who can help you customize your freelance program site.</p>
+                        <p>Use this work description as a starting point for finding a Flow expert who can help you customize your automated freelance workflows.</p>
                     </div>
                 </div>
             </div>
