@@ -36,6 +36,6 @@ While the template included in this toolkit will give you a starting point, ther
 For example, here's a description that you could use to engage a freelancer to help customize your freelance program communication site:
 
 > ### SharePoint consultant/architect needed to customize a communication site
-> *Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and manages calendar events. Site should be built so that we can leverage features, flows, checklists, and approvals to enhance automation at a future point.*
+> *Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and calendar events. Site should be built so that we can leverage features, workflows, checklists, and approvals to enable automation.*
 
 Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **Microsoft SharePoint talent cloud** for customization work.
