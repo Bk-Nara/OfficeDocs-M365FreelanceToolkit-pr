@@ -1,5 +1,5 @@
 ---
-title: Tools and templates to help with internal communication and awareness 
+title: Tools and templates for internal communication and awareness 
 description: Use these tools and templates to set up internal communications about an enterprise freelancer program.
 author: matthewrmottola1
 manager: samanro
@@ -12,7 +12,7 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Tools and templates to help with internal communication
+Tools and templates for internal communication
 =======================================================
 
 The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communication site template to help enterprises create a one-stop shop for their freelance program details, with tools to help accelerate onboarding and adoption.

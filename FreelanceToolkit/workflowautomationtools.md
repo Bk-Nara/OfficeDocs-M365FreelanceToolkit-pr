@@ -1,5 +1,5 @@
 ---
-title: Tools and templates to help with workflow automation 
+title: Tools and templates for workflow automation 
 description: Use these tools and templates to automate workflow tasks in an enterprise freelance program. 
 author: matthewrmottola1
 manager: samanro
@@ -12,7 +12,7 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Tools and templates to help with workflow automation
+Tools and templates for workflow automation
 ====================================================
 
 The Microsoft 365 Freelance Toolkit uses your existing investment in [Microsoft Flow](https://flow.microsoft.com/).

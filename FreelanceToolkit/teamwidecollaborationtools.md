@@ -1,5 +1,5 @@
 ---
-title: Tools and templates to help with team-wide collaboration 
+title: Tools and templates for team-wide collaboration 
 description: Use these tools to facilitate team-wide collaboration in an enterprise freelance program.
 author: matthewrmottola1
 manager: samanro
@@ -13,7 +13,7 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Tools and templates to help with team-wide collaboration
+Tools and templates for team-wide collaboration
 ========================================================
 
 The Microsoft 365 Freelance Toolkit uses your existing investments in [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software).
