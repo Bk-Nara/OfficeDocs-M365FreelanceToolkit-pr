@@ -68,7 +68,7 @@ This [solution overview](https://placeholderforPPTdownloadlink) provides slides 
                     </div>
                     <div class="cardText">
                         <h3>Data analytics</h3>
-                        <p>Capture, track, and communicate performance KPIs for your enterprise freelance program.</p>
+                        <p>Capture, track, and communicate KPIs for your enterprise freelance program.</p>
                         <p><a href="dataanalyticssection.md">LEARN MORE</a></p>
                     </div>
                 </div>

@@ -16,7 +16,7 @@ ms.custom: M365FreelanceToolkit
 Data analytics 
 ===================
 
-A major challenge in scaling an enterprise freelance program is establishing performance KPIs. Freelance program administrators need to capture, track, and communicate program metrics, compare freelance KPIs to other staffing options, and identify groups that leverage the program most effectively.
+A major challenge in scaling an enterprise freelance program is establishing KPIs. Freelance program administrators need to capture, track, and communicate program metrics, compare freelance KPIs to other staffing options, and identify groups that leverage the program most effectively.
 
 The Microsoft 365 Freelance Toolkit solves for this with a custom connector for [Power BI](https://powerbi.microsoft.com/).
 
@@ -83,7 +83,7 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                     </div>
                     <div class="cardText">
                         <h3><a href="dataanalyticstools.md">Work description template</a></h3>
-                        <p>Use this work description as a starting point for finding a Power BI expert who can help you customize your freelance program site.</p>
+                        <p>Use this work description as a starting point for finding a Power BI expert who can help you customize your freelance program dashboard.</p>
                     </div>
                 </div>
             </div>

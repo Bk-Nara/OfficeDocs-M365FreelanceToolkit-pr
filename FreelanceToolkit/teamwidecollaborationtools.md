@@ -20,12 +20,12 @@ The Microsoft 365 Freelance Toolkit uses your existing investments in [Microsoft
 
 ![an application window](media\M365_Freelance_collaboration_guestaccess.png)
 
-With Teams and Planner, enterprises can manage their freelance communication and collaboration needs, specifically: 
+With Teams and Planner, enterprises can manage their freelance collaboration needs, specifically: 
 - **Communication.** Public and private channels for members to engage in discussion. 
-- **Task management.** One place to track progress and align each team member's workflow through project management tools like Microsoft Planner.
-- **Collaboration.** One place to store shared files and retrieve them through intelligent search.
+- **Task management.** One place to track project progress and align each team member's assignments.
+- **File storage.** One place to store shared files and retrieve them through intelligent search.
 
-Learn more about Microsoft Teams free and guest access
+Learn more about guest access and Microsoft Teams free
 ------------------------------------------------------
 
 With [Microsoft Teams free](https://products.office.com/microsoft-teams/free), freelancers can join and exit your team as needed, with no cost or commitment. Employees can provide freelancers with [external guest access](https://support.office.com/article/fccb4fa6-f864-4508-bdde-256e7384a14f) to their teams, giving everyone a single place to collaborate on tasks.
