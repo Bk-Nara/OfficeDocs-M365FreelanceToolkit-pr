@@ -26,8 +26,9 @@ For example, you might connect these types of workflows:
 - **Newsletter sign-up.** Employees who sign up to receive a newsletter through SharePoint are added to an Excel spreadsheet.
 - **Project approval communication.** Employees who submit project applications using Forms are added to a SharePoint list for review, and then receive a follow-up email when their project is approved or denied.
 
-Customize workflows to automate tasks in your freelance program
----------------------------------------------------------------
+Customize workflows to automate freelance program tasks
+-------------------------------------------------------
+
 While you can [customize workflows yourself](https://docs.microsoft.com/flow/getting-started) in Flow, another option is to engage a freelancer to help with customization.
 
 For example, here's a description that you could use to engage a freelancer to help customize your freelance program workflows:

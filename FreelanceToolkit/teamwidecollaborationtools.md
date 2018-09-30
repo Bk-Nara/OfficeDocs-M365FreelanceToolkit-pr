@@ -27,6 +27,7 @@ With Teams and Planner, enterprises can manage their freelance collaboration nee
 
 Learn more about guest access and Microsoft Teams free
 ------------------------------------------------------
+
 With [Microsoft Teams free](https://products.office.com/microsoft-teams/free), freelancers can join and exit your team as needed, with no cost or commitment. Employees can provide freelancers with [external guest access](https://support.office.com/article/fccb4fa6-f864-4508-bdde-256e7384a14f) to their teams, giving everyone a single place to collaborate on tasks.
 
 Here are a few links to help you learn more:
