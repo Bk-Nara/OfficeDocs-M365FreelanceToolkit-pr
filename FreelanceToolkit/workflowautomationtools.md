@@ -28,7 +28,6 @@ For example, you might connect these types of workflows:
 
 Customize workflows to automate tasks in your freelance program
 ---------------------------------------------------------------
-
 While you can [customize workflows yourself](https://docs.microsoft.com/flow/getting-started) in Flow, another option is to engage a freelancer to help with customization.
 
 For example, here's a description that you could use to engage a freelancer to help customize your freelance program workflows:

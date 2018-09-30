@@ -25,7 +25,6 @@ It includes sample visualizations to help enterprises identify the groups within
 
 Customize your freelance program Power BI dashboard
 ---------------------------------------------------
-
 While the connector and sample visualizations included in this toolkit will give you a starting point, there will still be work to customize a dashboard that it reflects the specifics of your enterprise. You can [do this work yourself](https://docs.microsoft.com/power-bi/service-dashboard-create), but another option is to engage a freelancer to help with customization.
 
 For example, here's a description that you could use to engage a freelancer to help customize your freelance program Power BI dashboard:
