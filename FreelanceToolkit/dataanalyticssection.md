@@ -1,6 +1,6 @@
 ---
-title: Workflow automation
-description: Use Microsoft Flow to automate workflow tasks in an enterprise freelance program.
+title: Data analytics 
+description: Use Power BI to set up data analytics for an enterprise freelance program.
 author: matthewrmottola1
 manager: samanro
 layout: LandingPage
@@ -13,12 +13,12 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
 ---
-Workflow automation
+Data analytics 
 ===================
 
-An enterprise freelance program requires provisioning, compliance, and monitoring, all while providing a frictionless process for your employees.
+A major challenge in scaling an enterprise freelance program is establishing KPIs. Freelance program administrators need to capture, track, and communicate program metrics, compare freelance KPIs to other staffing options, and identify groups that leverage the program most effectively.
 
-To reduce the need for manual completion of repetitive tasks, Microsoft 365 Freelance Toolkit uses [Microsoft Flow](https://flow.microsoft.com/) to create automated workflows between apps and services, send notifications, synchronize files, and collect data.
+The Microsoft 365 Freelance Toolkit solves for this with a custom connector for [Power BI](https://powerbi.microsoft.com/).
 
 <ul class="panelContent cardsF cols cols2">
     <li>
@@ -27,12 +27,12 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/process-flow-blue.svg" alt="a workflow diagram" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/connector-blue.svg" alt="an arrow" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="workflowautomationtools.md">Tools</a></h3>
-                        <p>This solution uses your existing investment in Microsoft Flow.</p>
+                        <h3><a href="dataanalyticstools.md">Power BI connector</a></h3>
+                        <p>This solution uses your existing investment in Power BI, with a custom connector for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>.</p>
                     </div>
                 </div>
             </div>
@@ -48,8 +48,8 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="workflowautomationbestpractices.md">Best practices</a></h3>
-                        <p>Learn what's worked for us with these tips on automating workflow tasks in an enterprise freelance program.</p>
+                        <h3><a href="dataanalyticsbestpractices.md">Best practices</a></h3>
+                        <p>Learn what's worked for us with these tips on setting up data analytics for an enterprise freelance program.</p>
                     </div>
                 </div>
             </div>
@@ -65,8 +65,8 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="workflowautomationtools.md">Microsoft Flow talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated Microsoft Flow talent cloud for customization work.</p>
+                        <h3><a href="dataanalyticstools.md">Microsoft Power BI talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated Microsoft Power BI talent cloud for customization work.</p>
                     </div>
                 </div>
             </div>
@@ -82,8 +82,8 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">Work description template</a></h3>
-                        <p>Use this work description as a starting point for finding a Flow expert who can help you customize your automated freelance workflows.</p>
+                        <h3><a href="dataanalyticstools.md">Work description template</a></h3>
+                        <p>Use this work description as a starting point for finding a Power BI expert who can help you customize your freelance program dashboard.</p>
                     </div>
                 </div>
             </div>
