@@ -11,6 +11,7 @@ ms.topic: article
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
+ROBOTS: NOINDEX, NOFOLLOW
 ---
 Tools and templates for workflow automation
 ====================================================
@@ -26,8 +27,8 @@ For example, you might connect these types of workflows:
 - **Newsletter sign-up.** Employees who sign up to receive a newsletter through SharePoint are added to an Excel spreadsheet.
 - **Project approval communication.** Employees who submit project applications using Forms are added to a SharePoint list for review, and then receive a follow-up email when their project is approved or denied.
 
-Customize workflows to automate freelance program tasks
--------------------------------------------------------
+Customize workflows to automate tasks
+-------------------------------------
 
 While you can [customize workflows yourself](https://docs.microsoft.com/flow/getting-started) in Flow, another option is to engage a freelancer to help with customization.
 
