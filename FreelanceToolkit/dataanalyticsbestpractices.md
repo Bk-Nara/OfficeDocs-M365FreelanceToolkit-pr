@@ -84,7 +84,7 @@ As Chad and his team have measured the impact of our freelance program at Micros
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/bill-blue.svg" alt="a ledger" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/usage-report-blue.svg" alt="a ledger" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -101,7 +101,7 @@ As Chad and his team have measured the impact of our freelance program at Micros
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/migration-blue.svg" alt="two documents" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/objects-blue.svg" alt="two documents" />
                         </div>
                     </div>
                     <div class="cardText">

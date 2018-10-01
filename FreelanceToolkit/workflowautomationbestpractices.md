@@ -29,7 +29,7 @@ As she's automated workflows to support our freelance program at Microsoft, here
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/globe-internet.svg" alt="a globe" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/trend-graph-blue.svg" alt="a globe" />
                         </div>
                     </div>
                     <div class="cardText">
