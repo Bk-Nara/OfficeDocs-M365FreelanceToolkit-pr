@@ -19,7 +19,7 @@ Microsoft 365 Freelance Toolkit
 
 The Microsoft 365 Freelance Toolkit builds on your existing technology investments and provides tools, templates, and best practices that help enterprises launch, execute, and manage freelance programs at scale.
 
-This [solution overview](https://placeholderforPPTdownloadlink) provides slides to help drive stakeholder discussion around how your existing Microsoft 365 investments can help support an enterprise freelance program.
+This [solution overview package](https://placeholderfordownloadlink) provides infographics and slides to help drive stakeholder discussion around how your existing Microsoft 365 investments can help support an enterprise freelance program.
 
 <ul class="panelContent cardsW cols cols2">
     <li>
