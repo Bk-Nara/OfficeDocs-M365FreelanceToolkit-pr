@@ -39,7 +39,7 @@ As Chad and his team have measured the impact of our freelance program at Micros
                     </div>
                     <div class="cardText">
                         <h3>Identify benchmarks and KPIs</h3>
-                        <p>Chad's team invested early in identifying specific benchmarks and KPIs for measuring our freelance program. Some key metrics include average time to hire, spend per job category, average spend per contract, and average contract duration.</p>
+                        <p>Chad's team invested early in identifying specific benchmarks and KPIs for measuring our freelance program. Some key metrics include average time to engage, spend per project category, average spend per contract, and average contract duration.</p>
                     </div>
                 </div>
             </div>
