@@ -99,7 +99,7 @@ This [solution overview package](https://placeholderfordownloadlink) provides in
 Ready to drive discussion?
 ---------------------------------------------------
 
-Download the following infographics to share within your organization.
+Download these resources to share within your organization.
 
 
 <ul class="panelContent cardsW">
