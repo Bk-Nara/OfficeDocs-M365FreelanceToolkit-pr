@@ -14,7 +14,7 @@ localization_priority: None
 ms.custom: M365FreelanceToolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-Microsoft 365 Freelance Toolkit: Solution overview resources
+Microsoft 365 Freelance Toolkit overview resources
 ============================================================
 
 These infographics and slides were designed to help you drive stakeholder discussion around how your existing investments in Microsoft 365 can help support an enterprise freelance program.
