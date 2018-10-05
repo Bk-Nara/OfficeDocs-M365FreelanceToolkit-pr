@@ -21,98 +21,89 @@ These infographics and slides were designed to help you drive stakeholder discus
 
 <ul class="panelContent cardsW">
     <li>
-        <a href="media/M365-FreelanceToolkit-TearSheet-FreelanceProgram.pdf">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/thumbnail-M365-FreelanceToolkit-TearSheet-FreelanceProgram.png" alt="Freelance program infographic" />
+                            <a href="media/M365-FreelanceToolkit-TearSheet-FreelanceProgram.pdf"><img src="media/thumbnail-M365-FreelanceToolkit-TearSheet-FreelanceProgram.png" alt="Freelance program infographic" /></a>
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Freelance program</h3>
-                        <p>Download an infographic about how you can set up a freelance program in your organization.</p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-FreelanceProgram.pdf"><b>Freelance program</b></a></p>
+                        <p>Understand the steps to launch a freelance program in your organization with this infographic.</p>
                     </div>
                 </div>
             </div>
         </div>
-        </a>
     </li>
     <li>
-        <a href="media/M365-FreelanceToolkit-TearSheet-InternalCommunication.pdf">
+        
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/thumbnail-M365-FreelanceToolkit-TearSheet-InternalCommunication.png" alt="Internal communications infographic" />
+                            <a href="media/M365-FreelanceToolkit-TearSheet-InternalCommunication.pdf"><img src="media/thumbnail-M365-FreelanceToolkit-TearSheet-InternalCommunication.png" alt="Internal communications infographic" /></a>
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Internal communications</h3>
-                        <p>Download an infographic to share how your organization can drive awareness amongst internal stakeholders and adopters with this visual one-page guide.</p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-InternalCommunication.pdf"><b>Internal communications</b></a></p>
+                        <p>Drive awareness amongst internal stakeholders and adopters with this visual one-page guide to your internal communications site.</p>
                     </div>
                 </div>
             </div>
         </div>
-        </a>
     </li>
     <li>
-        <a href="media/M365-FreelanceToolkit-TearSheet-TeamCollaboration.pdf">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/thumbnail_M365-FreelanceToolkit-TearSheet-TeamCollaboration.png" alt="Team collaboration infographic" />
+                            <a href="media/M365-FreelanceToolkit-TearSheet-TeamCollaboration.pdf"><img src="media/thumbnail_M365-FreelanceToolkit-TearSheet-TeamCollaboration.png" alt="Team collaboration infographic" /></a>
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Team collaboration</h3>
-                        <p>Download an infographic to share how your organization can internally transform the way you communicate, collaborate, and project manage a hybrid full-time-employee and freelance workforce.</p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-TeamCollaboration.pdf"><b>Team collaboration</b></a></p>
+                        <p>Share how your organization can internally transform the way you communicate, collaborate, and project manage a hybrid full-time-employee and freelance workforce.</p>
                     </div>
                 </div>
             </div>
         </div>
-        </a>
     </li>
     <li>
-        <a href="media/M365-FreelanceToolkit-TearSheet-DataAnalytics.pdf">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/thumbnail-M365-FreelanceToolkit-TearSheet-DataAnalytics.png" alt="Data analytics infographic" />
+                            <a href="media/M365-FreelanceToolkit-TearSheet-DataAnalytics.pdf"><img src="media/thumbnail-M365-FreelanceToolkit-TearSheet-DataAnalytics.png" alt="Data analytics infographic" /></a>
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Data analytics</h3>
-                        <p>Download an infographic to share how your organization can drive awareness amongst internal stakeholders and adopters with this PowerBI visual one-page guide.</p>
+                        <p><b><a href="media/M365-FreelanceToolkit-TearSheet-DataAnalytics.pdf">Data analytics</b></a></p>
+                        <p>Share how your organization can use data analytics to measure the success of your freelance program.</p>
                     </div>
                 </div>
             </div>
         </div>
-        </a>
     </li>
     <li>
-        <a href="media/M365-FreelanceToolkit-TearSheet-WorkFlowAutomation.pdf">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="media/thumbnail-M365-FreelanceToolkit-TearSheet-WorkFlowAutomation.png" alt="Workflow automation infographic" />
+                            <a href="media/M365-FreelanceToolkit-TearSheet-WorkFlowAutomation.pdf"><img src="media/thumbnail-M365-FreelanceToolkit-TearSheet-WorkFlowAutomation.png" alt="Workflow automation infographic" /></a>
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Workflow automation</h3>
-                        <p>Download an infographic to share how your organization can drive awareness amongst internal stakeholders and adopters with this visual one-page guide.</p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-WorkFlowAutomation.pdf"><b>Workflow automation</b></a></p>
+                        <p>Share how your organization can automate workflows easily with Microsoft Flow.</p>
                     </div>
                 </div>
             </div>
         </div>
-        </a>
     </li>
 </ul>
