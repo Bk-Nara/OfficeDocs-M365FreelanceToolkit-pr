@@ -56,4 +56,22 @@ To keep cross-functional, multi-geographical teams moving in the same direction,
             </div>
         </div>
     </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="media/download-blue.png" alt="Downloadable infographic" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Share within your organization</h3>
+                        <p>Download an infographic to share how your organization can internally transform the way you communicate, collaborate, and project manage a hybrid full-time-employee and freelance workforce.</p>
+                        <p><a href="media/M365-FreelanceToolkit-TearSheet-TeamCollaboration.pdf">Download the infographic</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
 </ul>
