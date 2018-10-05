@@ -104,32 +104,12 @@ Ready to drive discussion?
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/whats-new-megaphone-blue.svg" alt="a megaphone" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/download-blue.svg" alt="download" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>These infographics can help you share how your existing investments in Microsoft 365 can help support an enterprise freelance program.</p>
-                        <p><a href="placeholder">Internal communication</a></p>
-                        <p><a href="placeholder">Team-wide collaboration</a></p>
-                        <p><a href="placeholder">Data analytics</a></p>
-                        <p><a href="placeholder">Workflow automation</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/walkthrough-map-blue.svg" alt="a map" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <p>This slide deck walks through what's included in the Microsoft 365 Freelance Toolkit, how it can help support an enterprise freelance program, and .</p>
-                        <p><a href="placeholder">DOWNLOAD</a></p>
+                        <p>These infographics and slides can help you share how your existing investments in Microsoft 365 can help support an enterprise freelance program.</p>
+                        <p><a href="placeholder">DOWNLOAD THESE RESOURCES</a></p>
                     </div>
                 </div>
             </div>
