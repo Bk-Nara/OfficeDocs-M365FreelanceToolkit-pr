@@ -23,7 +23,7 @@ Once you have defined how your enterprise freelance program will work, you can u
 ![a workflow diagram](media/m365_freelance_cognitiveload_358x201.png)
 
 For example, you might connect these types of workflows:
-- **Account creation.** Employees who complete compliance training videos in Stream receive a follow-up email with account information.
+- **Account creation.** Employees who complete compliance training videos in [Microsoft Stream](https://stream.microsoft.com) receive a follow-up email with account information.
 - **Newsletter sign-up.** Employees who sign up to receive a newsletter through SharePoint are added to an Excel spreadsheet.
 - **Project approval communication.** Employees who submit project applications using Forms are added to a SharePoint list for review, and then receive a follow-up email when their project is approved or denied.
 

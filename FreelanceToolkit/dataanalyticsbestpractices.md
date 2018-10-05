@@ -38,8 +38,8 @@ As Chad and his team have measured the impact of our freelance program at Micros
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Identify benchmarks and KPIs</h3>
-                        <p>Chad's team invested early in identifying specific benchmarks and KPIs for measuring our freelance program. Some key metrics include average time to engage, spend per project category, average spend per contract, and average contract duration.</p>
+                        <h3>Identify benchmarks and key performance indicators</h3>
+                        <p>Chad's team invested early in identifying specific benchmarks and key performance indicators (KPIs) for measuring our freelance program. Some key metrics include average time to engage, spend per project category, average spend per project, and average project duration.</p>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@ As Chad and his team have measured the impact of our freelance program at Micros
                     </div>
                     <div class="cardText">
                         <h3>Tie data to stories</h3>
-                        <p>While Chad's team has found that data tells a compelling story by itself, they have learned that understanding the context behind certain data points is also important. Transformation to this new way of working is challenging in an enterprise environment, and not all progress can be quantified.</p>
+                        <p>While Chad's team has found that data tells a compelling story by itself, they have learned that leveraging key data points in the context of specific case studies is an effective way to share program success.</p>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@ As Chad and his team have measured the impact of our freelance program at Micros
                     </div>
                     <div class="cardText">
                         <h3>Measure spend across multiple pivots</h3>
-                        <p>Because freelance program adoption is varied across our enterprise, Chad's team watches spend within the program across time (total spend per month), task types, and even per employee. Understanding what work is being funded when and where helps his team target their investments in understanding program effectiveness.</p>
+                        <p>Because freelance program adoption is varied across our enterprise, Chad's team watches spend within the program across time (total spend per month), task types, and even per employee. Understanding what work is being funded when and where helps his team target their engagements to increase program use and effectiveness.</p>
                     </div>
                 </div>
             </div>

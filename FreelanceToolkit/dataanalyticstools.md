@@ -16,13 +16,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 Tools and templates for data analytics
 ===============================================
 
-The Microsoft 365 Freelance Toolkit provides a custom Power BI connector to enhance core functionality for a freelance environment. 
+The Microsoft 365 Freelance Toolkit provides a custom Power BI connector to enhance core functionality for a freelance environment. This connector is designed for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>. If you don't have an agreement with Upwork, Power BI offers [connector extensibility](https://github.com/Microsoft/DataConnectors) for other data sources as well.
 
 ![A spending report in PowerBI](media/M365_Freelance_visibility_freelancerreport.png)
 
 It includes sample visualizations to help enterprises identify the groups within your organization, and the talent categories, where your freelance program is most impactful, as well as a connector to pull data from disparate sources into dashboards.
 
-**[Download the connector.](https://placeholderfordownloadURL)** The freelance program Power BI connector is available as a free download through GitHub.
+**[Download the connector.](https://placeholderfordownloadURL)** The freelance program Power BI connector is available as a free download through GitHub. 
 
 Customize your freelance program Power BI dashboard
 ---------------------------------------------------
