@@ -94,9 +94,6 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
     </li>
 </ul>
 
-Ready to drive discussion?
---------------------------
-
 <ul class="panelContent cardsJ">
     <li>
         <div class="cardSize">
@@ -104,12 +101,13 @@ Ready to drive discussion?
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/download-blue.svg" alt="download" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/walkthrough-map-blue.svg" alt="a map" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>These infographics and slides can help you share how your existing investments in Microsoft 365 can help support an enterprise freelance program.</p>
-                        <p><a href="placeholder">DOWNLOAD THESE RESOURCES</a></p>
+                        <h3>Ready to drive discussion?</h3>
+                        <p>These infographics and slides were designed to help you drive stakeholder discussion around how your existing investments in Microsoft 365 can help support an enterprise freelance program.</p>
+                        <p><a href="placeholder">LEARN MORE</a></p>
                     </div>
                 </div>
             </div>
