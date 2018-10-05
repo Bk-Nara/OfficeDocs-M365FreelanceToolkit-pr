@@ -98,7 +98,7 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
 
 Ready to drive discussion?
 --------------------------
-Each enterprise is unique will need to evaluate and determine its own requirements, including such things as data handling and compliance needs. Enterprises should use their existing Microsoft 365 investments as they determine appropriate based on their requirements and needs.
+Each enterprise will need to evaluate and determine its own requirements, including such things as data handling and compliance needs. Enterprises should use their existing Microsoft 365 investments as they determine appropriate based on their requirements and needs.
 
 <ul class="panelContent cardsJ">
     <li>
