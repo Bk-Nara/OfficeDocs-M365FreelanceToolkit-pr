@@ -41,7 +41,7 @@ Download the following infographics to share within your organization.
         </a>
     </li>
     <li>
-        <a href="media/M365-FreelanceToolkit-TearSheet-InternalCommunications.pdf">
+        <a href="media/M365-FreelanceToolkit-TearSheet-InternalCommunication.pdf">
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
