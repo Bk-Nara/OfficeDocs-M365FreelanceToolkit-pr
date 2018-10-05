@@ -19,6 +19,29 @@ Microsoft 365 Freelance Toolkit
 
 The Microsoft 365 Freelance Toolkit builds on your existing technology investments and provides tools, templates, and best practices that help enterprises launch, execute, and manage freelance programs at scale.
 
+
+
+<ul class="panelContent cardsJ">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/walkthrough-map-blue.svg" alt="a map" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Ready to drive discussion?</h3>
+                        <p>These <a href="placeholder">infographics and slides</a> were designed to help you drive stakeholder discussion around how your existing investments in Microsoft 365 can help support an enterprise freelance program.</p>
+                        <p><a href="placeholder">LEARN MORE</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+
 <ul class="panelContent cardsW cols cols2">
     <li>
         <div class="cardSize">
@@ -87,27 +110,6 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
                         <h3>Workflow automation</h3>
                         <p>Reduce the need for manual completion of repetitive provisioning, compliance, and monitoring tasks.</p>
                         <p><a href="workflowautomationsection.md">LEARN MORE</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
-
-<ul class="panelContent cardsJ">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/walkthrough-map-blue.svg" alt="a map" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Ready to drive discussion?</h3>
-                        <p>These infographics and slides were designed to help you drive stakeholder discussion around how your existing investments in Microsoft 365 can help support an enterprise freelance program.</p>
-                        <p><a href="placeholder">LEARN MORE</a></p>
                     </div>
                 </div>
             </div>
