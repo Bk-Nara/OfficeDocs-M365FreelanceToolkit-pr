@@ -97,7 +97,6 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
 Ready to drive discussion?
 ---------------------------------------------------
 
-
 <ul class="panelContent cardsJ">
     <li>
         <div class="cardSize">
