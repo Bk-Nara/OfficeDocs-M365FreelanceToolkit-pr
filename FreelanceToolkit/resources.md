@@ -40,8 +40,6 @@ Download the following infographics to share within your organization.
         </div>
         </a>
     </li>
-</ul>
-<ul class="panelContent cardsW">
     <li>
         <a href="media/M365-FreelanceToolkit-TearSheet-InternalCommunications.pdf">
         <div class="cardSize">
