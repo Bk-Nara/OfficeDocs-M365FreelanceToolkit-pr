@@ -20,7 +20,7 @@ The Microsoft 365 Freelance Toolkit provides a custom Power BI connector to enha
 
 ![A spending report in PowerBI](media/M365_Freelance_visibility_freelancerreport.png)
 
-The sample visualizations included are designed to help enterprises identify the groups within your organization, and the talent categories, where your freelance program is most impactful, as well as a connector to pull data from disparate sources into dashboards.
+The connector pulls data from disparate sources into dashboards, and the sample visualizations included are designed to help enterprises identify groups within your organization and their category spend where freelance is most impactful.
 
 **[Download the connector.](https://placeholderfordownloadURL)** The freelance program Power BI connector is available as a free download through GitHub. 
 
