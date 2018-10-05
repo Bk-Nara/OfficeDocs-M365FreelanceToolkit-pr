@@ -97,7 +97,7 @@ This [solution overview package](https://placeholderfordownloadlink) provides in
 </ul>
 
 Ready to drive discussion?
-=================================
+---------------------------------------------------
 
 Download the following infographics to share within your organization.
 
