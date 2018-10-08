@@ -39,4 +39,4 @@ For example, here's a description that you could use to engage a freelancer to h
 > 
 > *Specific technical skills desired include: Microsoft Flow, Microsoft PowerApps, and Microsoft SharePoint.*
 
-Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **Microsoft Flow talent cloud** for customization work.
+Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **[Microsoft Flow talent cloud](clouds.md)** for customization work.

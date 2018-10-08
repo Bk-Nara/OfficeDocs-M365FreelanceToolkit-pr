@@ -66,8 +66,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="dataanalyticstools.md">Microsoft Power BI talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated Microsoft Power BI talent cloud for customization work.</p>
+                        <h3><a href="clouds.md">Microsoft Power BI talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <a href="clouds.md">Microsoft Power BI talent cloud</a> for customization work.</p>
                     </div>
                 </div>
             </div>
