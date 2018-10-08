@@ -19,7 +19,7 @@ Tools and templates for team-wide collaboration
 
 The Microsoft 365 Freelance Toolkit uses your existing investments in [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software).
 
-![an application window](media\M365_Freelance_collaboration_guestaccess.png)
+![an application window](media/M365_Freelance_collaboration_guestaccess.png)
 
 With Teams and Planner, enterprises can manage their freelance collaboration needs, specifically: 
 - **Communication.** Public and private channels for members to engage in discussion. 
