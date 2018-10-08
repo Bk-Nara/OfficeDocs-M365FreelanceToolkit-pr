@@ -16,4 +16,4 @@ ROBOTS: NOINDEX, NOFOLLOW
 Microsoft 365 Freelance Toolkit Talent Clouds
 =========================================
 
-Thank you for your patience! The talent clouds we're working to establish in partnership with [Upwork](https://www.upwork.com/enterprise/) will be available soon!
+Thank you for your patience! The talent clouds we're working to establish in partnership with [Upwork](https://www.upwork.com/enterprise/) will be available soon.
