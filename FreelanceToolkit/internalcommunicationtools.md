@@ -18,7 +18,7 @@ Tools and templates for internal communication
 
 The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communication site template to help enterprises create a one-stop shop for their freelance program details, with tools to help accelerate onboarding and adoption.
 
-![website](media\M365_Freelance_communication_commsite.png)
+![website](media/M365_Freelance_communication_commsite.png)
 
 It includes:
 - A library for relevant documentation and presentations about the program.
