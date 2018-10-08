@@ -66,8 +66,8 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="workflowautomationtools.md">Microsoft Flow talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated Microsoft Flow talent cloud for customization work.</p>
+                        <h3><a href="clouds.md">Microsoft Flow talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <a href="clouds.md">Microsoft Flow talent cloud</a> for customization work.</p>
                     </div>
                 </div>
             </div>

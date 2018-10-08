@@ -14,11 +14,11 @@ ms.custom: M365FreelanceToolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 Tools and templates for internal communication
-=======================================================
+==============================================
 
 The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communication site template to help enterprises create a one-stop shop for their freelance program details, with tools to help accelerate onboarding and adoption.
 
-![website](media\M365_Freelance_communication_commsite.png)
+![website](media/M365_Freelance_communication_commsite.png)
 
 It includes:
 - A library for relevant documentation and presentations about the program.
@@ -27,7 +27,7 @@ It includes:
 
 
 
-**[Download the template.](https://placeholderfordownloadURL)** The freelance program SharePoint communication site template is available as a free download through GitHub.
+**[Download the template.](downloads.md)** The freelance program SharePoint communication site template is available as a free download through GitHub.
 
 Customize your freelance program communication site
 ---------------------------------------------------
@@ -39,4 +39,4 @@ For example, here's a description that you could use to engage a freelancer to h
 > ### SharePoint consultant/architect needed to customize a communication site
 > *Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and calendar events. Site should be built so that we can leverage features, workflows, checklists, and approvals to enable automation.*
 
-Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **Microsoft SharePoint talent cloud** for customization work.
+Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **[Microsoft SharePoint talent cloud](clouds.md)** for customization work.
