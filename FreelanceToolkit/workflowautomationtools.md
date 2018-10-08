@@ -23,7 +23,7 @@ Once you have defined how your enterprise freelance program will work, you can u
 ![a workflow diagram](media/m365_freelance_cognitiveload_358x201.png)
 
 For example, you might connect these types of workflows:
-- **Account creation.** Employees who complete compliance training videos in Stream receive a follow-up email with account information.
+- **Account creation.** Employees who complete compliance training videos in [Microsoft Stream](https://stream.microsoft.com) receive a follow-up email with account information.
 - **Newsletter sign-up.** Employees who sign up to receive a newsletter through SharePoint are added to an Excel spreadsheet.
 - **Project approval communication.** Employees who submit project applications using Forms are added to a SharePoint list for review, and then receive a follow-up email when their project is approved or denied.
 
@@ -39,4 +39,4 @@ For example, here's a description that you could use to engage a freelancer to h
 > 
 > *Specific technical skills desired include: Microsoft Flow, Microsoft PowerApps, and Microsoft SharePoint.*
 
-Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **Microsoft Flow talent cloud** for customization work.
+Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **[Microsoft Flow talent cloud](clouds.md)** for customization work.

@@ -103,7 +103,7 @@ When establishing and growing our freelance program at Microsoft, here are some 
                     </div>
                     <div class="cardText">
                         <h3>Offer real-world examples</h3>
-                        <p>As our employees began working with freelancers, we provided a place to share their experiences, including quality, time savings, and cost savings measures. Other employees have found it useful to browse through completed projects, categorized by task type, and see the results of the work.</p>
+                        <p>As our employees began working with freelancers, we provided a place to share their experiences as case studies, including quality, time savings, and cost savings measures. Other employees have found it useful to browse through completed projects, categorized by task type, and see the results of the work.</p>
                     </div>
                 </div>
             </div>

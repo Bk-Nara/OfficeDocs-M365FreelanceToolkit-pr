@@ -14,15 +14,15 @@ ms.custom: M365FreelanceToolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 Tools and templates for data analytics
-===============================================
+======================================
 
-The Microsoft 365 Freelance Toolkit provides a custom Power BI connector to enhance core functionality for a freelance environment. 
+The Microsoft 365 Freelance Toolkit provides a custom Power BI connector to enhance core functionality for a freelance environment. This connector is designed for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>. If you don't have an agreement with Upwork, Power BI offers [connector extensibility](https://github.com/Microsoft/DataConnectors) for other data sources as well.
 
 ![A spending report in PowerBI](media/M365_Freelance_visibility_freelancerreport.png)
 
-It includes sample visualizations to help enterprises identify the groups within your organization, and the talent categories, where your freelance program is most impactful, as well as a connector to pull data from disparate sources into dashboards.
+The connector pulls data from disparate sources into dashboards, and the sample visualizations included are designed to help enterprises identify groups within your organization and their category spend where freelance is most impactful.
 
-**[Download the connector.](https://placeholderfordownloadURL)** The freelance program Power BI connector is available as a free download through GitHub.
+**[Download the connector.](downloads.md)** The freelance program Power BI connector is available as a free download through GitHub. 
 
 Customize your freelance program Power BI dashboard
 ---------------------------------------------------
@@ -38,4 +38,4 @@ For example, here's a description that you could use to engage a freelancer to h
 > 
 > *Specific technical skills desired include: Relational database and SQL language, analytics/OLAP cube development, report development.*
 
-Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **Microsoft Power BI talent cloud** for customization work.
+Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **[Microsoft Power BI talent cloud](clouds.md)** for customization work.

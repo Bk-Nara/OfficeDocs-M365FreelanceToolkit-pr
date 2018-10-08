@@ -17,9 +17,9 @@ ROBOTS: NOINDEX, NOFOLLOW
 Data analytics 
 ===================
 
-A major challenge in scaling an enterprise freelance program is establishing KPIs. Freelance program administrators need to capture, track, and communicate program metrics, compare freelance KPIs to other staffing options, and identify groups that leverage the program most effectively.
+A major challenge in scaling an enterprise freelance program is establishing key performance indicators (KPIs). Freelance program administrators need to capture, track, and communicate program metrics, compare freelance KPIs to contingent program options, and identify groups that leverage the program most effectively.
 
-The Microsoft 365 Freelance Toolkit solves for this with a custom connector for [Power BI](https://powerbi.microsoft.com/).
+The Microsoft 365 Freelance Toolkit solves for this with a custom connector for [Power BI](https://powerbi.microsoft.com/), which also supports integration with more conventional contingent talent program data, making it easier to track data across your programs in one location.
 
 <ul class="panelContent cardsF cols cols2">
     <li>
@@ -66,8 +66,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="dataanalyticstools.md">Microsoft Power BI talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated Microsoft Power BI talent cloud for customization work.</p>
+                        <h3><a href="clouds.md">Microsoft Power BI talent cloud</a></h3>
+                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <a href="clouds.md">Microsoft Power BI talent cloud</a> for customization work.</p>
                     </div>
                 </div>
             </div>
