@@ -22,7 +22,7 @@ The Microsoft 365 Freelance Toolkit uses your existing investments in [Microsoft
 ![an application window](media/M365_Freelance_collaboration_guestaccess.png)
 
 With Teams and Planner, enterprises can manage their freelance collaboration needs, specifically: 
-- **Communication.** Public and private channels for members to engage in discussion. 
+- **Communication.** Public and private teams for members to engage in discussion. 
 - **Task management.** One place to track project progress and align each team member's assignments.
 - **File storage.** One place to store shared files and retrieve them through intelligent search.
 
