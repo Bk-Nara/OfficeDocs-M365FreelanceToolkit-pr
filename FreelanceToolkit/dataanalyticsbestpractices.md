@@ -107,7 +107,7 @@ As Chad and his team have measured the impact of our freelance program at Micros
                     </div>
                     <div class="cardText">
                         <h3>Compare objectively with external staffing</h3>
-                        <p>Chad measures the freelance program side-by-side with other external staffing dashboards to perform relevant analysis and comparisons. His team set up their initial freelance KPIs to map to existing measurements, so that they could easily see whether the freelance program was realistically providing our enterprise with a responsible and scalable solution.</p>
+                        <p>Chad measures the freelance program against KPIs that map to existing measurements for other proven external staffing resources, so that he can easily see whether the freelance program is realistically providing the enterprise with a responsible and scalable solution.</p>
                     </div>
                 </div>
             </div>
