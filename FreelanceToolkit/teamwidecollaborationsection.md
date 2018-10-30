@@ -17,9 +17,9 @@ ROBOTS: NOINDEX, NOFOLLOW
 Team-wide collaboration
 ===========================
 
-The nature of enterprise freelance projects requires team members to work together on multiple files, manage varied tasks, and communicate across time zones.
+The nature of enterprise freelance projects requires team members to work together on multiple files, manage varied tasks, and communicate across time zones, all while ensuring freelancers will not have wholesale access to the enterprise environment.
 
-To keep cross-functional, multi-geographical teams moving in the same direction, the Microsoft 365 Freelance Toolkit provides guidance around using [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) as a powerful hub for teamwork that brings together chat, meetings, calling, files, and apps into one shared workspace.
+To keep cross-functional, multi-geographical teams moving in the same direction, while maintaining project specific access, the Microsoft 365 Freelance Toolkit provides guidance around using [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) as a powerful hub for teamwork that brings together chat, meetings, calling, files, and apps into one shared workspace.
 
 <ul class="panelContent cardsF cols cols2">
     <li>
