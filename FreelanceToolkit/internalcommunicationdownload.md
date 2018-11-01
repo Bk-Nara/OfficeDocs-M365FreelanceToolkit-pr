@@ -16,3 +16,5 @@ Popular Public Research
 *Do we include the Upwork material? 
 
 Step 3: Start customing your SharePoint Communication Site with the Expert Marketplace 
+
+*Make sure these admin __ are turned on

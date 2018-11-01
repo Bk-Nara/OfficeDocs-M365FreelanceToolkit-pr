@@ -9,3 +9,5 @@ Connect your data from Upwork to your PowerBI
 Step 2: PowerBI Dashboard
 
 Step 3: Start customizing for your enterprise with Expert Marketplace 
+
+*Make sure these admin __ are turned on

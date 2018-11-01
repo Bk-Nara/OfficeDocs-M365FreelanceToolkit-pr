@@ -6,3 +6,5 @@ Microsoft Flow.
 Step 1: Identify the scenario you would like to deploy
 
 Step 2: Start customizing it through the Expert Marketplace
+
+*Make sure these admin ___ are turned on 
