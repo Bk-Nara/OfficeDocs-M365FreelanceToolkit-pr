@@ -34,6 +34,8 @@ Use these resources to start deploying your SharePoint communications site.
 - An FAQ page seeded with top questions from enterprise employees (you can start with the FAQ questions we have provided below)
 - Pages to host the research, strategy, case studies, videos, and events you might provide for your Enterprise.
     - We used the <a href="https://support.office.com/article/use-the-quick-links-web-part-e1df7561-209d-4362-96d4-469f85ab2a82">Quick links</a> web part with a Filmstrip layout to host the research papers with preview thumbnail images.
+Here's an illustration of the home page layout we used:
+![SharePoint communications site with hero and people web parts](media/M365-Freelance-Toolkit-comm-site-expanded-520px.png)
 
 **Step 3:** Use the below content as a starting point to start filling out the resources on your SharePoint communication site.
 
