@@ -15,14 +15,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ---
 Data analytics downloads
 
-Use these resources to start measuring business success by deploying PowerBI.
+Use these resources to start measuring business success with Power BI.
 
-Step 1: Download PowerBI Connector
+**Step 1:** Download the Power BI connector to connect your Upwork data to your Power BI dashboard
 
-Connect your data from Upwork to your PowerBI
+**Step 2:** Download the Power BI dashboard
 
-Step 2: PowerBI Dashboard
+**Step 3:** Engage Upwork-powered freelancers to customize your Power BI dashboard. 
 
-Step 3: Start customizing for your enterprise with Expert Marketplace 
-
-*Make sure these admin __ are turned on
+For Admins: Make sure the following permissions and controls are turned on: 
