@@ -34,7 +34,7 @@ Use these resources to start deploying your SharePoint communications site.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="media\downloads\CaseStudies.pptx">Use cases</a></h3>
+                        <h3><a href="media\downloads\CaseStudies.pdf">Use cases</a></h3>
                         <p>Show your employees the kinds of work they can get done with freelancers.</p>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ Use these resources to start deploying your SharePoint communications site.
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="media\downloads\FrequentlyAskedQuestions.docx">FAQ</a></h3>
+                        <h3><a href="media\downloads\FrequentlyAskedQuestions.pdf">FAQ</a></h3>
                         <p>Answer these common questions that your employees might have.</p>
                     </div>
                 </div>
