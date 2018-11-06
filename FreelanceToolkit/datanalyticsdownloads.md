@@ -18,10 +18,10 @@ Data analytics downloads
 
 Use these resources to start measuring business success with Power BI.
 
-**Step 1:** Download the Power BI connector to connect your Upwork data to your Power BI dashboard
+**Step 1:** Download the Power BI connector to connect your Upwork data to your Power BI dashboard.
 
-**Step 2:** Download the Power BI dashboard
+**Step 2:** Download the Power BI dashboard.
 
-**Step 3:** Engage Upwork-powered freelancers to customize your Power BI dashboard. 
+**Step 3:** Start customizing your Power BI dashboard with freelancers available through the [Data analytics talent cloud](clouds.md). 
 
 For Admins: Make sure the following permissions and controls are turned on: 

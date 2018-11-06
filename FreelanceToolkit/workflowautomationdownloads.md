@@ -121,6 +121,6 @@ Microsoft Flow.
     </li>
 </ul>
 
-**Step 2:** Start customizing it through the Expert Marketplace
+**Step 2:** Start customizing your workflow automations with freelancers available through the [Automation talent cloud](clouds.md).
 
 For Admins: Make sure the following permissions and controls are turned on: 

@@ -13,26 +13,27 @@ localization_priority: None
 ms.custom: M365FreelanceToolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-Tools and templates for internal communication
+Tools for internal communication
 ==============================================
 
-The Microsoft 365 Freelance Toolkit provides a specialized SharePoint communication site template to help enterprises create a one-stop shop for their freelance program details, with tools to help accelerate onboarding and adoption.
+The Microsoft 365 Freelance Toolkit provides guidance for creating a specialized SharePoint communication site to help enterprises create a one-stop shop for their freelance program details, with tools to help accelerate onboarding and adoption.
 
 ![website](media/M365_Freelance_communication_commsite.png)
 
 It includes:
-- A library for relevant documentation and presentations about the program.
+- An outline to help you create a site that communicates about your program.
 - An FAQ seeded with top questions from enterprise employees.
-- Spaces for research, strategy, case studies, videos, events, and more.
+- Case studies that can help your employees picture what they can do with freelance help.
+- Research reports about freelance opportunities and Enterprise organizations.
 
 
 
-**[Download the template.](downloads.md)** The freelance program SharePoint communication site template is available as a free download through GitHub.
+**[Download the resources.](internalcommunicationddownload.md)** 
 
-Customize your freelance program communication site
+Create and customize your freelance program communication site
 ---------------------------------------------------
 
-While the template included in this toolkit will give you a starting point, there will still be work to customize it so that it reflects the specifics of your enterprise. You can [do this work yourself](https://support.office.com/article/320b43e5-b047-4fda-8381-f61e8ac7f59b), but another option is to engage a freelancer to help with customization.
+While the resources included in this toolkit will give you a starting point, there will still be work to create and customize your site so that it reflects the specifics of your enterprise. You can [do this work yourself](https://support.office.com/article/320b43e5-b047-4fda-8381-f61e8ac7f59b), but another option is to engage a freelancer to help with customization.
 
 For example, here's a description that you could use to engage a freelancer to help customize your freelance program communication site:
 

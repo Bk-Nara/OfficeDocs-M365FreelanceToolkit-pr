@@ -32,8 +32,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">Communication site template</a></h3>
-                        <p>This solution uses your existing investment in SharePoint, with a specialized communication site template for freelance programs.</p>
+                        <h3><a href="internalcommunicationtools.md">Communication site</a></h3>
+                        <p>Use your existing investment in SharePoint and create a communication site for freelance programs in your organization.</p>
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
                     </div>
                     <div class="cardText">
                         <h3><a href="internalcommunicationtools.md">Work description template</a></h3>
-                        <p>Use this work description as a starting point for finding a SharePoint expert who can help you customize your freelance program site.</p>
+                        <p>Use this work description as a starting point for finding a SharePoint expert who can help you customize your freelance program communication site.</p>
                     </div>
                 </div>
             </div>
