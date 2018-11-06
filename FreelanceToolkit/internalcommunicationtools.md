@@ -28,7 +28,7 @@ It includes:
 
 
 
-**[Download the resources.](internalcommunicationddownload.md)** 
+**[Download the resources](internalcommunicationdownload.md)** 
 
 Create and customize your freelance program communication site
 ---------------------------------------------------

@@ -21,7 +21,7 @@ Use these resources to start deploying your SharePoint communications site.
 
 **Step 1:** Deploy <a href="https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb">SharePoint communications site</a>.
 
-**Step 2:** Build out your communication site. We recommend starting with the following web parts and content.
+**Step 2:** Build out your communication site. We recommend starting with the following web parts and content:
 - A home page with a <a href="https://support.office.com/article/Use-the-Hero-web-part-D57F449B-19A0-4B0D-8CE3-BE5866430645">Hero</a> web part in the Topic style layout that points to:
     - Get started information about your program
     - Information about your strategy
