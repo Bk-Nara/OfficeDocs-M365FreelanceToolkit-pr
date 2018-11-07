@@ -110,7 +110,7 @@ Ready to drive discussion?
                         </div>
                     </div>
                     <div class="cardText">
-                        <p>These infographics and slides were designed to help you drive stakeholder discussion around how your existing investments in Microsoft 365 can help support an enterprise freelance program.</p>
+                        <p>These videos, infographics, and slides were designed to help you drive stakeholder discussion around how your existing investments in Microsoft 365 can help support an enterprise freelance program.</p>
                         <P><a href="solutionresources.md">LEARN MORE</a></p>
                     </div>
                 </div>

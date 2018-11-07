@@ -62,29 +62,12 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/users-people.svg" alt="people" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3><a href="clouds.md">Microsoft Flow talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <a href="clouds.md">Microsoft Flow talent cloud</a> for customization work.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
                             <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="a list" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">Work description template</a></h3>
-                        <p>Use this work description as a starting point for finding a Flow expert who can help you customize your automated freelance workflows.</p>
+                        <h3><a href="internalcommunicationtools.md">Customize flow scenarios for your enterprise</a></h3>
+                        <p>Use our engagement description, or if you also have an agreement with Upwork, use the Microsoft Flow talent cloud as a starting point to customize your communication site.</p>
                     </div>
                 </div>
             </div>

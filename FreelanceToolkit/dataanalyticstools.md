@@ -16,6 +16,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 Tools and templates for data analytics
 ======================================
 
+Start measuring business success through PowerBI  
+------------------------------------------------
+
+Capture, track, and communicate program metrics, compare freelance KPIs to contingent program options, and identify groups that leverage the program most effectively using PowerBI, a suite of business analytics tools that connect to hundreds of data sources, simplify data prep, and drive ad-hoc analysis. Along with publishing beautiful reports your organization can consume on the web and across mobile devices, PowerBI scales across the enterprise with governance and security built-in.
+
 The Microsoft 365 Freelance Toolkit provides a custom Power BI connector to enhance core functionality for a freelance environment. This connector is designed for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>. If you don't have an agreement with Upwork, Power BI offers [connector extensibility](https://github.com/Microsoft/DataConnectors) for other data sources as well.
 
 ![A spending report in PowerBI](media/M365_Freelance_visibility_freelancerreport.png)
