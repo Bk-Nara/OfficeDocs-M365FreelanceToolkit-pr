@@ -21,9 +21,15 @@ These videos, infographics, and slides were designed to help you drive stakehold
 
 Videos
 ----------------
--	Toolkit Overview 
--	Teams/Planner
--	Templates 
+Toolkit overview 
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
+
+Teams and Planner
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RWm2wV&AutoPlayVideo=false]
+
+Templates 
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IQuV&AutoPlayVideo=false]
+
 
 Field guide
 ----------------
