@@ -33,7 +33,7 @@ We recommend starting with the following web parts and content:
     - Case studies (you can start with the case studies we have provided below)
     - Research (you can start with the research we provide below)
     - A section on the home page that provides information about the team behind your program. We used a series of <a href="https://support.office.com/article/Show-people-profiles-on-your-page-with-the-People-web-part-7E52C5F6-2D72-48FA-A9D3-D2750765FA05">People</a> web parts with the Compact layout that listed the team members for each department.
-- A document library to host relevant documentation and presentations about the program.
+- A <a href="https://support.office.com/article/introduction-to-libraries-7d4221d9-8fb9-40d5-8441-2374c84b5e26">SharePoint document library</a> to host relevant documentation and presentations about the program.
 - An FAQ page seeded with top questions from enterprise employees (you can start with the FAQ questions we have provided below)
 - Pages to host the research, strategy, case studies, videos, and events you might provide for your Enterprise.
     - We used the <a href="https://support.office.com/article/use-the-quick-links-web-part-e1df7561-209d-4362-96d4-469f85ab2a82">Quick links</a> web part with a Filmstrip layout to host the research papers with preview thumbnail images.
