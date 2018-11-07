@@ -2,12 +2,13 @@
 title: Create your freelance program communication site 
 description: Use these tools and templates to set up internal communications about an enterprise freelancer program.
 author: matthewrmottola1
+layout: LandingPage
 manager: samanro
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
-ms.topic: article
+ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
@@ -71,28 +72,6 @@ To help you start filling out the resources on your SharePoint communication sit
                     <div class="cardText">
                         <h3><a href="media\downloads\FreelanceResearchforSharePointSite.zip">Research</a></h3>
                         <p>Distribute industry research reports about freelance work and Enterprise organizations.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul>
-
-Along with the above starting point, refer to best practices to learn what's worked for us through tips on handling internal communication about your enterprise freelance program.
-
-<ul class="panelContent cardsF cols cols2">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/best-practices-blue.svg" alt="a ribbon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3><a href="internalcommunicationbestpractices.md">Best practices for internal communication</a></h3>
-                        <p>Learn what's worked for us with these tips on handling internal communication about your enterprise freelance program.</p>
                     </div>
                 </div>
             </div>

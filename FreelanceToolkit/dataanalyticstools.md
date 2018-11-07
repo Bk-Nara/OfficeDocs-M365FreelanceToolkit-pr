@@ -2,12 +2,13 @@
 title: Tools and templates for data analytics 
 description: Use these tools and templates to set up data analytics for an enterprise freelance program. 
 author: matthewrmottola1
+layout: LandingPage
 manager: samanro
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
-ms.topic: article
+ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365FreelanceToolkit
