@@ -77,7 +77,7 @@ We recommend starting with the following web parts and content:
     </li>
 </ul>
 
-<ul class="panelContent cardsF cols cols1">
+<ul class="panelContent cardsF cols cols2">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -88,8 +88,7 @@ We recommend starting with the following web parts and content:
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Research</a></h3>
-                        <p>Distribute industry research reports about freelance work and Enterprise organizations:</p>
+                        <h3>Research - Distribute industry research reports about freelance work and Enterprise organizations:</a></h3>
                         <p><a href="media\downloads\Human-Cloud-Landscape-2018-Update.pdf">The Gig Economy and Human Cloud Landscape: 2018 Update</a></p>
                         <p><a href="media\downloads\Job-Board-Service-Differentiators-20160513.pdf">Job Board Service Differentiators 2016</a></p>
                         <p><a href="media\downloads\Just-in-Time-Staffing-03132016.pdf">Just-in-time Staffing</a></p>
