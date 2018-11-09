@@ -25,8 +25,7 @@ For your organization to collaborate with Freelancers on Teams, they need to tur
 
 There are four different levels of authorizations to manage Microsoft Teams Guest access features and capabilities, which apply to your Office 365 tenant. Each authorization controls the guest experience - more information at [Authorize guest access in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-dependencies).  
 
-Interested in how guest access compares to federation (external access)? 
------------------------------------------
+**Interested in how guest access compares to federation (external access)? **
 
 Guest access differs from external access (also known as federation) as follows: 
 
