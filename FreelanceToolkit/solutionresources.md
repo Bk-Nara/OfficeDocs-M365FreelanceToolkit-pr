@@ -1,5 +1,5 @@
 ---
-title: Solution overview resources
+title: Microsoft 365 Freelance Toolkit overview resources
 description: Resources for your organization. 
 author: matthewrmottola1
 manager: samanro
@@ -17,7 +17,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 Microsoft 365 Freelance Toolkit overview resources
 ============================================================
 
-These infographics and slides were designed to help you drive stakeholder discussion around how your existing investments in Microsoft 365 can help support an enterprise freelance program.
+These videos, infographics, and slides were designed to help you drive stakeholder discussion around how your existing investments in Microsoft 365 can help support an enterprise freelance program.
+
+Videos
+----------------
+Toolkit overview 
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
+
+Teams and Planner
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RWm2wV&AutoPlayVideo=false]
+
+Templates 
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IQuV&AutoPlayVideo=false]
+
+
+Field guide
+----------------
+[Microsoft 365 Freelance Toolkit field guide](media/downloads/Microsoft-365-Freelance-Toolkit-field-guide.pdf)
+
+![Microsoft 365 Freelance Toolkit field guide](media/Microsoft-365-Freelance-Toolkit-field-guide-thumbnail.jpg)
+
+
+Infographics
+----------------
 
 <ul class="panelContent cardsW">
     <li>
@@ -38,7 +60,6 @@ These infographics and slides were designed to help you drive stakeholder discus
         </div>
     </li>
     <li>
-        
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
