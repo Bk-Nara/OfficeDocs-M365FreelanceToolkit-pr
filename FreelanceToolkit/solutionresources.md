@@ -33,7 +33,7 @@ Templates
 
 Field guide
 ----------------
-
+Download the [Microsoft 365 Freelance Toolkit field guide](media/Microsoft-365-Freelance-Toolkit-field-guide.pptx)
 
 Infographics
 ----------------
