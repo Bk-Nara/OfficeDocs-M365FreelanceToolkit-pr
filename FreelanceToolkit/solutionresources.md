@@ -21,21 +21,21 @@ These videos, infographics, and slides were designed to help you drive stakehold
 
 Videos
 ----------------
-Toolkit overview 
+Overview of Microsoft 365 freelance toolkit 
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
 
-Teams and Planner
+Using Microsoft Teams as a hub for teamwork between full time employees and freelancers
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RWm2wV&AutoPlayVideo=false]
 
-Templates 
+Engaging freelancers for Office templates 
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IQuV&AutoPlayVideo=false]
 
 
-Field guide
+Presentation
 ----------------
-[Microsoft 365 Freelance Toolkit field guide](media/downloads/Microsoft-365-Freelance-Toolkit-field-guide.pdf)
+[Presentation: Embracing freelance within your enterprise](media/downloads/Microsoft-365-Freelance-Toolkit-EmbracingFreelance.pdf)
 
-![Microsoft 365 Freelance Toolkit field guide](media/Microsoft-365-Freelance-Toolkit-field-guide-thumbnail.jpg)
+![Presentation: Embracing freelance within your enterprise](media/Microsoft-365-Freelance-Toolkit-field-guide-thumbnail.jpg)
 
 
 Infographics
