@@ -22,7 +22,7 @@ Start measuring business success through PowerBI
 
 Capture, track, and communicate program metrics, compare freelance KPIs to contingent program options, and identify groups that leverage the program most effectively using PowerBI, a suite of business analytics tools that connect to hundreds of data sources, simplify data prep, and drive ad-hoc analysis. Along with publishing beautiful reports your organization can consume on the web and across mobile devices, PowerBI scales across the enterprise with governance and security built-in.
 
-Example language: Here's an illustration of the Power BI dashboard layout we used: 
+Here's an illustration of the Power BI dashboard layout we used: 
 
 ![A spending report in PowerBI](media/M365-Freelance-Toolkit-dashboard-freelancereport-520x322-callouts.png)
 
@@ -69,12 +69,6 @@ Then start deploying data analytics within your freelance program through our cu
         </div>
     </li>
 </ul>
-
-This connector is designed for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>. If you don't have an agreement with Upwork, Power BI offers [connector extensibility](https://github.com/Microsoft/DataConnectors) for other data sources as well.
-
-The connector pulls data from disparate sources into dashboards, and the sample visualizations included are designed to help enterprises identify groups within your organization and their category spend where freelance is most impactful.
-
-**[Download the connector.](downloads.md)** The freelance program Power BI connector is available as a free download through GitHub. 
 
 Customize your freelance program Power BI dashboard
 ---------------------------------------------------
