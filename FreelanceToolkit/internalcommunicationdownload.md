@@ -40,7 +40,7 @@ We recommend starting with the following web parts and content:
 
 **Step 3:** Use the below content as a starting point to start filling out the resources on your SharePoint communication site.
 
-<ul class="panelContent cardsF">
+<ul class="panelContent cardsF" col cols2>
     <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -75,6 +75,9 @@ We recommend starting with the following web parts and content:
             </div>
         </div>
     </li>
+</ul>
+
+<ul class="panelContent cardsF">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -85,8 +88,13 @@ We recommend starting with the following web parts and content:
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="media\downloads\FreelanceResearchforSharePointSite.zip">Research</a></h3>
-                        <p>Distribute industry research reports about freelance work and Enterprise organizations.</p>
+                        <h3>Research</a></h3>
+                        <p>Distribute industry research reports about freelance work and Enterprise organizations:</p>
+                        <p><a href="media\downloads\Human-Cloud-Landscape-2018-Update.pdf">The Gig Economy and Human Cloud Landscape: 2018 Update</a></p>
+                        <p><a href="media\downloads\Job-Board-Service-Differentiators-20160513.pdf">Job Board Service Differentiators 2016</a></p>
+                        <p><a href="media\downloads\Just-in-Time-Staffing-03132016.pdf">Just-in-time Staffing</a></p>
+                        <p><a href="media\downloads\katz-krueger-cws-v3.pdf">The Rise and Nature of Alternative Work Arrangements in the United States, 1995-2015</a></p>
+                        <p><a href="media\downloads\KPMG-boundaryless-workforcee83fcb5a048e76146b8036751270c0f7c7a1c20bc3786eae0ddba48d48470f35.pdf">KPMG: Ready for a boundaryless workforce?</a></p>
                     </div>
                 </div>
             </div>

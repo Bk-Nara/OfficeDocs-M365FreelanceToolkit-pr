@@ -21,7 +21,9 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
 
 **What is the Toolkit?** Learn more with this brief video.  
 
+
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
+
 
 **Ready to get started?** Explore the four workloads below.  
 
