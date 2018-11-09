@@ -32,7 +32,7 @@ To keep cross-functional, multi-geographical teams moving in the same direction,
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="teamwidecollaborationtools.md">Tools</a></h3>
+                        <h3><a href="teamwidecollaborationtools.md">Why team-wide collaboration?</a></h3>
                         <p>This solution uses your existing investment in Microsoft 365, including Teams and Planner.</p>
                     </div>
                 </div>
@@ -51,6 +51,23 @@ To keep cross-functional, multi-geographical teams moving in the same direction,
                     <div class="cardText">
                         <h3><a href="teamwidecollaborationbestpractices.md">Best practices</a></h3>
                         <p>Learn what's worked for us with these tips on streamlining collaboration between employees and freelancers.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/deploy-blue.svg" alt="deploy symbol" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="teamwidecollaborationdownload.md">Deployment guide</a></h3>
+                        <p>Use this deployment guide to start deploying Microsoft Teams for team-wide collaboration within your organization.</p>
                     </div>
                 </div>
             </div>

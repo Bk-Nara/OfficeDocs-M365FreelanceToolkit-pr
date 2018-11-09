@@ -17,11 +17,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 Microsoft 365 Freelance Toolkit
 ===============================
 
-The Microsoft 365 Freelance Toolkit builds on your existing technology investments and provides tools, templates, and best practices that help enterprises launch, execute, and manage freelance programs at scale.
+The Microsoft 365 Freelance Toolkit builds on your existing technology investments and provides tools, templates, and best practices that help enterprises launch, execute, and manage freelance programs at scale. 
+
+**What is the Toolkit?** Learn more with this brief video.  
 
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
 
-**IMPORTANT:** Each enterprise will need to evaluate and determine its own requirements, including such things as data handling and compliance needs. Enterprises should use their existing Microsoft 365 investments as they determine appropriate based on their requirements and needs.
+**Ready to get started?** Explore the four workloads below.  
 
 <ul class="panelContent cardsW cols cols2">
     <li>
@@ -120,5 +122,7 @@ Ready to drive discussion?
         </div>
     </li>
 </ul>
+
+**IMPORTANT:** Each enterprise will need to evaluate and determine its own requirements, including such things as data handling and compliance needs. Enterprises should use their existing Microsoft 365 investments as they determine appropriate based on their requirements and needs.
 
 *(c) 2018 Microsoft Corporation.  All rights reserved.  This toolkit is provided "as-is." Information and views expressed in this toolkit, including URL and other Internet Web site references, may change without notice. You bear the risk of using it.*

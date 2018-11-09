@@ -1,5 +1,5 @@
 ---
-title: Create your freelance program communication site 
+title: Internal communications tools and templates 
 description: Use these tools and templates to set up internal communications about an enterprise freelancer program.
 author: matthewrmottola1
 layout: LandingPage
@@ -14,10 +14,13 @@ localization_priority: None
 ms.custom: M365FreelanceToolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-Create your freelance program communication site
+Internal communications tools and templates
 ==============================================
 
 Drive awareness and engagement for your internal stakeholders and adopters through a beautiful SharePoint communicate site. SharePoint communication sites aren’t limited to the content on the front page, they are a place on the intranet for your project, team, department, or division to gather and track data, keep everyone up-to-date with news, tasks and deadlines, and connect everyone to all the resources they need across Office 365 and other services through pages, lists, and libraries. 
+
+Create your freelance program communication site
+---------------------------------------------------
 
 Here's an illustration of the home page layout we used:
 
@@ -129,14 +132,8 @@ Customize your freelance program communication site
 
 While the resources included in this toolkit will give you a starting point, there will still be work to create and customize your site so that it reflects the specifics of your enterprise. You can [do this work yourself](https://support.office.com/article/320b43e5-b047-4fda-8381-f61e8ac7f59b), but another option is to engage a freelancer to help with customization.
 
-**Option 1:** Engagement template
-
 Engage a freelancer to help customize your freelance program communication site through the below engagement template:
 
 
 > ### SharePoint consultant/architect needed to customize a communication site
 > *Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and calendar events. Site should be built so that we can leverage features, workflows, checklists, and approvals to enable automation.*
-
-**Option 2:** Microsoft SharePoint talent cloud
-
-Enterprise customers who also have an agreement with [Upwork](https://www.upwork.com/enterprise/) can engage with a curated **[Microsoft SharePoint talent cloud](clouds.md)** for customization work.

@@ -1,5 +1,5 @@
 ---
-title: Data analytics downloads 
+title: Deploy data analytics
 description:  
 author: matthewrmottola1
 manager: samanro
@@ -13,15 +13,14 @@ localization_priority: None
 ms.custom: M365FreelanceToolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-Data analytics downloads
+Deploy data analytics with Power BI
 =========================================
 
 Use these resources to start measuring business success with Power BI.
 
-**Step 1:** Download the Power BI connector to connect your Upwork data to your Power BI dashboard.
+**Step 1:** Deploy the [Power BI custom connector](https://github.com/upwork/powerbi-upwork)
 
-**Step 2:** Download the Power BI dashboard.
+The purpose of this Power BI Custom Data Connector is to connect to Upwork API and pull data related to freelance projects. This custom data connector comes pre-packaged with a Power BI Report file to analyze your data quickly. 
 
-**Step 3:** Start customizing your Power BI dashboard with freelancers available through the [Data analytics talent cloud](clouds.md). 
+More information at [Power BI custom connector](https://github.com/upwork/powerbi-upwork).  
 
-For Admins: Make sure the following permissions and controls are turned on: 

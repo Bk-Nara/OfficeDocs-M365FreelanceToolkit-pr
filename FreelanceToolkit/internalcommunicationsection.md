@@ -73,4 +73,21 @@ The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoin
             </div>
         </div>
     </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/deploy-blue.svg" alt="deploy symbol" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="internalcommunicationdownload.md">Deployment guide</a></h3>
+                        <p>Use this deployment guide to start deploying your SharePoint communications site.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
 </ul>

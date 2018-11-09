@@ -32,8 +32,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="dataanalyticstools.md">Power BI connector</a></h3>
-                        <p>This solution uses your existing investment in Power BI, with a custom connector for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>.</p>
+                        <h3><a href="dataanalyticstools.md">Why Power BI?</a></h3>
+                        <p>The toolkit uses your existing investment in PowerBI, with a custom connector and dashboard for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>.</p>
                     </div>
                 </div>
             </div>
@@ -67,7 +67,24 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                     </div>
                     <div class="cardText">
                         <h3><a href="dataanalyticstools.md">Customize Power BI for your enterprise</a></h3>
-                        <p>Use our engagement description, or if you also have an agreement with Upwork, use the Microsoft PowerBI talent cloud as a starting point to customize your communication site .</p>
+                        <p>Use our engagement template to start customizing your Power BI dashboard.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/deploy-blue.svg" alt="deploy symbol" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="datanalyticsdownloads.md">Deployment guide</a></h3>
+                        <p>Use this deployment guide to start deploying Power BI for measuring program success within your organization.</p>
                     </div>
                 </div>
             </div>

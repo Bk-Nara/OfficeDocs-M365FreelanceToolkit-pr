@@ -1,5 +1,5 @@
 ---
-title: Workflow automation downloads 
+title: Deploy workflow automation
 description:  
 author: matthewrmottola1
 manager: samanro
@@ -14,7 +14,7 @@ localization_priority: None
 ms.custom: M365FreelanceToolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-Workflow automation downloads
+Deploy workflow automation with Microsoft Flow
 =========================================
 
 Use these resources to start automating repetitive manual processes through

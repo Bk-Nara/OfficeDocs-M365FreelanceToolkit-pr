@@ -1,5 +1,5 @@
 ---
-title: Internal communications downloads 
+title: Deploy internal communications
 description:  
 author: matthewrmottola1
 manager: samanro
@@ -14,7 +14,7 @@ localization_priority: None
 ms.custom: M365FreelanceToolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-Internal communications downloads
+Deploy internal communication with a SharePoint site
 =========================================
 
 Use these resources to start deploying your SharePoint communications site.
@@ -95,3 +95,5 @@ We recommend starting with the following web parts and content:
 </ul>
 
 **Step 4:** Make sure the following permissions and access controls are turned on:
+
+There are no access controls relevant for deploying your SharePoint Communications Site. For all access controls needed for this toolkit, refer to [Deploy team-wide collaboration](teamwidecollaborationdownload.md).
