@@ -19,15 +19,13 @@ Tools and templates for team-wide collaboration
 
 The Microsoft 365 Freelance Toolkit uses your existing investments in [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software) to help you streamline collaboration between full time employees and cross-functional, multi-geographical freelance teams.
 
-![an application window](media/M365_Freelance_collaboration_guestaccess.png)
+> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE1LGec&AutoPlayVideo=false]
 
 With Teams and Planner, enterprises can manage their freelance collaboration needs, specifically: 
 - **Communication.** Public and private teams for members to engage in discussion. 
 - **Task management.** One place to track project progress and align each team member's assignments.
 - **File storage.** One place to store shared files and retrieve them through intelligent search.
 - **Guest Access.** With [Microsoft Teams free](https://products.office.com/microsoft-teams/free), freelancers can join and exit your team as needed, with no cost or commitment. Employees can provide freelancers with [external guest access](https://support.office.com/article/fccb4fa6-f864-4508-bdde-256e7384a14f) to their teams, giving everyone a single place to collaborate on tasks. 
-
-> [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE1LGec&AutoPlayVideo=false]
 
 For Beth, a training manager at Microsoft who managed a team of four full time employees and engaged a continuous flow of freelancers, switching her operations [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software) enabled her team to exceed their production goals. Learn how she did this and how your organization can do this with our best practices.  
 
