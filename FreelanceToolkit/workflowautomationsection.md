@@ -66,7 +66,7 @@ To reduce the need for manual completion of repetitive tasks, Microsoft 365 Free
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="internalcommunicationtools.md">Customize flow scenarios for your enterprise</a></h3>
+                        <h3><a href="workflowautomationtools.md">Customize flow scenarios for your enterprise</a></h3>
                         <p>Use our engagement template as a starting point to start customizing workflow automation scenarios within your enterprise.</p>
                     </div>
                 </div>
