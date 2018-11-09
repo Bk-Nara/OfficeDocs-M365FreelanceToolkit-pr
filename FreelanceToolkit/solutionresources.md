@@ -33,7 +33,10 @@ Templates
 
 Field guide
 ----------------
-Download the [Microsoft 365 Freelance Toolkit field guide](media/downloads/Microsoft-365-Freelance-Toolkit-field-guide.pdf)
+[Microsoft 365 Freelance Toolkit field guide](media/downloads/Microsoft-365-Freelance-Toolkit-field-guide.pdf)
+
+![Microsoft 365 Freelance Toolkit field guide](media/Microsoft-365-Freelance-Toolkit-field-guide-thumbnail.jpg)
+
 
 Infographics
 ----------------
@@ -57,7 +60,6 @@ Infographics
         </div>
     </li>
     <li>
-        
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
