@@ -32,8 +32,8 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="dataanalyticstools.md">Power BI connector</a></h3>
-                        <p>This solution uses your existing investment in Power BI, with a custom connector for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>.</p>
+                        <h3><a href="dataanalyticstools.md">Why Power BI?</a></h3>
+                        <p>The toolkit uses your existing investment in PowerBI, with a custom connector and dashboard for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>.</p>
                     </div>
                 </div>
             </div>
@@ -62,12 +62,12 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/users-people.svg" alt="people" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="a list" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="clouds.md">Microsoft Power BI talent cloud</a></h3>
-                        <p>Enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a> can engage with a curated <a href="clouds.md">Microsoft Power BI talent cloud</a> for customization work.</p>
+                        <h3><a href="dataanalyticstools.md">Customize Power BI for your enterprise</a></h3>
+                        <p>Use our engagement template to start customizing your Power BI dashboard.</p>
                     </div>
                 </div>
             </div>
@@ -79,12 +79,12 @@ The Microsoft 365 Freelance Toolkit solves for this with a custom connector for 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="https://docs.microsoft.com/en-us/office/media/icons/task-list-planning-blue.svg" alt="a list" />
+                            <img src="https://docs.microsoft.com/en-us/office/media/icons/deploy-blue.svg" alt="deploy symbol" />
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="dataanalyticstools.md">Work description template</a></h3>
-                        <p>Use this work description as a starting point for finding a Power BI expert who can help you customize your freelance program dashboard.</p>
+                        <h3><a href="datanalyticsdownloads.md">Deployment guide</a></h3>
+                        <p>Use this deployment guide to start deploying Power BI for measuring program success within your organization.</p>
                     </div>
                 </div>
             </div>

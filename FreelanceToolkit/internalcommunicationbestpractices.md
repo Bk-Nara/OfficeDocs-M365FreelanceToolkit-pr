@@ -35,7 +35,7 @@ When establishing and growing our freelance program at Microsoft, here are some 
                     </div>
                     <div class="cardText">
                         <h3>Provide a starting point</h3>
-                        <p>We use our freelance program site as a starting point for employees, with both high-level and low-level information about our program. This helps people get the background they need to be successful in completing required training and expressing intent to comply with program requirements.</p>
+                        <p>We use our freelance program site as a starting point for employees, with both high-level and low-level information about our program. Through a training video using <a href="https://stream.microsoft.com/en-us/">Microsoft Stream</a>, and various documentation using the <a href="https://support.office.com/article/introduction-to-libraries-7d4221d9-8fb9-40d5-8441-2374c84b5e26">SharePoint document library</a>, employees get the background they need to be successful in completing required training and expressing intent to comply with program requirements.</p>
                     </div>
                 </div>
             </div>

@@ -19,7 +19,9 @@ Best practices for workflow automation
 
 As our enterprise freelance program grows, we've learned that freelance program management is a high-demand, multi-faceted role.
 
-The following best practices were developed based on the experiences of Liane, a freelance program manager at Microsoft. Liane's responsibilities span everything from facilitating onboarding, to helping people understand how and when to engage freelancers, to processing and addressing employee concerns about enterprise freelance strategy. Automating some aspects of her work has been critical to sustaining operations.
+The following best practices were developed based on the experiences of early leaders across HR, Legal, Procurement, Research, Corporate Strategy, and Product Development operationalizing the program. Take Liane, a freelance program manager at Microsoft. 
+
+Liane's responsibilities span everything from facilitating onboarding, to helping people understand how and when to engage freelancers, to processing and addressing employee concerns about enterprise freelance strategy. Automating some aspects of her work has been critical to sustaining operations.
 
 As she's automated workflows to support our freelance program at Microsoft, here are some best practices that have worked for Liane.
 

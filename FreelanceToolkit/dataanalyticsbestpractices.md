@@ -19,13 +19,15 @@ Best practices for data analytics
 
 As a data-driven enterprise, we've found that measuring the effectiveness of our freelance program is critical to program growth and health.
 
-The following best practices were developed based on the experiences of Chad, a Procurement director at Microsoft, and his team of sourcing managers who are focused on standing up a responsible freelance program for our enterprise. Chad's team is tasked with:
+The following best practices were developed based on the experiences of leaders across HR, Legal, Procurement, Research, Corporate Strategy, and Product Development needing to quantify program success. 
+
+Take Chad, a Procurement director at Microsoft, and his team of sourcing managers who are focused on standing up a responsible freelance program for our enterprise. Chad's team is tasked with:
+
 - Increasing internal demand for freelance platforms.
 - Demonstrating that our freelance program enables employees to operate at an agile pace that produces quality results.
 - Providing evidence that freelance projects deliver speed, scale, and efficiency aligning to our company-specific guidelines.
 
-
-As Chad and his team have measured the impact of our freelance program at Microsoft, here are some best practices that have worked for them.
+As Chad and his team have measured the impact of our freelance program at Microsoft, here are some best practices that have worked for them
 
 <ul class="panelContent cardsJ">
     <li>
