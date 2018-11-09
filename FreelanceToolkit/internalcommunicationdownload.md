@@ -40,7 +40,7 @@ We recommend starting with the following web parts and content:
 
 **Step 3:** Use the below content as a starting point to start filling out the resources on your SharePoint communication site.
 
-<ul class="panelContent cardsF" cols cols2>
+<ul class="panelContent cardsF cols cols2">
     <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -77,7 +77,7 @@ We recommend starting with the following web parts and content:
     </li>
 </ul>
 
-<ul class="panelContent cardsF" cols cols1>
+<ul class="panelContent cardsF cols cols1">
     <li>
         <div class="cardSize">
             <div class="cardPadding">

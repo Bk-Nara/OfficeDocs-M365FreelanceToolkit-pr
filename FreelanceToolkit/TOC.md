@@ -18,6 +18,5 @@
 # [Workflow automation](workflowautomationsection.md)
 ## [Tools and templates](workflowautomationtools.md)
 ## [Best practices](workflowautomationbestpractices.md)
-## [Deploy workflow automation](workflowautomationdownloads.md)
 
 # [Toolkit overview resources](solutionresources.md)
