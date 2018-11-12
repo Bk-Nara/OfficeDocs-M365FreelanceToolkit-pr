@@ -89,11 +89,9 @@ We recommend starting with the following web parts and content:
                     </div>
                     <div class="cardText">
                         <h3>Research - Distribute industry research reports about freelance work and Enterprise organizations:</a></h3>
-                        <p><a href="media\downloads\Human-Cloud-Landscape-2018-Update.pdf">The Gig Economy and Human Cloud Landscape: 2018 Update</a></p>
-                        <p><a href="media\downloads\Job-Board-Service-Differentiators-20160513.pdf">Job Board Service Differentiators 2016</a></p>
-                        <p><a href="media\downloads\Just-in-Time-Staffing-03132016.pdf">Just-in-time Staffing</a></p>
-                        <p><a href="media\downloads\katz-krueger-cws-v3.pdf">The Rise and Nature of Alternative Work Arrangements in the United States, 1995-2015</a></p>
-                        <p><a href="media\downloads\KPMG-boundaryless-workforcee83fcb5a048e76146b8036751270c0f7c7a1c20bc3786eae0ddba48d48470f35.pdf">KPMG: Ready for a boundaryless workforce?</a></p>
+                        <p><a href="http://www.cvent.com/events/2019-collaboration-in-the-gig-economy-europe/custom-19-8e0bdbc22c7643cfaea5779b421ba767.aspx">The Gig Economy and Human Cloud Landscape: 2018 Update</a></p>
+                        <p><a href="https://www.nber.org/papers/w22667.pdf">The Rise and Nature of Alternative Work Arrangements in the United States, 1995-2015</a></p>
+                        <p><a href="https://advisory.kpmg.us/content/dam/advisory/en/pdfs/boundaryless-workforce.pdf">KPMG: Ready for a boundaryless workforce?</a></p>
                     </div>
                 </div>
             </div>
