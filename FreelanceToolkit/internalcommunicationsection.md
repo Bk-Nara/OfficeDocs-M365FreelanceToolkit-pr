@@ -17,7 +17,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 Internal communication
 ======================
 
-One of the major challenges of launching an enterprise freelance program is driving awareness and education among internal stakeholders and adopters. Employees need a place where they can learn how the program works, access required training, and review best practices for working with freelancers.
+One of the major challenges of launching an enterprise freelance program is driving awareness and education among internal stakeholders and adopters. Employees need a place where they can learn how the program works, access required training, and review best practices for engaging with freelancers.
 
 The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoint communication site](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732).
 

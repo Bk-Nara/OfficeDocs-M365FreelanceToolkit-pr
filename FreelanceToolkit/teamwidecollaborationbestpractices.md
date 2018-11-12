@@ -75,7 +75,7 @@ When collaborating between full time employees and cross-functional, multi-geogr
                     </div>
                     <div class="cardText">
                         <h3>Take shared notes</h3>
-                        <p>Beth's team uses a shared <a href="https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2">OneNote notebook on a tab in Teams</a> to capture notes collectively. This way, anyone engaging on projects at any point has access to organized information relevant to the work.</p>
+                        <p>Beth's team uses a shared <a href="https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2">OneNote notebook on a tab in Teams</a> to capture notes collectively. This way, anyone engaging on projects at any point has access to organized information relevant to the project.</p>
                     </div>
                 </div>
             </div>
