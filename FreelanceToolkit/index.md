@@ -25,8 +25,7 @@ The Microsoft 365 Freelance Toolkit builds on your existing technology investmen
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
 
 
-**Ready to get started?** Explore the four workloads below.  
-
+**Ready to get started?** Explore the four workloads below.
 <ul class="panelContent cardsW cols cols2">
     <li>
         <div class="cardSize">
