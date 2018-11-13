@@ -38,9 +38,5 @@ Guest access differs from external access (also known as federation) as follows:
 - [Differences between Microsoft Teams and Microsoft Teams free](https://support.office.com/article/0b69cf39-eb52-49af-b255-60d46fdf8a9c)
 - [Guest capabilities in Microsoft Teams](https://support.office.com/article/d03fdf5b-1a6e-48e4-8e07-b13e1350ec7b)
 
-<<<<<<< HEAD
-**IMPORTANT:** In current state, when a project ends, freelancers can easily be removed from Teams and will cease to receive project and document updates.
-=======
 **IMPORTANT:** In the current state, when a project ends, you can easily remove freelancers from Teams and they will cease to receive project and document updates. 
->>>>>>> dc0953cbfe39fa0f47457fc27a57fdf6f8fe0a59
 
