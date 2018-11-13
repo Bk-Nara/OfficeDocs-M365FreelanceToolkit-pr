@@ -28,7 +28,7 @@ For example, you might connect these types of workflows:
 - **Newsletter sign-up.** Employees who sign up to receive a newsletter through SharePoint are added to an Excel spreadsheet.
 - **Project approval communication.** Employees who submit project applications using Forms are added to a SharePoint list for review, and then receive a follow-up email when their project is approved or denied.
 
-For Liane, a freelance program manager at Microsoft responsible for operationalizing the freelance program within her product development team, automating some aspects of her work has been critical to sustaining and scaling operations. To learn how she did this and how your organization can start identifying workflow automation scenarios, refer to our best practices.  
+For Liane, a freelance program manager and full time employee at Microsoft responsible for operationalizing the freelance program, automating aspects of her work have been critical to sustaining and scaling operations. To learn how she did this and how your organization can start identifying workflow automation scenarios, refer to our best practices.  
 
 <ul class="panelContent cardsF cols cols2">
     <li>
