@@ -69,7 +69,7 @@ When establishing and growing our freelance program at Microsoft, here are some 
                     </div>
                     <div class="cardText">
                         <h3>Link to relevant research</h3>
-                        <p>We've found that sharing articles and research on the gig economy has helped people understand industry trends and the work being done to continue pushing the model forward. It's been important to recognize employee concerns with this new way of working, and provide information that shows how those concerns are being addressed globally.</p>
+                        <p>We've found that sharing articles and research on the gig economy has helped people understand industry trends and the work being done to continue pushing the model forward. It's been important to recognize employee concerns with this new way of engaging, and provide information that shows how those concerns are being addressed globally.</p>
                     </div>
                 </div>
             </div>
@@ -103,7 +103,7 @@ When establishing and growing our freelance program at Microsoft, here are some 
                     </div>
                     <div class="cardText">
                         <h3>Offer real-world examples</h3>
-                        <p>As our employees began engaging with freelancers, we provided a place to share their experiences as case studies, including quality, time savings, and cost savings measures. Other employees have found it useful to browse through completed projects, categorized by task type, and see the results of the work.</p>
+                        <p>As our employees began engaging with freelancers, we provided a place to share their experiences as case studies, including quality, time savings, and cost savings measures. Other employees have found it useful to browse through completed projects, categorized by task type, and see the results of the engagement.</p>
                     </div>
                 </div>
             </div>

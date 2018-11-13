@@ -40,7 +40,7 @@ To help you start filling out the resources on your SharePoint communication sit
                     </div>
                     <div class="cardText">
                         <h3><a href="media\downloads\CaseStudies.pdf">Use cases</a></h3>
-                        <p>Show your employees the kinds of work they can get done with freelancers.</p>
+                        <p>Show your employees the kinds of projects they can get done with freelancers.</p>
                     </div>
                 </div>
             </div>

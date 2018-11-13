@@ -52,7 +52,7 @@ We recommend starting with the following web parts and content:
                     </div>
                     <div class="cardText">
                         <h3><a href="media\downloads\CaseStudies.pdf">Use cases</a></h3>
-                        <p>Show your employees the kinds of work they can get done with freelancers.</p>
+                        <p>Show your employees the kinds of projects they can get done with freelancers.</p>
                     </div>
                 </div>
             </div>
@@ -99,6 +99,4 @@ We recommend starting with the following web parts and content:
     </li>
 </ul>
 
-**Step 4:** Make sure the following permissions and access controls are turned on:
-
-There are no access controls relevant for deploying your SharePoint Communications Site. For all access controls needed for this toolkit, refer to [Deploy team-wide collaboration](teamwidecollaborationdownload.md).
+**There are no access controls relevant for deploying your SharePoint Communications Site. For all access controls needed for this toolkit, refer to [Deploy team-wide collaboration](teamwidecollaborationdownload.md).**

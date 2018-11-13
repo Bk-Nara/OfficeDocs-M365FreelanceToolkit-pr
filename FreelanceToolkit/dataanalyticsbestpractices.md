@@ -92,7 +92,7 @@ As Chad and his team have measured the impact of our freelance program at Micros
                     </div>
                     <div class="cardText">
                         <h3>Measure spend across multiple pivots</h3>
-                        <p>Because freelance program adoption is varied across our enterprise, Chad's team watches spend within the program across time (total spend per month), task types, and even per employee. Understanding what work is being funded when and where helps his team target their engagements to increase program use and effectiveness.</p>
+                        <p>Because freelance program adoption is varied across our enterprise, Chad's team watches spend within the program across time (total spend per month), task types, and even per employee. Understanding what projects are being funded when and where helps his team target their engagements to increase program use and effectiveness.</p>
                     </div>
                 </div>
             </div>
