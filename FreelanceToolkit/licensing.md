@@ -20,7 +20,7 @@ Licensing requirements
 The following chart covers the licensing requirements for the toolkit: 
 
 
-|                                    | Teams (1)        | SharePoint        | Flow        | Power BI (2) |
+|                                    | Microsoft Teams (1)        | SharePoint        | Microsoft Flow        | Power BI (2) |
 | :------------------------------    |:-----------------|:------------------|:------------|:-------------|
 | Microsoft 365 or Office 365 E5     | Included         | Included          | Included    | Included     |
 | Microsoft 365 or Office 365 E3    | Included        | Included        | Included        | [Available for download](https://powerbi.microsoft.com/pricing/) |
