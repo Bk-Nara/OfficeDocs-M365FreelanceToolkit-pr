@@ -1,4 +1,5 @@
 # [Microsoft 365 Freelance Toolkit](index.md)
+## [Licensing](licensing.md)
 
 # [Internal communication](internalcommunicationsection.md)
 ## [Tools and templates](internalcommunicationtools.md)
