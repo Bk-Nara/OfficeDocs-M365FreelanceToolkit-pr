@@ -11,10 +11,10 @@ ms.devlang: na
 ms.topic: article
 ms.author: matthewrmottola1
 localization_priority: None 
-ms.custom: M365FreelanceToolkit
+ms.custom: M365freelancetoolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-Microsoft 365 Freelance Toolkit overview resources
+Microsoft 365 freelance toolkit overview resources
 ============================================================
 
 These videos, infographics, and slides were designed to help you drive stakeholder discussion around how your existing investments in Microsoft 365 can help support an enterprise freelance program.
@@ -33,9 +33,9 @@ Engaging freelancers for Office templates
 
 Presentation
 ----------------
-[Presentation: Embracing freelance within your enterprise](media/downloads/Microsoft-365-Freelance-Toolkit-EmbracingFreelance.pdf)
+[Presentation: Embracing freelance within your enterprise](media/downloads/Microsoft-365-freelance-toolkit-EmbracingFreelance.pdf)
 
-![Presentation: Embracing freelance within your enterprise](media/Microsoft-365-Freelance-Toolkit-field-guide-thumbnail.jpg)
+![Presentation: Embracing freelance within your enterprise](media/Microsoft-365-freelance-toolkit-field-guide-thumbnail.jpg)
 
 
 Infographics

@@ -11,7 +11,7 @@ ms.devlang: na
 ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
-ms.custom: M365FreelanceToolkit
+ms.custom: M365freelancetoolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 Internal communications tools and templates
@@ -26,7 +26,7 @@ Here's an illustration of the home page layout we used:
 
 ![SharePoint communications site with hero and people web parts](media/M365-Freelance-Toolkit-comm-site-expanded-520px.png)
 
-To help you start filling out the resources on your SharePoint communication site, the Microsoft 365 Freelance Toolkit provides the below content as a starting point:
+To help you start filling out the resources on your SharePoint communication site, the Microsoft 365 freelance toolkit provides the below content as a starting point:
 
 <ul class="panelContent cardsF">
     <li>

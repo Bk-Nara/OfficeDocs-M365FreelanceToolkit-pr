@@ -11,7 +11,7 @@ ms.devlang: na
 ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
-ms.custom: M365FreelanceToolkit
+ms.custom: M365freelancetoolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 Internal communication
@@ -19,7 +19,7 @@ Internal communication
 
 One of the major challenges of launching an enterprise freelance program is driving awareness and education among internal stakeholders and adopters. Employees need a place where they can learn how the program works, access required training, and review best practices for engaging with freelancers.
 
-The Microsoft 365 Freelance Toolkit solves for this with a customized [SharePoint communication site](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732).
+The Microsoft 365 freelance toolkit solves for this with a customized [SharePoint communication site](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732).
 
 <ul class="panelContent cardsF cols cols2">
     <li>

@@ -11,7 +11,7 @@ ms.devlang: na
 ms.topic: article
 ms.author: matthewrmottola1
 localization_priority: None 
-ms.custom: M365FreelanceToolkit
+ms.custom: M365freelancetoolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 Best practices for team-wide collaboration
