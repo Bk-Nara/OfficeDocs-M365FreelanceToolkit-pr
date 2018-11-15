@@ -11,13 +11,13 @@ ms.devlang: na
 ms.topic: article
 ms.author: matthewrmottola1
 localization_priority: None 
-ms.custom: M365FreelanceToolkit
+ms.custom: M365freelancetoolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 Tools and templates for team-wide collaboration
 ========================================================
 
-The Microsoft 365 Freelance Toolkit uses your existing investments in [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software) to help you streamline collaboration between full time employees and cross-functional, multi-geographical freelance teams.
+The Microsoft 365 freelance toolkit uses your existing investments in [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software) to help you streamline collaboration between full time employees and cross-functional, multi-geographical freelance teams.
 
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE1LGec&AutoPlayVideo=false]
 

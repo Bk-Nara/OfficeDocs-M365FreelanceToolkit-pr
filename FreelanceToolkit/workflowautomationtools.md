@@ -11,13 +11,13 @@ ms.devlang: na
 ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
-ms.custom: M365FreelanceToolkit
+ms.custom: M365freelancetoolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 Tools and templates for workflow automation
 ====================================================
 
-The Microsoft 365 Freelance Toolkit uses your existing investment in [Microsoft Flow](https://flow.microsoft.com/).
+The Microsoft 365 freelance toolkit uses your existing investment in [Microsoft Flow](https://flow.microsoft.com/).
 
 Once you have defined how your enterprise freelance program will work, you can use Flow to connect systems together and automate aspects of provisioning, compliance, and monitoring.
 

@@ -11,7 +11,7 @@ ms.devlang: na
 ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
-ms.custom: M365FreelanceToolkit
+ms.custom: M365freelancetoolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
 Workflow automation
@@ -19,7 +19,7 @@ Workflow automation
 
 An enterprise freelance program requires provisioning, compliance, and monitoring, all while providing a frictionless process for your employees.
 
-To reduce the need for manual completion of repetitive tasks, Microsoft 365 Freelance Toolkit uses [Microsoft Flow](https://flow.microsoft.com/) to create automated workflows between apps and services, send notifications, synchronize files, and collect data.
+To reduce the need for manual completion of repetitive tasks, Microsoft 365 freelance toolkit uses [Microsoft Flow](https://flow.microsoft.com/) to create automated workflows between apps and services, send notifications, synchronize files, and collect data.
 
 <ul class="panelContent cardsF cols cols2">
     <li>

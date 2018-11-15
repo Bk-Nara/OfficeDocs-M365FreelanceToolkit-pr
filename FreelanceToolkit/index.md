@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Freelance Toolkit
+title: Microsoft 365 freelance toolkit
 description: Launch, execute, and scale your enterprise freelance program 
 author: matthewrmottola1
 manager: samanro
@@ -11,13 +11,13 @@ ms.devlang: na
 ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
-ms.custom: M365FreelanceToolkit
+ms.custom: M365freelancetoolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-Microsoft 365 Freelance Toolkit
+Microsoft 365 freelance toolkit
 ===============================
 
-The Microsoft 365 Freelance Toolkit builds on your existing technology investments and provides tools, templates, and best practices that help enterprises launch, execute, and manage freelance programs at scale. 
+The Microsoft 365 freelance toolkit builds on your existing technology investments and provides tools, templates, and best practices that help enterprises launch, execute, and manage freelance programs at scale. 
 
 **What is the Toolkit?** Learn more with this brief video.
 <p></p>
