@@ -24,7 +24,7 @@ The following chart covers the licensing requirements for the toolkit:
 | :------------------------------    |:-----------------|:------------------|:------------|:-------------|
 | Microsoft 365 or Office 365 E5     | Included         | Included          | Included    | Included     |
 | Microsoft 365 or Office 365 E3    | Included        | Included        | Included        | [Available for download](https://powerbi.microsoft.com/pricing/) |
-| Microsoft 365 or Office 365 E3    | Included        | Included        | Included        | [Available for download](https://powerbi.microsoft.com/pricing/) |
+| Microsoft 365 or Office 365 E1    | Included        | Included        | Included        | [Available for download](https://powerbi.microsoft.com/pricing/) |
 | Office 365 Business Premium       | Included        | Included        | Included        | [Available for download](https://powerbi.microsoft.com/pricing/) |
 
 
