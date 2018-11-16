@@ -23,7 +23,7 @@ Once you have defined how your enterprise freelance program will work, you can u
 
 **What is Microsoft Flow?**
 
->[!VIDEO https://www.youtube.com/embed/iAtwVM-Z7rY]
+>[!VIDEO <https://www.youtube.com/watch?v=4EKWKJc4b4c&feature=youtu.be]>
 
 What if you could automate employee onboarding? 
 
