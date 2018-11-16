@@ -21,14 +21,19 @@ The Microsoft 365 freelance toolkit uses your existing investment in [Microsoft 
 
 Once you have defined how your enterprise freelance program will work, you can use Flow to connect systems together and automate aspects of provisioning, compliance, and monitoring.
 
-![a workflow diagram](media/m365_freelance_cognitiveload_358x201.png)
+What is Microsoft Flow?
 
-For example, you might connect these types of workflows:
-- **Account creation.** Employees who complete compliance training videos in [Microsoft Stream](https://stream.microsoft.com) receive a follow-up email with account information.
-- **Newsletter sign-up.** Employees who sign up to receive a newsletter through SharePoint are added to an Excel spreadsheet.
-- **Project approval communication.** Employees who submit project applications using Forms are added to a SharePoint list for review, and then receive a follow-up email when their project is approved or denied.
+>[!VIDEO https://www.youtube.com/embed/iAtwVM-Z7rY]
 
-For Liane, a freelance program manager and full time employee at Microsoft responsible for operationalizing the freelance program, automating aspects of her work have been critical to sustaining and scaling operations. To learn how she did this and how your organization can start identifying workflow automation scenarios, refer to our best practices.  
+What if you could automate employee onboarding? 
+
+For Liane, a freelance program manager and full time employee at Microsoft responsible for operationalizing the freelance program, automating aspects of her work have been critical to sustaining and scaling operations. By using Microsoft Flow, she was able to automate the employee onboarding process, specifically the following scenarios: 
+
+- **Employee training and compliance.** By visiting the freelance program [SharePoint communication site](https://docs.microsoft.com/en-us/freelancetoolkit/internalcommunicationtools), employees can sign up for the pilot by completing a compliance training video supported by Microsoft Stream. 
+- **Internal community signup.** After an employee completes the compliance training video, the employee is automatically added to an internal [Teams channel](https://docs.microsoft.com/en-us/freelancetoolkit/teamwidecollaborationtools) where employees can collaborate with others who are part of the program and share experiences.
+- **Upwork account creation.** After the employee is added to the Teams channel, their account information, which includes their name and email address is sent to Upwork for account creation on their platform, so they can start posting jobs on the platform. 
+
+To learn how your organization can start identifying workflow automation scenarios, refer to our best practices. 
 
 <ul class="panelContent cardsF cols cols2">
     <li>
