@@ -21,7 +21,7 @@ The Microsoft 365 freelance toolkit uses your existing investment in [Microsoft 
 
 Once you have defined how your enterprise freelance program will work, you can use Flow to connect systems together and automate aspects of provisioning, compliance, and monitoring.
 
-What is Microsoft Flow?
+**What is Microsoft Flow?**
 
 >[!VIDEO https://www.youtube.com/embed/iAtwVM-Z7rY]
 
