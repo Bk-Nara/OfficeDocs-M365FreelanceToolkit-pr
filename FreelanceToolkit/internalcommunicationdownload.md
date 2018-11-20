@@ -12,7 +12,6 @@ ms.topic: article
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365freelancetoolkit
-ROBOTS: NOINDEX, NOFOLLOW
 ---
 Deploy internal communication with a SharePoint site
 =========================================
