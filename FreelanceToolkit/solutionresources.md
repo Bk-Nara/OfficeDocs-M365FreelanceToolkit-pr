@@ -34,7 +34,7 @@ Engaging freelancers for Office templates
 Presentation
 ----------------
 [Presentation: Embracing freelance within your enterprise](media/downloads/Microsoft-365-freelance-toolkit-EmbracingFreelance.pdf)
-<b>Use this presentation as a starting point to drive awareness and understanding of freelance within the enterprise.</b>  
+<p>Use this presentation as a starting point to drive awareness and understanding of freelance within the enterprise.</p>  
 
 ![Presentation: Embracing freelance within your enterprise](media/Microsoft-365-freelance-toolkit-field-guide-thumbnail.jpg)
 
