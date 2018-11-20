@@ -28,7 +28,7 @@ Here's an illustration of the home page layout we used:
 
 We recommend starting with the following web parts and content:
 - A home page with a <a href="https://support.office.com/article/Use-the-Hero-web-part-D57F449B-19A0-4B0D-8CE3-BE5866430645">Hero</a> web part in the Topic style layout that points to:
-    - Get started information about your program
+    - "Get started" information about your program
     - Information about your strategy
     - Case studies (you can start with the case studies we have provided below)
     - Research (you can start with the research we provide below)
@@ -38,7 +38,7 @@ We recommend starting with the following web parts and content:
 - Pages to host the research, strategy, case studies, videos, and events you might provide for your Enterprise.
     - We used the <a href="https://support.office.com/article/use-the-quick-links-web-part-e1df7561-209d-4362-96d4-469f85ab2a82">Quick links</a> web part with a Filmstrip layout to host the research papers with preview thumbnail images.
 
-**Step 3:** Use the below content as a starting point to start filling out the resources on your SharePoint communication site.
+**Step 3:** Use the below content as a starting point to fill out the resources on your SharePoint communication site.
 
 <ul class="panelContent cardsF cols cols2">
     <li>

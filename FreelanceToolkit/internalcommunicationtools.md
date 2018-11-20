@@ -74,7 +74,7 @@ To help you start filling out the resources on your SharePoint communication sit
                     </div>
                     <div class="cardText">
                         <h3><a href="internalcommunicationdownload.md">Research</a></h3>
-                        <p>Distribute industry research reports about freelance work and Enterprise organizations.</p>
+                        <p>Go to our deployment guide, where we have curated industry research reports about freelance work and Enterprise organizations.</p>
                     </div>
                 </div>
             </div>
