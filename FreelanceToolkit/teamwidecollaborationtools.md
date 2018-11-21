@@ -27,7 +27,7 @@ With Teams and Planner, enterprises can manage their freelance collaboration nee
 - **File storage.** One place to store shared files and retrieve them through intelligent search.
 - **Guest Access.** With [Microsoft Teams free](https://products.office.com/microsoft-teams/free), freelancers can join and exit your team as needed, with no cost or commitment. Employees can provide freelancers with [external guest access](https://support.office.com/article/fccb4fa6-f864-4508-bdde-256e7384a14f) to their teams, giving everyone a single place to collaborate on tasks. 
 
-For Beth, a training manager at Microsoft who managed a team of four full time employees and engaged a continuous flow of freelancers, switching her operations [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software) enabled her team to exceed their production goals. Learn how she did this and how your organization can do this with our best practices.  
+For Beth, a training manager at Microsoft managing four full time employees and engaging a continuous flow of freelancers, switching her operations [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) and [Microsoft Planner](https://products.office.com/business/task-management-software) enabled her team to exceed their production goals. Learn how she did this and how your organization can do this with our best practices.  
 
 <ul class="panelContent cardsF cols cols2">
     <li>

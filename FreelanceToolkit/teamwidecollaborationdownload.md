@@ -17,7 +17,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 Deploy team-wide collaboration with Microsoft Teams
 =========================================
 
-Use these resources to start deploying Microsoft Teams.
+Use this guide to get started with Microsoft Teams for team-wide collaboration within your organization. 
 
 **Step 1:** Authorize external/guest access to [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access) 
 
