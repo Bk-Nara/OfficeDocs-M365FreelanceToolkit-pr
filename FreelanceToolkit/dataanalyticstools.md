@@ -17,14 +17,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 Tools and templates for data analytics
 ======================================
 
-Start measuring business success through PowerBI  
+Start measuring business success through Power BI  
 ------------------------------------------------
 
-Capture, track, and communicate program metrics, compare freelance KPIs to contingent program options, and identify groups that leverage the program most effectively using PowerBI, a suite of business analytics tools that connect to hundreds of data sources, simplify data prep, and drive ad-hoc analysis. Along with publishing beautiful reports your organization can consume on the web and across mobile devices, PowerBI scales across the enterprise with governance and security built-in.
+Capture, track, and communicate program metrics, compare freelance KPIs to contingent program options, and identify groups that leverage the program most effectively using Power BI, a suite of business analytics tools that connect to hundreds of data sources, simplify data prep, and drive ad-hoc analysis. Along with publishing beautiful reports your organization can consume on the web and across mobile devices, Power BI scales across the enterprise with governance and security built-in.
 
 Here's an illustration of the Power BI dashboard layout we used: 
 
-![A spending report in PowerBI](media/M365-Freelance-Toolkit-dashboard-freelancereport-520x322-callouts.png)
+![A spending report in Power BI](media/M365-Freelance-Toolkit-dashboard-freelancereport-520x322-callouts.png)
 
 For Chad, a Procurement director at Microsoft, and his team of sourcing managers focused on standing up a responsible freelance program for our enterprise, they needed to measure the impact of our freelance program. Learn how they did this and how your organization can do this with our best practices.  
 

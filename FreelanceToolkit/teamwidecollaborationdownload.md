@@ -23,7 +23,7 @@ Use this guide to get started with Microsoft Teams for team-wide collaboration w
 
 For your organization to collaborate with Freelancers on Teams, they need to turn on Guest access, which is turned off by default on Teams. Depending upon your organizational group policies, you can decide how you want to handle guest access. If you decide to authorize external/guest access to Microsoft Teams, see [Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/guest-access) for information on how to turn it on.  
 
-There are four different levels of authorizations to manage Microsoft Teams Guest access features and capabilities, which apply to your Office 365 tenant. Each authorization controls the guest experience - more information at [Authorize guest access in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-dependencies).  
+There are four different levels of authorization to manage Microsoft Teams Guest access features and capabilities, each of which applies to Office 365. Each authorization controls the guest experience - more information at [Authorize guest access in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-dependencies).  
 
 **Interested in how guest access compares to federation (external access)?**
 
