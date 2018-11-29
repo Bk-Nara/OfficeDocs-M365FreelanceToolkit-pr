@@ -19,9 +19,9 @@ Best practices for team-wide collaboration
 
 As employees start engaging with freelancers, we've found that streamlined collaboration becomes critical to operating effectively. 
 
-The following best practices were developed based on the experience of collaborating between full time employees and cross-functional, multi-geographical freelance teams. 
+We developed the following best practices based on our own experience of collaborating between full time employees and cross-functional, multi-geographical freelance teams. 
 
-Watch the experience of Beth, a training manager at Microsoft who managed a team of four full time employees and engaged a continuous flow of freelancers producing Microsoft Office training videos. Switching their operations to [Microsoft Teams](https://products.office.com/microsoft-teams/) and [Microsoft Planner](https://products.office.com/business/task-management-software) enabled them to exceed their production goals.
+Watch the experience of Beth, a training manager at Microsoft who manages four full time employees and engages a continuous flow of freelancers producing Microsoft Office training videos. Switching their operations to [Microsoft Teams](https://products.office.com/microsoft-teams/) and [Microsoft Planner](https://products.office.com/business/task-management-software) enabled them to exceed their production goals.
 <br><br>
 
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RWm2wV&AutoPlayVideo=false]

@@ -14,10 +14,10 @@ localization_priority: None
 ms.custom: M365freelancetoolkit
 ROBOTS: NOINDEX, NOFOLLOW
 ---
-Internal communications tools and templates
+Tools and templates for internal communication
 ==============================================
 
-Drive awareness and engagement for your internal stakeholders and adopters through a beautiful SharePoint communicate site. SharePoint communication sites aren’t limited to the content on the front page, they are a place on the intranet for your project, team, department, or division to gather and track data, keep everyone up-to-date with news, tasks and deadlines, and connect everyone to all the resources they need across Office 365 and other services through pages, lists, and libraries. 
+Drive awareness and engagement for your internal stakeholders and adopters through a beautiful SharePoint communication site. SharePoint communication sites aren’t limited to the content on the front page. They are a place on the intranet for your project, team, department, or division to gather and track data, keep everyone up-to-date with news, tasks and deadlines, and connect everyone to all the resources they need across Office 365 and other services through pages, lists, and libraries. 
 
 Create your freelance program communication site
 ---------------------------------------------------

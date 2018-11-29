@@ -17,7 +17,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 Deploy data analytics with Power BI
 =========================================
 
-Use these resources to start measuring business success with Power BI.
+Use this guide to start deploying Power BI and measuring program success within your organization.
 
 **Step 1:** Deploy the [Power BI custom connector and dashboard](https://github.com/upwork/powerbi-upwork) 
 
