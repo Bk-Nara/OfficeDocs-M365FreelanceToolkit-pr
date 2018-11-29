@@ -12,6 +12,7 @@ ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365freelancetoolkit
+ROBOTS: NOINDEX, NOFOLLOW
 ---
 Deploy data analytics with Power BI
 =========================================
