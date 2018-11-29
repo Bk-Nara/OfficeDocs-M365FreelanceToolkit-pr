@@ -8,7 +8,7 @@ ms.assetid:
 ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
-ms.topic: article
+ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365freelancetoolkit
@@ -34,6 +34,7 @@ Engaging freelancers for Office templates
 Presentation
 ----------------
 [Presentation: Embracing freelance within your enterprise](media/downloads/Microsoft-365-freelance-toolkit-EmbracingFreelance.pdf)
+<p>Use this presentation as a starting point to drive awareness and understanding of freelance within the enterprise.</p>  
 
 ![Presentation: Embracing freelance within your enterprise](media/Microsoft-365-freelance-toolkit-field-guide-thumbnail.jpg)
 

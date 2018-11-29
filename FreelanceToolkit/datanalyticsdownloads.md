@@ -3,11 +3,12 @@ title: Deploy data analytics
 description:  
 author: matthewrmottola1
 manager: samanro
+layout: LandingPage
 ms.assetid: 
 ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
-ms.topic: article
+ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365freelancetoolkit
@@ -16,7 +17,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 Deploy data analytics with Power BI
 =========================================
 
-Use these resources to start measuring business success with Power BI.
+Use this guide to start deploying Power BI and measuring program success within your organization.
 
 **Step 1:** Deploy the [Power BI custom connector and dashboard](https://github.com/upwork/powerbi-upwork) 
 

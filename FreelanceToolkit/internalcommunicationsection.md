@@ -67,7 +67,7 @@ The Microsoft 365 freelance toolkit solves for this with a customized [SharePoin
                     </div>
                     <div class="cardText">
                         <h3><a href="internalcommunicationtools.md">Customize communication site for your enterprise</a></h3>
-                        <p>Use our engagement description, or if you also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>, use the Microsoft SharePoint talent cloud as a starting point to customize your communication site.</p>
+                        <p>Use our engagement description as a starting point to customize your communication site.</p>
                     </div>
                 </div>
             </div>

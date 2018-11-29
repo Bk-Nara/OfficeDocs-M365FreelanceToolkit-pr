@@ -8,7 +8,7 @@ ms.assetid:
 ms.prod: microsoft-365-enterprise
 ms.tgt_pltfrm: na
 ms.devlang: na
-ms.topic: article
+ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365freelancetoolkit
@@ -28,7 +28,7 @@ Here's an illustration of the home page layout we used:
 
 We recommend starting with the following web parts and content:
 - A home page with a <a href="https://support.office.com/article/Use-the-Hero-web-part-D57F449B-19A0-4B0D-8CE3-BE5866430645">Hero</a> web part in the Topic style layout that points to:
-    - Get started information about your program
+    - "Get started" information about your program
     - Information about your strategy
     - Case studies (you can start with the case studies we have provided below)
     - Research (you can start with the research we provide below)
@@ -37,8 +37,9 @@ We recommend starting with the following web parts and content:
 - An FAQ page seeded with top questions from enterprise employees (you can start with the FAQ questions we have provided below)
 - Pages to host the research, strategy, case studies, videos, and events you might provide for your Enterprise.
     - We used the <a href="https://support.office.com/article/use-the-quick-links-web-part-e1df7561-209d-4362-96d4-469f85ab2a82">Quick links</a> web part with a Filmstrip layout to host the research papers with preview thumbnail images.
+If you are the author, make sure to publish every edited page. Otherwise, edited pages will only visible to you as the author. 
 
-**Step 3:** Use the below content as a starting point to start filling out the resources on your SharePoint communication site.
+**Step 3:** Use the below content as a starting point to fill out the resources on your SharePoint communication site.
 
 <ul class="panelContent cardsF cols cols2">
     <li>

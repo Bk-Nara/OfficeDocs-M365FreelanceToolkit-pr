@@ -33,7 +33,7 @@ The Microsoft 365 freelance toolkit solves for this with a custom connector for 
                     </div>
                     <div class="cardText">
                         <h3><a href="dataanalyticstools.md">Why Power BI?</a></h3>
-                        <p>The toolkit uses your existing investment in PowerBI, with a custom connector and dashboard for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>.</p>
+                        <p>The toolkit uses your existing investment in Power BI, with a custom connector and dashboard for enterprise customers who also have an agreement with <a href="https://www.upwork.com/enterprise/">Upwork</a>.</p>
                     </div>
                 </div>
             </div>
