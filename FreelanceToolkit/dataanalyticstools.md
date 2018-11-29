@@ -26,7 +26,7 @@ Here's an illustration of the Power BI dashboard layout we used:
 
 ![A spending report in Power BI](media/M365-Freelance-Toolkit-dashboard-freelancereport-520x322-callouts.png)
 
-For Chad, a Procurement director at Microsoft, and his team of sourcing managers focused on standing up a responsible freelance program for our enterprise, they needed to measure the impact of our freelance program. Learn how they did this and how your organization can do this with our best practices.  
+Chad, a Procurement director at Microsoft, and his team of sourcing managers needed to measure the impact of our freelance program to see if it was effective and responsible. See how they did this with our best practices.
 
 <ul class="panelContent cardsF cols cols2">
     <li>
@@ -48,7 +48,7 @@ For Chad, a Procurement director at Microsoft, and his team of sourcing managers
     </li>
 </ul>
 
-Then start deploying data analytics within your freelance program through our custom Power BI connector and Power BI template. The connector pulls data from disparate sources into dashboards, and the sample visualizations included are designed to help enterprises identify groups within your organization and their category spend where freelance is most impactful. 
+Then start deploying data analytics within your freelance program through our custom Power BI connector and Power BI template. The connector pulls data from disparate sources into dashboards, and the sample visualizations help enterprises identify groups and their category spend to determine where freelance is most impactful.
 
 <ul class="panelContent cardsF cols cols2">
     <li>

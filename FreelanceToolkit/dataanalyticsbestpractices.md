@@ -27,7 +27,7 @@ Take Chad, a Procurement director at Microsoft, and his team of sourcing manager
 - Demonstrating that our freelance program enables employees to operate at an agile pace that produces quality results.
 - Providing evidence that freelance projects deliver speed, scale, and efficiency aligning to our company-specific guidelines.
 
-As Chad and his team have measured the impact of our freelance program at Microsoft, here are some best practices that have worked for them
+As Chad and his team have measured the impact of our freelance program at Microsoft, they have found a number of best practices to be helpful. 
 
 <ul class="panelContent cardsJ">
     <li>

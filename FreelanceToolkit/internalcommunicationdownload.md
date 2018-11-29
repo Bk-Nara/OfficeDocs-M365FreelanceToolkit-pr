@@ -37,6 +37,7 @@ We recommend starting with the following web parts and content:
 - An FAQ page seeded with top questions from enterprise employees (you can start with the FAQ questions we have provided below)
 - Pages to host the research, strategy, case studies, videos, and events you might provide for your Enterprise.
     - We used the <a href="https://support.office.com/article/use-the-quick-links-web-part-e1df7561-209d-4362-96d4-469f85ab2a82">Quick links</a> web part with a Filmstrip layout to host the research papers with preview thumbnail images.
+If you are the author, make sure to publish every edited page. Otherwise, edited pages will only visible to you as the author. 
 
 **Step 3:** Use the below content as a starting point to fill out the resources on your SharePoint communication site.
 
