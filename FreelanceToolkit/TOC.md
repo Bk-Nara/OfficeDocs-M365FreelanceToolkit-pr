@@ -1,4 +1,4 @@
-# [Microsoft 365 freelace toolkit](index.md)
+# [Microsoft 365 freelance toolkit](index.md)
 ## [Licensing](licensing.md)
 
 # [Internal communication](internalcommunicationsection.md)
