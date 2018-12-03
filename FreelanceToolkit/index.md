@@ -25,8 +25,6 @@ The Microsoft 365 freelance toolkit builds on your existing technology investmen
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
 
 
-![Get started with the Microsoft 365 freelance toolkit. Find best practices, deployment guides, and engagement templates](media/M365_Freelance_getstartedtoolkit_640wide.png)
-
 **Ready to get started?** Explore the four workloads below.
 <ul class="panelContent cardsW cols cols2">
     <li>
