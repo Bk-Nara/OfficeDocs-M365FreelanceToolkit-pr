@@ -12,7 +12,6 @@ ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365freelancetoolkit
-ROBOTS: NOINDEX, NOFOLLOW
 ---
 Tools and templates for data analytics
 ======================================
