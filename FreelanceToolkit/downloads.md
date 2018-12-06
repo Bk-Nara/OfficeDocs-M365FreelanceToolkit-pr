@@ -13,7 +13,7 @@ ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365freelancetoolkit
 ---
-Microsoft 365 freelance toolkit Downloads
+Microsoft 365 freelance toolkit downloads
 =========================================
 
 Thank you for your interest! Currently, downloads for the Microsoft 365 freelance toolkit are available to a select group of partners. They will be publicly available in early December. [Apply to participate in the partner preview.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUQU1LUDJCQUE0T1BIUFdFRlIwWUg3N1BXTy4u)
