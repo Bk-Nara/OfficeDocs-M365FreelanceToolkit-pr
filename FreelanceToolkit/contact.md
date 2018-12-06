@@ -16,4 +16,4 @@ ms.custom: M365freelancetoolkit
 Contact us
 =========================================
 
-Thank you for your interest! To get more information about the Microsoft 365 freelance toolkit, contact us at https://aka.ms/freelancetoolkitcontact.
+The Microsoft 365 freelance toolkit builds on your existing technology investments and provides tools, templates, and best practices that help enterprises launch, execute, and manage freelance programs at scale. We are currently enrolling a limited number of private preview customers. Provide your email to be contacted further and considered as a potential private preview customer at https://aka.ms/freelancetoolkitcontact.
