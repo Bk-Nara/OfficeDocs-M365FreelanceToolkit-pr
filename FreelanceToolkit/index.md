@@ -12,7 +12,6 @@ ms.topic: landing-page
 ms.author: matthewrmottola1
 localization_priority: None 
 ms.custom: M365freelancetoolkit
-ROBOTS: NOINDEX, NOFOLLOW
 ---
 Microsoft 365 freelance toolkit
 ===============================
@@ -25,9 +24,12 @@ The Microsoft 365 freelance toolkit builds on your existing technology investmen
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
 
 
+
 ![Get started with the Microsoft 365 freelance toolkit. Find best practices, deployment guides, and engagement templates](media/M365_Freelance_getstartedtoolkit_640wide.png)
 
 **Ready to get started?** [Contact us](https://www.upwork.com/enterprise/resources/partnership/microsoftpartnership/?utm_campaign=microsoft-toolkit-contact-us&utm_source=microsoft&utm_medium=web&source=web&sourcedetail=microsoft-toolkit-contact-us)! Or explore the four workloads below.
+=======
+
 <ul class="panelContent cardsW cols cols2">
     <li>
         <div class="cardSize">
