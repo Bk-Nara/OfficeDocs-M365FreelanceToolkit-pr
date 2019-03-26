@@ -24,7 +24,12 @@ The Microsoft 365 freelance toolkit builds on your existing technology investmen
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
 
 
-**Ready to get started?** Explore the four workloads below.
+
+![Get started with the Microsoft 365 freelance toolkit. Find best practices, deployment guides, and engagement templates](media/M365_Freelance_getstartedtoolkit_640wide.png)
+
+**Ready to get started?** [Contact us](https://www.upwork.com/enterprise/resources/partnership/microsoftpartnership/?utm_campaign=microsoft-toolkit-contact-us&utm_source=microsoft&utm_medium=web&source=web&sourcedetail=microsoft-toolkit-contact-us)! Or explore the four workloads below.
+=======
+
 <ul class="panelContent cardsW cols cols2">
     <li>
         <div class="cardSize">
@@ -122,6 +127,9 @@ Ready to drive discussion?
         </div>
     </li>
 </ul>
+
+Feedback
+<p>We'd love to hear your feedback. [Let us know your feedback HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u).</p> 
 
 **IMPORTANT:** Each enterprise will need to evaluate and determine its own requirements, including such things as data handling and compliance needs. Enterprises should use their existing Microsoft 365 investments as they determine appropriate based on their requirements and needs.
 
