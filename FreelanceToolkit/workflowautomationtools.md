@@ -65,3 +65,11 @@ For example, here's a description that you could use to engage a freelancer to h
 > *Looking for an expert Microsoft Flow architect to build high-quality automated business process workflows that connect LOB apps with SharePoint and Outlook. Examples of workflows needed include: Whitelisting and provisioning employees, sending out notifications for task completions and next steps, and updating a Power BI dashboard with the latest data. We will need consultation and implementation services to automate the end-to-end workflow.*
 > 
 > *Specific technical skills desired include: Microsoft Flow, Microsoft PowerApps, and Microsoft SharePoint.*
+
+Contact 
+---------------------
+[Contact us today!](https://www.upwork.com/enterprise/resources/partnership/microsoftpartnership/?utm_campaign=microsoft-toolkit-contact-us&utm_source=microsoft&utm_medium=web&source=web&sourcedetail=microsoft-toolkit-contact-us)
+
+Feedback
+--------------------
+We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)
