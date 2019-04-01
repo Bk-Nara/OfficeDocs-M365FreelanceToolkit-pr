@@ -101,10 +101,6 @@ If you are the author, make sure to publish every edited page. Otherwise, edited
 
 **There are no access controls relevant for deploying your SharePoint Communications Site. For all access controls needed for this toolkit, refer to [Deploy team-wide collaboration](teamwidecollaborationdownload.md).**
 
-Contact 
----------------------
-[Contact us today!](https://www.upwork.com/enterprise/resources/partnership/microsoftpartnership/?utm_campaign=microsoft-toolkit-contact-us&utm_source=microsoft&utm_medium=web&source=web&sourcedetail=microsoft-toolkit-contact-us)
-
 Feedback
 --------------------
 We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)
