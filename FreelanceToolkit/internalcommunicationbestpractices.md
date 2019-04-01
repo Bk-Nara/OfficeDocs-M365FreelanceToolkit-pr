@@ -109,3 +109,7 @@ When establishing and growing our freelance program at Microsoft, here are some 
         </div>
     </li>
 </ul>
+
+Feedback
+--------------------
+We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)

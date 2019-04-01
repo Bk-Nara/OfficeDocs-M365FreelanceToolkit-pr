@@ -27,3 +27,6 @@ The purpose of the Power BI custom dashboard is to provide sample visualizations
 
 More information at [Power BI custom connector](https://github.com/upwork/powerbi-upwork).  
 
+Feedback
+--------------------
+We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)

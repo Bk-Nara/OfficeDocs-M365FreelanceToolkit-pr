@@ -73,3 +73,7 @@ To keep cross-functional, multi-geographical teams moving in the same direction,
         </div>
     </li>
 </ul>
+
+Feedback
+--------------------
+We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)
