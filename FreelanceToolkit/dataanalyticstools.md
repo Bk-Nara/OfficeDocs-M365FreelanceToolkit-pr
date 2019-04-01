@@ -82,3 +82,7 @@ For example, here's a description that you could use to engage a freelancer to h
 > *We will provide the Excel/Azure data, which needs to be converted into a consumable format for management that will help aid business decisions. We will need assistance with logical design, physical design, implementation, testing, and deployment of the end-to-end solution. The Power BI developer should have a firm grasp of BI implementation methodologies and will have had in-depth experience with the Microsoft BI stack (SSIS, SSRS, and SSAS).*
 > 
 > *Specific technical skills desired include: Relational database and SQL language, analytics/OLAP cube development, report development.*
+
+Feedback
+--------------------
+We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)

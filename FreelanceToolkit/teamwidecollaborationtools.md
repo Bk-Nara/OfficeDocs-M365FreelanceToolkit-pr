@@ -75,3 +75,7 @@ The below links are a starting point for using Teams as your one hub for teamwor
 - [Invite people to Microsoft Teams free](https://support.office.com/article/bf6ab877-9d55-493c-a3c2-08dab08b5083)
 - [Differences between Microsoft Teams and Microsoft Teams free](https://support.office.com/article/0b69cf39-eb52-49af-b255-60d46fdf8a9c)
 - [Guest capabilities in Microsoft Teams](https://support.office.com/article/d03fdf5b-1a6e-48e4-8e07-b13e1350ec7b)
+
+Feedback
+--------------------
+We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)

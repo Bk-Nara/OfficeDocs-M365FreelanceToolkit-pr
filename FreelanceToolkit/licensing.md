@@ -30,3 +30,10 @@ The following chart covers the licensing requirements for the toolkit:
 1. Microsoft Teams is not available as a standalone service, therefore a Microsoft 365/Office 365 Enterprise or Office 365 Business Premium subscription is required to deploy the freelance toolkit. External users can be added as a guest in Microsoft Teams, but would require a User Subscription License (USL). 
 2. Power BI can be downloaded as an add-on to an existing Microsoft 365/Office 365 Enterprise or Office 365 Business Premium subscription. The free version of Power BI allows for limited functionality of the toolkit. For full functionality within the freelance toolkit, a Power BI Pro license is required. 
 
+Contact 
+---------------------
+[Contact us today!](https://www.upwork.com/enterprise/resources/partnership/microsoftpartnership/?utm_campaign=microsoft-toolkit-contact-us&utm_source=microsoft&utm_medium=web&source=web&sourcedetail=microsoft-toolkit-contact-us)
+
+Feedback
+--------------------
+We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)

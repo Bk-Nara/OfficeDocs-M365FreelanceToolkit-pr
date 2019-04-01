@@ -136,3 +136,7 @@ Engage a freelancer to help customize your freelance program communication site 
 
 > ### SharePoint consultant/architect needed to customize a communication site
 > *Looking for a SharePoint Online consultant/architect to set up a portal site that hosts employee communications, documents, and calendar events. Site should be built so that we can leverage features, workflows, checklists, and approvals to enable automation.*
+
+Feedback
+--------------------
+We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)
