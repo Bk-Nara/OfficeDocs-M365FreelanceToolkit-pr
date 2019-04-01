@@ -127,6 +127,7 @@ Feedback
 --------------------
 We'd love to hear how we can make the toolkit better. [Let us know your feedback!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUN0k2SVVTWEg0MVIzVFVTTkM5QzRFSlhSQS4u)
 
+Want to know the status of your request? Or what other requests have been made? [Contact us to find out!](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUNDdHSU1YQjdVRlMyQlNCUUhDWVlJTkMwTS4u) 
 
 **IMPORTANT:** Each enterprise will need to evaluate and determine its own requirements, including such things as data handling and compliance needs. Enterprises should use their existing Microsoft 365 investments as they determine appropriate based on their requirements and needs.
 
