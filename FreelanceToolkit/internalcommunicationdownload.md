@@ -40,7 +40,7 @@ Here are current prerequisites for making this solution work in your tenant.
 4.	Choose **Add to your tenant**.
 5.	On the **Provisioning** page, choose **Provision**.
 
-**Note:** If you experience issues logging into the provisioning site, please Google Chrome browser. 
+**Note:** If you experience issues logging into the provisioning site, please use Google Chrome browser. 
 
 It takes about 5 minutes for the provisioning to complete. After is has completed, you can click the site URL on the page to launch the template.
 
