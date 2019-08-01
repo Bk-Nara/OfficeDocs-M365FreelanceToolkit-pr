@@ -30,8 +30,8 @@ The template contains the following structures and assets:
 ## Prerequisites
 Here are current prerequisites for making this solution work in your tenant.
 - You will need to be a tenant administrator to be able to deploy this solution to the target tenant. <br>
-    If needed, you can get free a developer tenant from the Office 365 developer program.
-- Automatic end-to-end provisioning only works with English tenants. 
+    If needed, you can get a free developer tenant from the <a href="https://developer.microsoft.com/en-us/office/dev-program">Office 365 developer program</a>.
+- Automatic end-to-end provisioning currently works only with English language tenants. 
 
 ## Deployment steps
 1.	On the <a href="https://provisioning.sharepointpnp.com/">SharePoint provisioning site</a>, choose **Sign In** and use your tenant admin credentials.
