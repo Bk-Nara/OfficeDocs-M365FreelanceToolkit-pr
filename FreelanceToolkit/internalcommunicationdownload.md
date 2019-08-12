@@ -35,10 +35,8 @@ Here are current prerequisites for making this solution work in your tenant.
 
 ## Deployment steps
 1.	On the <a href="https://provisioning.sharepointpnp.com/">SharePoint provisioning site</a>, choose **Sign In** and use your tenant admin credentials.
-2.	Choose the **Solutions** tab.
-3.	Choose **Microsoft 365 freelance communications site**.
-4.	Choose **Add to your tenant**.
-5.	On the **Provisioning** page, choose **Provision**.
+2.	Choose **Add to your tenant**.
+3.	On the **Provisioning** page, choose **Provision**.
 
 **Note:** If you experience issues logging into the provisioning site, please use Google Chrome browser. 
 
