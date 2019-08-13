@@ -34,7 +34,7 @@ Here are current prerequisites for making this solution work in your tenant.
 - Automatic end-to-end provisioning currently works only with English language tenants. 
 
 ## Deployment steps
-1.	On the <a href="https://provisioning.sharepointpnp.com/" target="_blank">SharePoint provisioning site</a>, choose **Sign In** and use your tenant admin credentials.
+1.	On the <a href="https://provisioning.sharepointpnp.com/home/details?packageId=5fe414b0-9a05-412c-9cb7-a440cf059b21" target="_blank">SharePoint provisioning site</a>, choose **Sign In** and use your tenant admin credentials.
 2.	Choose **Add to your tenant**.
 3.	On the **Provisioning** page, choose **Provision**.
 
