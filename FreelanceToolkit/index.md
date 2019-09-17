@@ -24,7 +24,7 @@ The Microsoft 365 freelance toolkit builds on your existing technology investmen
 > [!VIDEO https://videoplayercdn.osi.office.net/hub/?csid=ux-cms-en-us-msoffice&uuid=RE2IVJd&AutoPlayVideo=false]
 
 
-**Ready to get started?** [Contact us](https://www.upwork.com/enterprise/resources/partnership/microsoftpartnership/?utm_campaign=microsoft-toolkit-contact-us&utm_source=microsoft&utm_medium=web&source=web&sourcedetail=microsoft-toolkit-contact-us)! Or explore the four workloads below.
+**Ready to get started?** [Contact us](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRyFR4rWSfFFLorGIaWbYznpUNDdHSU1YQjdVRlMyQlNCUUhDWVlJTkMwTS4u)! Or explore the four workloads below.
 <ul class="panelContent cardsW cols cols2">
     <li>
         <div class="cardSize">
