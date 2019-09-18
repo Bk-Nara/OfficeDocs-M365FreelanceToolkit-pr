@@ -1,5 +1,5 @@
 # [Microsoft 365 freelance toolkit](index.md)
-## [Contact us] (contact.md)
+## [Contact us](contact.md)
 ## [Licensing](licensing.md)
 
 # [Internal communication](internalcommunicationsection.md)
