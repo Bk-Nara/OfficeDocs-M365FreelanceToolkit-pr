@@ -1,10 +1,11 @@
 # [Microsoft 365 freelance toolkit](index.md)
-## [Contact us] ()
+## [Contact us](contact.md)
 ## [Licensing](licensing.md)
 
 # [Internal communication](internalcommunicationsection.md)
 ## [Tools and templates](internalcommunicationtools.md)
 ## [Best practices](internalcommunicationbestpractices.md)
+## [Deploy](internalcommunicationdownload.md)
 
 # [Team-wide collaboration](teamwidecollaborationsection.md)
 ## [Tools and templates](teamwidecollaborationtools.md)
