@@ -40,7 +40,7 @@ Here are current prerequisites for making this solution work in your tenant.
 
 **Note:** If you experience issues logging into the provisioning site, please use Google Chrome browser. 
 
-It takes about 5 minutes for the provisioning to complete. After is has completed, you can click the site URL on the page to launch the template.
+It takes about 5 minutes for the provisioning to complete. After it has completed, you can click the site URL on the page to launch the template.
 
 
 
